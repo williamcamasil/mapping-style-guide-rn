@@ -18,23 +18,32 @@
     "pod-install": "npx --yes pod-install"
   },
   "dependencies": {
-    "react": "18.2.0",
-    "react-native": "0.71.7"
+    "@callstack/react-theme-provider": "3.0.7",
+    "@types/color": "3.0.3",
+    "color": "4.2.3",
+    "date-fns": "2.29.2",
+    "final-form": "4.20.7",
+    "react-final-form": "6.5.9"
   },
   "devDependencies": {
-    "@tsconfig/react-native": "2.0.2",
-    "@types/jest": "29.2.1",
-    "@types/react": "18.0.24",
-    "@types/react-test-renderer": "18.0.0",
-    "babel-jest": "29.2.1",
+    "@react-native-async-storage/async-storage": "1.17.7",
+    "@react-native-community/datetimepicker": "6.4.2",
+    "@react-native-community/slider": "4.2.4",
+    "@react-native-masked-view/masked-view": "0.2.8",
+    "@types/react": "18.0.38",
     "babel-preset-rn-mapping": "git+ssh://git@github.com-pessoal:williamcamasil/babel-preset-rn-mapping.git#dev",
     "eslint-config-rn-mapping": "git+ssh://git@github.com-pessoal:williamcamasil/eslint-config-rn-mapping.git#dev",
-    "jest": "29.2.1",
     "mapping-context-rn": "git+ssh://git@github.com-pessoal:williamcamasil/mapping-context-rn.git#dev",
     "mapping-tools-rn": "git+ssh://git@github.com-pessoal:williamcamasil/mapping-tools-rn.git#dev",
-    "metro-react-native-babel-preset": "0.73.9",
-    "prettier": "2.4.1",
-    "react-test-renderer": "18.2.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-native": "0.71.7",
+    "react-native-device-info": "9.0.2",
+    "react-native-gesture-handler": "2.9.0",
+    "react-native-safe-area-context": "4.5.1",
+    "react-native-svg": "13.7.0",
+    "react-native-svg-transformer": "1.0.0",
+    "react-native-webview": "11.23.0",
     "typescript": "4.9.5"
   },
   "jest": {
