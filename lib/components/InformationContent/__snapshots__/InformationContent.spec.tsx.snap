@@ -1,0 +1,753 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InformationContent snapshot default 1`] = `
+<RCTScrollView
+  alwaysBounceVertical={false}
+  contentContainerStyle={
+    {
+      "flexGrow": 1,
+    }
+  }
+  showsVerticalScrollIndicator={false}
+>
+  <View>
+    <View
+      pointerEvents="auto"
+      style={
+        {
+          "alignItems": undefined,
+          "backgroundColor": "#FFFFFF",
+          "flex": 1,
+          "flexDirection": undefined,
+          "justifyContent": undefined,
+          "padding": 28,
+          "paddingBottom": undefined,
+          "paddingHorizontal": undefined,
+          "paddingLeft": undefined,
+          "paddingRight": undefined,
+          "paddingTop": undefined,
+          "paddingVertical": undefined,
+        }
+      }
+    >
+      <View
+        pointerEvents="auto"
+        style={
+          {
+            "alignItems": "center",
+            "backgroundColor": "#FFFFFF",
+            "flex": 1,
+            "flexDirection": undefined,
+            "justifyContent": "center",
+            "padding": undefined,
+            "paddingBottom": undefined,
+            "paddingHorizontal": undefined,
+            "paddingLeft": undefined,
+            "paddingRight": undefined,
+            "paddingTop": undefined,
+            "paddingVertical": undefined,
+          }
+        }
+      >
+        <SvgMock />
+        <Text
+          style={
+            {
+              "height": 28,
+              "width": 28,
+            }
+          }
+        />
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#3E4149",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 23,
+              "fontWeight": "bold",
+              "letterSpacing": -0.02,
+              "lineHeight": 28,
+              "textAlign": "center",
+            }
+          }
+          testID="information-content-title"
+        >
+          Title
+        </Text>
+        <Text
+          style={
+            {
+              "height": 12,
+              "width": 12,
+            }
+          }
+        />
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 16,
+              "fontWeight": "normal",
+              "letterSpacing": -0.02,
+              "lineHeight": 22,
+              "textAlign": "center",
+            }
+          }
+          testID="information-content-description"
+        >
+          Description
+        </Text>
+        <Text
+          style={
+            {
+              "height": 28,
+              "width": 28,
+            }
+          }
+        />
+        <View
+          style={
+            {
+              "flexDirection": "row",
+            }
+          }
+        >
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "borderBottomWidth": 1,
+                "borderColor": "#F08A5B",
+                "opacity": 1,
+                "paddingBottom": 8,
+              }
+            }
+            testID="information-content-link-action"
+          >
+            <Text
+              allowFontScaling={false}
+              style={
+                {
+                  "color": "#F08A5B",
+                  "flexShrink": 1,
+                  "fontFamily": "Averta CY",
+                  "fontSize": 14,
+                  "fontWeight": "bold",
+                  "letterSpacing": -0.02,
+                  "lineHeight": 20,
+                }
+              }
+              testID="link-text"
+            >
+              Link action
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={{}}
+        testID="container-button"
+      >
+        <View
+          accessibilityState={
+            {
+              "busy": undefined,
+              "checked": undefined,
+              "disabled": undefined,
+              "expanded": undefined,
+              "selected": undefined,
+            }
+          }
+          accessibilityValue={
+            {
+              "max": undefined,
+              "min": undefined,
+              "now": undefined,
+              "text": undefined,
+            }
+          }
+          accessible={true}
+          collapsable={false}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            {
+              "alignItems": "center",
+              "backgroundColor": "#E95814",
+              "borderRadius": 12,
+              "borderWidth": 0,
+              "display": "flex",
+              "height": 64,
+              "justifyContent": "center",
+              "minWidth": 64,
+              "opacity": 1,
+              "paddingHorizontal": 32,
+            }
+          }
+          testID="information-content-primary-button"
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              {
+                "color": "#FFFFFF",
+                "flexShrink": 1,
+                "fontFamily": "Averta CY",
+                "fontSize": 16,
+                "fontWeight": "bold",
+                "letterSpacing": -0.02,
+                "lineHeight": 19,
+              }
+            }
+            testID="text-with-icon"
+          >
+            Primary Button
+          </Text>
+        </View>
+      </View>
+      <View
+        style={{}}
+        testID="container-button"
+      >
+        <View
+          accessibilityState={
+            {
+              "busy": undefined,
+              "checked": undefined,
+              "disabled": undefined,
+              "expanded": undefined,
+              "selected": undefined,
+            }
+          }
+          accessibilityValue={
+            {
+              "max": undefined,
+              "min": undefined,
+              "now": undefined,
+              "text": undefined,
+            }
+          }
+          accessible={true}
+          collapsable={false}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            {
+              "alignItems": "center",
+              "backgroundColor": "transparent",
+              "borderRadius": 12,
+              "borderWidth": 0,
+              "display": "flex",
+              "height": 64,
+              "justifyContent": "center",
+              "minWidth": 64,
+              "opacity": 1,
+              "paddingHorizontal": 32,
+            }
+          }
+          testID="information-content-secondary-button"
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              {
+                "color": "#A4A7AF",
+                "flexShrink": 1,
+                "fontFamily": "Averta CY",
+                "fontSize": 16,
+                "fontWeight": "bold",
+                "letterSpacing": -0.02,
+                "lineHeight": 19,
+              }
+            }
+            testID="text-with-icon"
+          >
+            Secondary Button
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+</RCTScrollView>
+`;
+
+exports[`InformationContent snapshot only link action 1`] = `
+<RCTScrollView
+  alwaysBounceVertical={false}
+  contentContainerStyle={
+    {
+      "flexGrow": 1,
+    }
+  }
+  showsVerticalScrollIndicator={false}
+>
+  <View>
+    <View
+      pointerEvents="auto"
+      style={
+        {
+          "alignItems": undefined,
+          "backgroundColor": "#FFFFFF",
+          "flex": 1,
+          "flexDirection": undefined,
+          "justifyContent": undefined,
+          "padding": 28,
+          "paddingBottom": undefined,
+          "paddingHorizontal": undefined,
+          "paddingLeft": undefined,
+          "paddingRight": undefined,
+          "paddingTop": undefined,
+          "paddingVertical": undefined,
+        }
+      }
+    >
+      <View
+        pointerEvents="auto"
+        style={
+          {
+            "alignItems": "center",
+            "backgroundColor": "#FFFFFF",
+            "flex": 1,
+            "flexDirection": undefined,
+            "justifyContent": "center",
+            "padding": undefined,
+            "paddingBottom": undefined,
+            "paddingHorizontal": undefined,
+            "paddingLeft": undefined,
+            "paddingRight": undefined,
+            "paddingTop": undefined,
+            "paddingVertical": undefined,
+          }
+        }
+      >
+        <Text
+          style={
+            {
+              "height": 28,
+              "width": 28,
+            }
+          }
+        />
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#3E4149",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 23,
+              "fontWeight": "bold",
+              "letterSpacing": -0.02,
+              "lineHeight": 28,
+              "textAlign": "center",
+            }
+          }
+          testID="information-content-title"
+        >
+          Title
+        </Text>
+        <Text
+          style={
+            {
+              "height": 12,
+              "width": 12,
+            }
+          }
+        />
+        <Text
+          style={
+            {
+              "height": 28,
+              "width": 28,
+            }
+          }
+        />
+        <View
+          style={
+            {
+              "flexDirection": "row",
+            }
+          }
+        >
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "borderBottomWidth": 1,
+                "borderColor": "#F08A5B",
+                "opacity": 1,
+                "paddingBottom": 8,
+              }
+            }
+            testID="information-content-link-action"
+          >
+            <Text
+              allowFontScaling={false}
+              style={
+                {
+                  "color": "#F08A5B",
+                  "flexShrink": 1,
+                  "fontFamily": "Averta CY",
+                  "fontSize": 14,
+                  "fontWeight": "bold",
+                  "letterSpacing": -0.02,
+                  "lineHeight": 20,
+                }
+              }
+              testID="link-text"
+            >
+              Link action
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+</RCTScrollView>
+`;
+
+exports[`InformationContent snapshot only primary button 1`] = `
+<RCTScrollView
+  alwaysBounceVertical={false}
+  contentContainerStyle={
+    {
+      "flexGrow": 1,
+    }
+  }
+  showsVerticalScrollIndicator={false}
+>
+  <View>
+    <View
+      pointerEvents="auto"
+      style={
+        {
+          "alignItems": undefined,
+          "backgroundColor": "#FFFFFF",
+          "flex": 1,
+          "flexDirection": undefined,
+          "justifyContent": undefined,
+          "padding": 28,
+          "paddingBottom": undefined,
+          "paddingHorizontal": undefined,
+          "paddingLeft": undefined,
+          "paddingRight": undefined,
+          "paddingTop": undefined,
+          "paddingVertical": undefined,
+        }
+      }
+    >
+      <View
+        pointerEvents="auto"
+        style={
+          {
+            "alignItems": "center",
+            "backgroundColor": "#FFFFFF",
+            "flex": 1,
+            "flexDirection": undefined,
+            "justifyContent": "center",
+            "padding": undefined,
+            "paddingBottom": undefined,
+            "paddingHorizontal": undefined,
+            "paddingLeft": undefined,
+            "paddingRight": undefined,
+            "paddingTop": undefined,
+            "paddingVertical": undefined,
+          }
+        }
+      >
+        <Text
+          style={
+            {
+              "height": 28,
+              "width": 28,
+            }
+          }
+        />
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#3E4149",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 23,
+              "fontWeight": "bold",
+              "letterSpacing": -0.02,
+              "lineHeight": 28,
+              "textAlign": "center",
+            }
+          }
+          testID="information-content-title"
+        >
+          Title
+        </Text>
+        <Text
+          style={
+            {
+              "height": 12,
+              "width": 12,
+            }
+          }
+        />
+        <Text
+          style={
+            {
+              "height": 28,
+              "width": 28,
+            }
+          }
+        />
+      </View>
+      <View
+        style={{}}
+        testID="container-button"
+      >
+        <View
+          accessibilityState={
+            {
+              "busy": undefined,
+              "checked": undefined,
+              "disabled": undefined,
+              "expanded": undefined,
+              "selected": undefined,
+            }
+          }
+          accessibilityValue={
+            {
+              "max": undefined,
+              "min": undefined,
+              "now": undefined,
+              "text": undefined,
+            }
+          }
+          accessible={true}
+          collapsable={false}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            {
+              "alignItems": "center",
+              "backgroundColor": "#E95814",
+              "borderRadius": 12,
+              "borderWidth": 0,
+              "display": "flex",
+              "height": 64,
+              "justifyContent": "center",
+              "minWidth": 64,
+              "opacity": 1,
+              "paddingHorizontal": 32,
+            }
+          }
+          testID="information-content-primary-button"
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              {
+                "color": "#FFFFFF",
+                "flexShrink": 1,
+                "fontFamily": "Averta CY",
+                "fontSize": 16,
+                "fontWeight": "bold",
+                "letterSpacing": -0.02,
+                "lineHeight": 19,
+              }
+            }
+            testID="text-with-icon"
+          >
+            Primary Button
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+</RCTScrollView>
+`;
+
+exports[`InformationContent snapshot with Children 1`] = `
+<RCTScrollView
+  alwaysBounceVertical={false}
+  contentContainerStyle={
+    {
+      "flexGrow": 1,
+    }
+  }
+  showsVerticalScrollIndicator={false}
+>
+  <View>
+    <View
+      pointerEvents="auto"
+      style={
+        {
+          "alignItems": undefined,
+          "backgroundColor": "#FFFFFF",
+          "flex": 1,
+          "flexDirection": undefined,
+          "justifyContent": undefined,
+          "padding": 28,
+          "paddingBottom": undefined,
+          "paddingHorizontal": undefined,
+          "paddingLeft": undefined,
+          "paddingRight": undefined,
+          "paddingTop": undefined,
+          "paddingVertical": undefined,
+        }
+      }
+    >
+      <View
+        pointerEvents="auto"
+        style={
+          {
+            "alignItems": "center",
+            "backgroundColor": "#FFFFFF",
+            "flex": 1,
+            "flexDirection": undefined,
+            "justifyContent": "center",
+            "padding": undefined,
+            "paddingBottom": undefined,
+            "paddingHorizontal": undefined,
+            "paddingLeft": undefined,
+            "paddingRight": undefined,
+            "paddingTop": undefined,
+            "paddingVertical": undefined,
+          }
+        }
+      >
+        <Text
+          style={
+            {
+              "height": 28,
+              "width": 28,
+            }
+          }
+        />
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#3E4149",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 23,
+              "fontWeight": "bold",
+              "letterSpacing": -0.02,
+              "lineHeight": 28,
+              "textAlign": "center",
+            }
+          }
+          testID="information-content-title"
+        >
+          Title
+        </Text>
+        <Text
+          style={
+            {
+              "height": 12,
+              "width": 12,
+            }
+          }
+        />
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 16,
+              "fontWeight": "normal",
+              "letterSpacing": -0.02,
+              "lineHeight": 22,
+            }
+          }
+        >
+          Mock children
+        </Text>
+        <Text
+          style={
+            {
+              "height": 28,
+              "width": 28,
+            }
+          }
+        />
+      </View>
+    </View>
+  </View>
+</RCTScrollView>
+`;

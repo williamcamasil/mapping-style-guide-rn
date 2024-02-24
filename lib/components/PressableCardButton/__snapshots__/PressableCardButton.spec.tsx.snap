@@ -1,0 +1,333 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PressableCardButton snapshots default copy button 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "backgroundColor": "#FEF6F3",
+      "borderColor": "transparent",
+      "borderRadius": 12,
+      "borderWidth": 1,
+      "flexDirection": "row",
+      "height": 120,
+      "opacity": 1,
+      "padding": 16,
+      "width": 135,
+    }
+  }
+>
+  <View
+    style={
+      {
+        "flex": 1,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "flex": 1,
+          "justifyContent": "space-between",
+        }
+      }
+      testID="card-icon-view-content"
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flexDirection": "row",
+          }
+        }
+      >
+        <RNSVGSvgView
+          align="xMidYMid"
+          bbHeight="24"
+          bbWidth="24"
+          fill="none"
+          focusable={false}
+          height={24}
+          meetOrSlice={0}
+          minX={0}
+          minY={0}
+          style={
+            [
+              {
+                "backgroundColor": "transparent",
+                "borderWidth": 0,
+              },
+              {
+                "fontFamily": "Averta CY",
+                "fontSize": 13,
+                "fontWeight": "bold",
+                "marginRight": 12,
+              },
+              {
+                "flex": 0,
+                "height": 24,
+                "width": 24,
+              },
+            ]
+          }
+          vbHeight={24}
+          vbWidth={24}
+          width={24}
+        >
+          <RNSVGGroup
+            fill={null}
+            font={
+              {
+                "fontFamily": "Averta CY",
+                "fontSize": "13",
+                "fontWeight": "bold",
+              }
+            }
+            propList={
+              [
+                "fill",
+              ]
+            }
+          >
+            <RNSVGPath
+              d="M5 16h-.556A1.445 1.445 0 0 1 3 14.556V4.444C3 3.647 3.647 3 4.444 3h10.111C15.353 3 16 3.647 16 4.444V5m3.556 16H9.444A1.445 1.445 0 0 1 8 19.556V9.444C8 8.647 8.647 8 9.444 8h10.111C20.353 8 21 8.647 21 9.444v10.111c0 .798-.647 1.445-1.444 1.445Z"
+              fill={
+                {
+                  "payload": 4278190080,
+                  "type": 0,
+                }
+              }
+              propList={
+                [
+                  "stroke",
+                  "strokeWidth",
+                  "strokeLinecap",
+                  "strokeLinejoin",
+                ]
+              }
+              stroke={
+                {
+                  "payload": 4293482516,
+                  "type": 0,
+                }
+              }
+              strokeLinecap={1}
+              strokeLinejoin={1}
+              strokeWidth="1.8"
+            />
+          </RNSVGGroup>
+        </RNSVGSvgView>
+      </View>
+      <Text
+        allowFontScaling={false}
+        style={
+          {
+            "color": "#E95814",
+            "flexShrink": 1,
+            "fontFamily": "Averta CY",
+            "fontSize": 14,
+            "fontWeight": "bold",
+            "letterSpacing": -0.02,
+            "lineHeight": 17,
+          }
+        }
+      >
+        Copiar código
+de barras
+      </Text>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`PressableCardButton snapshots default download button 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "backgroundColor": "#FEF6F3",
+      "borderColor": "transparent",
+      "borderRadius": 12,
+      "borderWidth": 1,
+      "flexDirection": "row",
+      "height": 120,
+      "opacity": 1,
+      "padding": 16,
+      "width": 135,
+    }
+  }
+>
+  <View
+    style={
+      {
+        "flex": 1,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "flex": 1,
+          "justifyContent": "space-between",
+        }
+      }
+      testID="card-icon-view-content"
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flexDirection": "row",
+          }
+        }
+      >
+        <RNSVGSvgView
+          align="xMidYMid"
+          bbHeight="24"
+          bbWidth="24"
+          fill="none"
+          focusable={false}
+          height={24}
+          meetOrSlice={0}
+          minX={0}
+          minY={0}
+          style={
+            [
+              {
+                "backgroundColor": "transparent",
+                "borderWidth": 0,
+              },
+              {
+                "fontFamily": "Averta CY",
+                "fontSize": 13,
+                "fontWeight": "bold",
+                "marginRight": 12,
+              },
+              {
+                "flex": 0,
+                "height": 24,
+                "width": 24,
+              },
+            ]
+          }
+          vbHeight={24}
+          vbWidth={24}
+          width={24}
+        >
+          <RNSVGGroup
+            fill={null}
+            font={
+              {
+                "fontFamily": "Averta CY",
+                "fontSize": "13",
+                "fontWeight": "bold",
+              }
+            }
+            propList={
+              [
+                "fill",
+              ]
+            }
+          >
+            <RNSVGPath
+              d="M5 16h-.556A1.445 1.445 0 0 1 3 14.556V4.444C3 3.647 3.647 3 4.444 3h10.111C15.353 3 16 3.647 16 4.444V5m3.556 16H9.444A1.445 1.445 0 0 1 8 19.556V9.444C8 8.647 8.647 8 9.444 8h10.111C20.353 8 21 8.647 21 9.444v10.111c0 .798-.647 1.445-1.444 1.445Z"
+              fill={
+                {
+                  "payload": 4278190080,
+                  "type": 0,
+                }
+              }
+              propList={
+                [
+                  "stroke",
+                  "strokeWidth",
+                  "strokeLinecap",
+                  "strokeLinejoin",
+                ]
+              }
+              stroke={
+                {
+                  "payload": 4293482516,
+                  "type": 0,
+                }
+              }
+              strokeLinecap={1}
+              strokeLinejoin={1}
+              strokeWidth="1.8"
+            />
+          </RNSVGGroup>
+        </RNSVGSvgView>
+      </View>
+      <Text
+        allowFontScaling={false}
+        style={
+          {
+            "color": "#E95814",
+            "flexShrink": 1,
+            "fontFamily": "Averta CY",
+            "fontSize": 14,
+            "fontWeight": "bold",
+            "letterSpacing": -0.02,
+            "lineHeight": 17,
+          }
+        }
+      >
+        Baixar
+boleto
+      </Text>
+    </View>
+  </View>
+</View>
+`;

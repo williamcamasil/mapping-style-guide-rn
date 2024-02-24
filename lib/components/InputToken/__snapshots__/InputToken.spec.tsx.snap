@@ -1,0 +1,326 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`tests with InputToken should onFocus on InputToken 1`] = `[Function]`;
+
+exports[`tests with InputToken should remove text indicator after removing focus from input 1`] = `[Function]`;
+
+exports[`tests with InputToken should save InputToken snapshot 1`] = `
+<View>
+  <TextInput
+    caretHidden={true}
+    keyboardType="numeric"
+    maxLength={6}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    secureTextEntry={true}
+    selection={
+      {
+        "end": 0,
+        "start": 0,
+      }
+    }
+    style={
+      {
+        "height": 64,
+        "opacity": 0,
+      }
+    }
+    testID="rn-text-input"
+    value=""
+  />
+  <View
+    pointerEvents="box-none"
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+      }
+    }
+  >
+    <View
+      pointerEvents="box-none"
+      style={
+        {
+          "flexDirection": "row",
+        }
+      }
+    >
+      <View
+        pointerEvents="none"
+        style={
+          {
+            "alignItems": "center",
+            "borderColor": "#E1E2E4",
+            "borderRadius": 12,
+            "borderWidth": 1,
+            "height": 64,
+            "paddingTop": 16,
+            "width": 44,
+          }
+        }
+        testID="text-token-touchable-0"
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 19,
+              "fontWeight": "500",
+              "letterSpacing": -0.02,
+              "lineHeight": 27,
+              "textAlign": "center",
+            }
+          }
+        />
+      </View>
+      <Text
+        style={
+          {
+            "height": 8,
+            "width": 8,
+          }
+        }
+      />
+    </View>
+    <View
+      pointerEvents="box-none"
+      style={
+        {
+          "flexDirection": "row",
+        }
+      }
+    >
+      <View
+        pointerEvents="none"
+        style={
+          {
+            "alignItems": "center",
+            "borderColor": "#E1E2E4",
+            "borderRadius": 12,
+            "borderWidth": 1,
+            "height": 64,
+            "paddingTop": 16,
+            "width": 44,
+          }
+        }
+        testID="text-token-touchable-1"
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 19,
+              "fontWeight": "500",
+              "letterSpacing": -0.02,
+              "lineHeight": 27,
+              "textAlign": "center",
+            }
+          }
+        />
+      </View>
+      <Text
+        style={
+          {
+            "height": 8,
+            "width": 8,
+          }
+        }
+      />
+    </View>
+    <View
+      pointerEvents="box-none"
+      style={
+        {
+          "flexDirection": "row",
+        }
+      }
+    >
+      <View
+        pointerEvents="none"
+        style={
+          {
+            "alignItems": "center",
+            "borderColor": "#E1E2E4",
+            "borderRadius": 12,
+            "borderWidth": 1,
+            "height": 64,
+            "paddingTop": 16,
+            "width": 44,
+          }
+        }
+        testID="text-token-touchable-2"
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 19,
+              "fontWeight": "500",
+              "letterSpacing": -0.02,
+              "lineHeight": 27,
+              "textAlign": "center",
+            }
+          }
+        />
+      </View>
+      <Text
+        style={
+          {
+            "height": 8,
+            "width": 8,
+          }
+        }
+      />
+    </View>
+    <View
+      pointerEvents="box-none"
+      style={
+        {
+          "flexDirection": "row",
+        }
+      }
+    >
+      <View
+        pointerEvents="none"
+        style={
+          {
+            "alignItems": "center",
+            "borderColor": "#E1E2E4",
+            "borderRadius": 12,
+            "borderWidth": 1,
+            "height": 64,
+            "paddingTop": 16,
+            "width": 44,
+          }
+        }
+        testID="text-token-touchable-3"
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 19,
+              "fontWeight": "500",
+              "letterSpacing": -0.02,
+              "lineHeight": 27,
+              "textAlign": "center",
+            }
+          }
+        />
+      </View>
+      <Text
+        style={
+          {
+            "height": 8,
+            "width": 8,
+          }
+        }
+      />
+    </View>
+    <View
+      pointerEvents="box-none"
+      style={
+        {
+          "flexDirection": "row",
+        }
+      }
+    >
+      <View
+        pointerEvents="none"
+        style={
+          {
+            "alignItems": "center",
+            "borderColor": "#E1E2E4",
+            "borderRadius": 12,
+            "borderWidth": 1,
+            "height": 64,
+            "paddingTop": 16,
+            "width": 44,
+          }
+        }
+        testID="text-token-touchable-4"
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 19,
+              "fontWeight": "500",
+              "letterSpacing": -0.02,
+              "lineHeight": 27,
+              "textAlign": "center",
+            }
+          }
+        />
+      </View>
+      <Text
+        style={
+          {
+            "height": 8,
+            "width": 8,
+          }
+        }
+      />
+    </View>
+    <View
+      pointerEvents="box-none"
+      style={
+        {
+          "flexDirection": "row",
+        }
+      }
+    >
+      <View
+        pointerEvents="none"
+        style={
+          {
+            "alignItems": "center",
+            "borderColor": "#E1E2E4",
+            "borderRadius": 12,
+            "borderWidth": 1,
+            "height": 64,
+            "paddingTop": 16,
+            "width": 44,
+          }
+        }
+        testID="text-token-touchable-5"
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 19,
+              "fontWeight": "500",
+              "letterSpacing": -0.02,
+              "lineHeight": 27,
+              "textAlign": "center",
+            }
+          }
+        />
+      </View>
+    </View>
+  </View>
+</View>
+`;

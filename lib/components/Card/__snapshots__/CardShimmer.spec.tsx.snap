@@ -1,0 +1,219 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot Should loading active with container and size equals to big 1`] = `
+<View
+  onLayout={[Function]}
+  testID="shimmer-id"
+>
+  <View
+    style={
+      [
+        {
+          "height": 15,
+          "width": 0,
+        },
+        {
+          "overflow": "hidden",
+        },
+        {
+          "borderRadius": 12,
+          "flexDirection": "row",
+          "height": undefined,
+          "minHeight": 128,
+          "padding": 0,
+        },
+        undefined,
+      ]
+    }
+  >
+    <View
+      style={
+        [
+          {
+            "height": 0,
+            "opacity": 0,
+            "width": 0,
+          },
+          undefined,
+        ]
+      }
+    />
+    <View
+      style={
+        {
+          "backgroundColor": "#E1E2E4",
+          "flex": 1,
+        }
+      }
+    >
+      <View
+        collapsable={false}
+        style={
+          {
+            "flex": 1,
+            "transform": [
+              {
+                "translateX": -0,
+              },
+            ],
+          }
+        }
+      >
+        <View
+          colors={
+            [
+              "#E1E2E4",
+              "#F0F0F2",
+              "#E1E2E4",
+            ]
+          }
+          end={
+            {
+              "x": 2,
+              "y": 0.5,
+            }
+          }
+          locations={
+            [
+              0.3,
+              0.5,
+              0.7,
+            ]
+          }
+          start={
+            {
+              "x": -1,
+              "y": 0.5,
+            }
+          }
+          style={
+            {
+              "flex": 1,
+              "width": 0,
+            }
+          }
+        />
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`snapshot Should loading active with container and size equals to small 1`] = `
+<View
+  pointerEvents="auto"
+  style={
+    {
+      "alignItems": undefined,
+      "backgroundColor": "#FFFFFF",
+      "flex": 1,
+      "flexDirection": undefined,
+      "justifyContent": undefined,
+      "padding": 28,
+      "paddingBottom": undefined,
+      "paddingHorizontal": undefined,
+      "paddingLeft": undefined,
+      "paddingRight": undefined,
+      "paddingTop": undefined,
+      "paddingVertical": undefined,
+    }
+  }
+>
+  <View
+    onLayout={[Function]}
+    testID="shimmer-id"
+  >
+    <View
+      style={
+        [
+          {
+            "height": 15,
+            "width": 0,
+          },
+          {
+            "overflow": "hidden",
+          },
+          {
+            "borderRadius": 12,
+            "flexDirection": "row",
+            "height": 120,
+            "padding": 0,
+            "width": 135,
+          },
+          undefined,
+        ]
+      }
+    >
+      <View
+        style={
+          [
+            {
+              "height": 0,
+              "opacity": 0,
+              "width": 0,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        style={
+          {
+            "backgroundColor": "#E1E2E4",
+            "flex": 1,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          style={
+            {
+              "flex": 1,
+              "transform": [
+                {
+                  "translateX": -0,
+                },
+              ],
+            }
+          }
+        >
+          <View
+            colors={
+              [
+                "#E1E2E4",
+                "#F0F0F2",
+                "#E1E2E4",
+              ]
+            }
+            end={
+              {
+                "x": 2,
+                "y": 0.5,
+              }
+            }
+            locations={
+              [
+                0.3,
+                0.5,
+                0.7,
+              ]
+            }
+            start={
+              {
+                "x": -1,
+                "y": 0.5,
+              }
+            }
+            style={
+              {
+                "flex": 1,
+                "width": 0,
+              }
+            }
+          />
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;

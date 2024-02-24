@@ -1,0 +1,184 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Switch snapshot form 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  forwardedRef={[Function]}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "backgroundColor": "rgba(225, 226, 228, 1)",
+      "borderRadius": 24,
+      "height": 28,
+      "opacity": 1,
+      "padding": 2,
+      "width": 48,
+    }
+  }
+>
+  <View
+    collapsable={false}
+    style={
+      {
+        "backgroundColor": "#FFFFFF",
+        "borderRadius": 12,
+        "height": 24,
+        "transform": [
+          {
+            "translateX": 0,
+          },
+        ],
+        "width": 24,
+      }
+    }
+    testID="switch-ellipse-view"
+  />
+</View>
+`;
+
+exports[`Switch snapshot switch false 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  forwardedRef={[Function]}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "backgroundColor": "rgba(225, 226, 228, 1)",
+      "borderRadius": 24,
+      "height": 28,
+      "opacity": 1,
+      "padding": 2,
+      "width": 48,
+    }
+  }
+>
+  <View
+    collapsable={false}
+    style={
+      {
+        "backgroundColor": "#FFFFFF",
+        "borderRadius": 12,
+        "height": 24,
+        "transform": [
+          {
+            "translateX": 0,
+          },
+        ],
+        "width": 24,
+      }
+    }
+    testID="switch-ellipse-view"
+  />
+</View>
+`;
+
+exports[`Switch snapshot switch true 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  forwardedRef={[Function]}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "backgroundColor": "rgba(233, 88, 20, 1)",
+      "borderRadius": 24,
+      "height": 28,
+      "opacity": 1,
+      "padding": 2,
+      "width": 48,
+    }
+  }
+>
+  <View
+    collapsable={false}
+    style={
+      {
+        "backgroundColor": "#FFFFFF",
+        "borderRadius": 12,
+        "height": 24,
+        "transform": [
+          {
+            "translateX": 20,
+          },
+        ],
+        "width": 24,
+      }
+    }
+    testID="switch-ellipse-view"
+  />
+</View>
+`;

@@ -1,0 +1,6259 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RadioGroup default state with selected item Should render the defaultSecondary variant 1`] = `
+<View
+  style={
+    {
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+      "marginHorizontal": -8,
+    }
+  }
+  testID="radio-group"
+>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": true,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "marginBottom": 16,
+        "marginHorizontal": 8,
+        "opacity": 1,
+        "width": undefined,
+      }
+    }
+    testID="radio-item-0"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 0,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="11"
+          stroke={
+            {
+              "payload": 4283201216,
+              "type": 0,
+            }
+          }
+          strokeWidth="1"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#4C76C0",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Brasil
+    </Text>
+  </View>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": false,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "marginBottom": 16,
+        "marginHorizontal": 8,
+        "opacity": 1,
+        "width": undefined,
+      }
+    }
+    testID="radio-item-1"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 4293482516,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="11"
+          stroke={
+            {
+              "payload": 4280570793,
+              "type": 0,
+            }
+          }
+          strokeWidth="2"
+        />
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 4293482516,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+            ]
+          }
+          r="9"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#FFFFFF",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Outro
+    </Text>
+  </View>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": false,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "marginBottom": 16,
+        "marginHorizontal": 8,
+        "opacity": 1,
+        "width": undefined,
+      }
+    }
+    testID="radio-item-2"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 4279189913,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="11"
+          stroke={
+            {
+              "payload": 4293482516,
+              "type": 0,
+            }
+          }
+          strokeWidth="1"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#C6D3EA",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Outros
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`RadioGroup default state with selected item Should render the primaryDefault variant 1`] = `
+<View
+  style={
+    {
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+      "marginHorizontal": -8,
+    }
+  }
+  testID="radio-group"
+>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": true,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "marginBottom": 16,
+        "marginHorizontal": 8,
+        "opacity": 1,
+        "width": undefined,
+      }
+    }
+    testID="radio-item-0"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 0,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="11"
+          stroke={
+            {
+              "payload": 4293980402,
+              "type": 0,
+            }
+          }
+          strokeWidth="1"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#E1E2E4",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Brasil
+    </Text>
+  </View>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": false,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "marginBottom": 16,
+        "marginHorizontal": 8,
+        "opacity": 1,
+        "width": undefined,
+      }
+    }
+    testID="radio-item-1"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 4294967295,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="11"
+          stroke={
+            {
+              "payload": 4293980402,
+              "type": 0,
+            }
+          }
+          strokeWidth="2"
+        />
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 4293482516,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+            ]
+          }
+          r="9"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#676D79",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Outro
+    </Text>
+  </View>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": false,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "marginBottom": 16,
+        "marginHorizontal": 8,
+        "opacity": 1,
+        "width": undefined,
+      }
+    }
+    testID="radio-item-2"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 4294440952,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="11"
+          stroke={
+            {
+              "payload": 4293482516,
+              "type": 0,
+            }
+          }
+          strokeWidth="1"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#676D79",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Outros
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`RadioGroup default state with selected item Should render the shapedPrimary variant 1`] = `
+<View
+  style={
+    {
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+      "marginHorizontal": -8,
+    }
+  }
+  testID="radio-group"
+>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": true,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "borderColor": "#F7F7F8",
+        "borderRadius": 12,
+        "borderWidth": 1,
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "marginBottom": 16,
+        "marginHorizontal": 8,
+        "opacity": 1,
+        "padding": 24,
+        "width": undefined,
+      }
+    }
+    testID="radio-item-0"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 0,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="11"
+          stroke={
+            {
+              "payload": 4293980402,
+              "type": 0,
+            }
+          }
+          strokeWidth="1"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#E1E2E4",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Brasil
+    </Text>
+  </View>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": false,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "borderColor": "#F0F0F2",
+        "borderRadius": 12,
+        "borderWidth": 1,
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "marginBottom": 16,
+        "marginHorizontal": 8,
+        "opacity": 1,
+        "padding": 24,
+        "width": undefined,
+      }
+    }
+    testID="radio-item-1"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 4294967295,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="11"
+          stroke={
+            {
+              "payload": 4293980402,
+              "type": 0,
+            }
+          }
+          strokeWidth="2"
+        />
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 4293482516,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+            ]
+          }
+          r="9"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#676D79",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Outro
+    </Text>
+  </View>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": false,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "borderColor": "#F0F0F2",
+        "borderRadius": 12,
+        "borderWidth": 1,
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "marginBottom": 16,
+        "marginHorizontal": 8,
+        "opacity": 1,
+        "padding": 24,
+        "width": undefined,
+      }
+    }
+    testID="radio-item-2"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 4294440952,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="11"
+          stroke={
+            {
+              "payload": 4293482516,
+              "type": 0,
+            }
+          }
+          strokeWidth="1"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#676D79",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Outros
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`RadioGroup disabled and error state with selected item Should render the defaultSecondary variant 1`] = `
+<View
+  style={
+    {
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+      "marginHorizontal": -8,
+    }
+  }
+  testID="radio-group"
+>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": true,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "marginBottom": 16,
+        "marginHorizontal": 8,
+        "opacity": 1,
+        "width": undefined,
+      }
+    }
+    testID="radio-item-0"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 0,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="11"
+          stroke={
+            {
+              "payload": 4283201216,
+              "type": 0,
+            }
+          }
+          strokeWidth="1"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#4C76C0",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Brasil
+    </Text>
+  </View>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": true,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "marginBottom": 16,
+        "marginHorizontal": 8,
+        "opacity": 1,
+        "width": undefined,
+      }
+    }
+    testID="radio-item-1"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 0,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="11"
+          stroke={
+            {
+              "payload": 4283201216,
+              "type": 0,
+            }
+          }
+          strokeWidth="1"
+        />
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 0,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+            ]
+          }
+          r="9"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#4C76C0",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Outro
+    </Text>
+  </View>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": true,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "marginBottom": 16,
+        "marginHorizontal": 8,
+        "opacity": 1,
+        "width": undefined,
+      }
+    }
+    testID="radio-item-2"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 0,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="11"
+          stroke={
+            {
+              "payload": 4283201216,
+              "type": 0,
+            }
+          }
+          strokeWidth="1"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#4C76C0",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Outros
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`RadioGroup disabled and error state with selected item Should render the primaryDefault variant 1`] = `
+<View
+  style={
+    {
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+      "marginHorizontal": -8,
+    }
+  }
+  testID="radio-group"
+>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": true,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "marginBottom": 16,
+        "marginHorizontal": 8,
+        "opacity": 1,
+        "width": undefined,
+      }
+    }
+    testID="radio-item-0"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 0,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="11"
+          stroke={
+            {
+              "payload": 4293980402,
+              "type": 0,
+            }
+          }
+          strokeWidth="1"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#E1E2E4",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Brasil
+    </Text>
+  </View>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": true,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "marginBottom": 16,
+        "marginHorizontal": 8,
+        "opacity": 1,
+        "width": undefined,
+      }
+    }
+    testID="radio-item-1"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 0,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="11"
+          stroke={
+            {
+              "payload": 4293980402,
+              "type": 0,
+            }
+          }
+          strokeWidth="1"
+        />
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 0,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+            ]
+          }
+          r="9"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#E1E2E4",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Outro
+    </Text>
+  </View>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": true,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "marginBottom": 16,
+        "marginHorizontal": 8,
+        "opacity": 1,
+        "width": undefined,
+      }
+    }
+    testID="radio-item-2"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 0,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="11"
+          stroke={
+            {
+              "payload": 4293980402,
+              "type": 0,
+            }
+          }
+          strokeWidth="1"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#E1E2E4",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Outros
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`RadioGroup disabled and error state with selected item Should render the shapedPrimary variant 1`] = `
+<View
+  style={
+    {
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+      "marginHorizontal": -8,
+    }
+  }
+  testID="radio-group"
+>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": true,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "borderColor": "#F7F7F8",
+        "borderRadius": 12,
+        "borderWidth": 1,
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "marginBottom": 16,
+        "marginHorizontal": 8,
+        "opacity": 1,
+        "padding": 24,
+        "width": undefined,
+      }
+    }
+    testID="radio-item-0"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 0,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="11"
+          stroke={
+            {
+              "payload": 4293980402,
+              "type": 0,
+            }
+          }
+          strokeWidth="1"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#E1E2E4",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Brasil
+    </Text>
+  </View>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": true,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "borderColor": "#F7F7F8",
+        "borderRadius": 12,
+        "borderWidth": 1,
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "marginBottom": 16,
+        "marginHorizontal": 8,
+        "opacity": 1,
+        "padding": 24,
+        "width": undefined,
+      }
+    }
+    testID="radio-item-1"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 0,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="11"
+          stroke={
+            {
+              "payload": 4293980402,
+              "type": 0,
+            }
+          }
+          strokeWidth="1"
+        />
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 0,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+            ]
+          }
+          r="9"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#E1E2E4",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Outro
+    </Text>
+  </View>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": true,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "borderColor": "#F7F7F8",
+        "borderRadius": 12,
+        "borderWidth": 1,
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "marginBottom": 16,
+        "marginHorizontal": 8,
+        "opacity": 1,
+        "padding": 24,
+        "width": undefined,
+      }
+    }
+    testID="radio-item-2"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 0,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="11"
+          stroke={
+            {
+              "payload": 4293980402,
+              "type": 0,
+            }
+          }
+          strokeWidth="1"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#E1E2E4",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Outros
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`RadioGroup disabled state with selected item Should render the defaultSecondary variant 1`] = `
+<View
+  style={
+    {
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+      "marginHorizontal": -8,
+    }
+  }
+  testID="radio-group"
+>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": true,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "marginBottom": 16,
+        "marginHorizontal": 8,
+        "opacity": 1,
+        "width": undefined,
+      }
+    }
+    testID="radio-item-0"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 0,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="11"
+          stroke={
+            {
+              "payload": 4283201216,
+              "type": 0,
+            }
+          }
+          strokeWidth="1"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#4C76C0",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Brasil
+    </Text>
+  </View>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": true,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "marginBottom": 16,
+        "marginHorizontal": 8,
+        "opacity": 1,
+        "width": undefined,
+      }
+    }
+    testID="radio-item-1"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 0,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="11"
+          stroke={
+            {
+              "payload": 4283201216,
+              "type": 0,
+            }
+          }
+          strokeWidth="1"
+        />
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 0,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+            ]
+          }
+          r="9"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#4C76C0",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Outro
+    </Text>
+  </View>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": true,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "marginBottom": 16,
+        "marginHorizontal": 8,
+        "opacity": 1,
+        "width": undefined,
+      }
+    }
+    testID="radio-item-2"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 0,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="11"
+          stroke={
+            {
+              "payload": 4283201216,
+              "type": 0,
+            }
+          }
+          strokeWidth="1"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#4C76C0",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Outros
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`RadioGroup disabled state with selected item Should render the primaryDefault variant 1`] = `
+<View
+  style={
+    {
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+      "marginHorizontal": -8,
+    }
+  }
+  testID="radio-group"
+>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": true,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "marginBottom": 16,
+        "marginHorizontal": 8,
+        "opacity": 1,
+        "width": undefined,
+      }
+    }
+    testID="radio-item-0"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 0,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="11"
+          stroke={
+            {
+              "payload": 4293980402,
+              "type": 0,
+            }
+          }
+          strokeWidth="1"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#E1E2E4",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Brasil
+    </Text>
+  </View>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": true,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "marginBottom": 16,
+        "marginHorizontal": 8,
+        "opacity": 1,
+        "width": undefined,
+      }
+    }
+    testID="radio-item-1"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 0,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="11"
+          stroke={
+            {
+              "payload": 4293980402,
+              "type": 0,
+            }
+          }
+          strokeWidth="1"
+        />
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 0,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+            ]
+          }
+          r="9"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#E1E2E4",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Outro
+    </Text>
+  </View>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": true,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "marginBottom": 16,
+        "marginHorizontal": 8,
+        "opacity": 1,
+        "width": undefined,
+      }
+    }
+    testID="radio-item-2"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 0,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="11"
+          stroke={
+            {
+              "payload": 4293980402,
+              "type": 0,
+            }
+          }
+          strokeWidth="1"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#E1E2E4",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Outros
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`RadioGroup disabled state with selected item Should render the shapedPrimary variant 1`] = `
+<View
+  style={
+    {
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+      "marginHorizontal": -8,
+    }
+  }
+  testID="radio-group"
+>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": true,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "borderColor": "#F7F7F8",
+        "borderRadius": 12,
+        "borderWidth": 1,
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "marginBottom": 16,
+        "marginHorizontal": 8,
+        "opacity": 1,
+        "padding": 24,
+        "width": undefined,
+      }
+    }
+    testID="radio-item-0"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 0,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="11"
+          stroke={
+            {
+              "payload": 4293980402,
+              "type": 0,
+            }
+          }
+          strokeWidth="1"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#E1E2E4",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Brasil
+    </Text>
+  </View>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": true,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "borderColor": "#F7F7F8",
+        "borderRadius": 12,
+        "borderWidth": 1,
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "marginBottom": 16,
+        "marginHorizontal": 8,
+        "opacity": 1,
+        "padding": 24,
+        "width": undefined,
+      }
+    }
+    testID="radio-item-1"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 0,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="11"
+          stroke={
+            {
+              "payload": 4293980402,
+              "type": 0,
+            }
+          }
+          strokeWidth="1"
+        />
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 0,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+            ]
+          }
+          r="9"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#E1E2E4",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Outro
+    </Text>
+  </View>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": true,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "borderColor": "#F7F7F8",
+        "borderRadius": 12,
+        "borderWidth": 1,
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "marginBottom": 16,
+        "marginHorizontal": 8,
+        "opacity": 1,
+        "padding": 24,
+        "width": undefined,
+      }
+    }
+    testID="radio-item-2"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 0,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="11"
+          stroke={
+            {
+              "payload": 4293980402,
+              "type": 0,
+            }
+          }
+          strokeWidth="1"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#E1E2E4",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Outros
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`RadioGroup error state with selected item Should render the defaultSecondary variant 1`] = `
+<View
+  style={
+    {
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+      "marginHorizontal": -8,
+    }
+  }
+  testID="radio-group"
+>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": true,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "marginBottom": 16,
+        "marginHorizontal": 8,
+        "opacity": 1,
+        "width": undefined,
+      }
+    }
+    testID="radio-item-0"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 0,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="11"
+          stroke={
+            {
+              "payload": 4283201216,
+              "type": 0,
+            }
+          }
+          strokeWidth="1"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#4C76C0",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Brasil
+    </Text>
+  </View>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": false,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "marginBottom": 16,
+        "marginHorizontal": 8,
+        "opacity": 1,
+        "width": undefined,
+      }
+    }
+    testID="radio-item-1"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 0,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="11"
+          stroke={
+            {
+              "payload": 4294938248,
+              "type": 0,
+            }
+          }
+          strokeWidth="1"
+        />
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 4294938248,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+            ]
+          }
+          r="9"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#FF8E88",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Outro
+    </Text>
+  </View>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": false,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "marginBottom": 16,
+        "marginHorizontal": 8,
+        "opacity": 1,
+        "width": undefined,
+      }
+    }
+    testID="radio-item-2"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 0,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="11"
+          stroke={
+            {
+              "payload": 4294938248,
+              "type": 0,
+            }
+          }
+          strokeWidth="1"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#FF8E88",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Outros
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`RadioGroup error state with selected item Should render the primaryDefault variant 1`] = `
+<View
+  style={
+    {
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+      "marginHorizontal": -8,
+    }
+  }
+  testID="radio-group"
+>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": true,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "marginBottom": 16,
+        "marginHorizontal": 8,
+        "opacity": 1,
+        "width": undefined,
+      }
+    }
+    testID="radio-item-0"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 0,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="11"
+          stroke={
+            {
+              "payload": 4293980402,
+              "type": 0,
+            }
+          }
+          strokeWidth="1"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#E1E2E4",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Brasil
+    </Text>
+  </View>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": false,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "marginBottom": 16,
+        "marginHorizontal": 8,
+        "opacity": 1,
+        "width": undefined,
+      }
+    }
+    testID="radio-item-1"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 0,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="11"
+          stroke={
+            {
+              "payload": 4293212464,
+              "type": 0,
+            }
+          }
+          strokeWidth="1"
+        />
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 4293212464,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+            ]
+          }
+          r="9"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#E53930",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Outro
+    </Text>
+  </View>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": false,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "marginBottom": 16,
+        "marginHorizontal": 8,
+        "opacity": 1,
+        "width": undefined,
+      }
+    }
+    testID="radio-item-2"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 0,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="11"
+          stroke={
+            {
+              "payload": 4293212464,
+              "type": 0,
+            }
+          }
+          strokeWidth="1"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#E53930",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Outros
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`RadioGroup error state with selected item Should render the shapedPrimary variant 1`] = `
+<View
+  style={
+    {
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+      "marginHorizontal": -8,
+    }
+  }
+  testID="radio-group"
+>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": true,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "borderColor": "#F7F7F8",
+        "borderRadius": 12,
+        "borderWidth": 1,
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "marginBottom": 16,
+        "marginHorizontal": 8,
+        "opacity": 1,
+        "padding": 24,
+        "width": undefined,
+      }
+    }
+    testID="radio-item-0"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 0,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="11"
+          stroke={
+            {
+              "payload": 4293980402,
+              "type": 0,
+            }
+          }
+          strokeWidth="1"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#E1E2E4",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Brasil
+    </Text>
+  </View>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": false,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "borderColor": "#E53930",
+        "borderRadius": 12,
+        "borderWidth": 1,
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "marginBottom": 16,
+        "marginHorizontal": 8,
+        "opacity": 1,
+        "padding": 24,
+        "width": undefined,
+      }
+    }
+    testID="radio-item-1"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 0,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="11"
+          stroke={
+            {
+              "payload": 4293212464,
+              "type": 0,
+            }
+          }
+          strokeWidth="1"
+        />
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 4293212464,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+            ]
+          }
+          r="9"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#A4A7AF",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Outro
+    </Text>
+  </View>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": false,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "borderColor": "#E53930",
+        "borderRadius": 12,
+        "borderWidth": 1,
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "marginBottom": 16,
+        "marginHorizontal": 8,
+        "opacity": 1,
+        "padding": 24,
+        "width": undefined,
+      }
+    }
+    testID="radio-item-2"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 0,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="11"
+          stroke={
+            {
+              "payload": 4293212464,
+              "type": 0,
+            }
+          }
+          strokeWidth="1"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#A4A7AF",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Outros
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`RadioGroup stacked mode Should render the defaultSecondary variant 1`] = `
+<View
+  style={
+    {
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+    }
+  }
+  testID="radio-group"
+>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": true,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "marginBottom": 16,
+        "opacity": 1,
+        "width": "100%",
+      }
+    }
+    testID="radio-item-0"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 0,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="11"
+          stroke={
+            {
+              "payload": 4283201216,
+              "type": 0,
+            }
+          }
+          strokeWidth="1"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#4C76C0",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Brasil
+    </Text>
+  </View>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": false,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "marginBottom": 16,
+        "opacity": 1,
+        "width": "100%",
+      }
+    }
+    testID="radio-item-1"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 4293482516,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="11"
+          stroke={
+            {
+              "payload": 4280570793,
+              "type": 0,
+            }
+          }
+          strokeWidth="2"
+        />
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 4293482516,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+            ]
+          }
+          r="9"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#FFFFFF",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Outro
+    </Text>
+  </View>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": false,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "marginBottom": 16,
+        "opacity": 1,
+        "width": "100%",
+      }
+    }
+    testID="radio-item-2"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 4279189913,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="11"
+          stroke={
+            {
+              "payload": 4293482516,
+              "type": 0,
+            }
+          }
+          strokeWidth="1"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#C6D3EA",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Outros
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`RadioGroup stacked mode Should render the primaryDefault variant 1`] = `
+<View
+  style={
+    {
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+    }
+  }
+  testID="radio-group"
+>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": true,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "marginBottom": 16,
+        "opacity": 1,
+        "width": "100%",
+      }
+    }
+    testID="radio-item-0"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 0,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="11"
+          stroke={
+            {
+              "payload": 4293980402,
+              "type": 0,
+            }
+          }
+          strokeWidth="1"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#E1E2E4",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Brasil
+    </Text>
+  </View>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": false,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "marginBottom": 16,
+        "opacity": 1,
+        "width": "100%",
+      }
+    }
+    testID="radio-item-1"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 4294967295,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="11"
+          stroke={
+            {
+              "payload": 4293980402,
+              "type": 0,
+            }
+          }
+          strokeWidth="2"
+        />
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 4293482516,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+            ]
+          }
+          r="9"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#676D79",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Outro
+    </Text>
+  </View>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": false,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "marginBottom": 16,
+        "opacity": 1,
+        "width": "100%",
+      }
+    }
+    testID="radio-item-2"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 4294440952,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="11"
+          stroke={
+            {
+              "payload": 4293482516,
+              "type": 0,
+            }
+          }
+          strokeWidth="1"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#676D79",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Outros
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`RadioGroup stacked mode Should render the shapedPrimary variant 1`] = `
+<View
+  style={
+    {
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+    }
+  }
+  testID="radio-group"
+>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": true,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "borderColor": "#F7F7F8",
+        "borderRadius": 12,
+        "borderWidth": 1,
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "marginBottom": 16,
+        "opacity": 1,
+        "padding": 24,
+        "width": "100%",
+      }
+    }
+    testID="radio-item-0"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 0,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="11"
+          stroke={
+            {
+              "payload": 4293980402,
+              "type": 0,
+            }
+          }
+          strokeWidth="1"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#E1E2E4",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Brasil
+    </Text>
+  </View>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": false,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "borderColor": "#F0F0F2",
+        "borderRadius": 12,
+        "borderWidth": 1,
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "marginBottom": 16,
+        "opacity": 1,
+        "padding": 24,
+        "width": "100%",
+      }
+    }
+    testID="radio-item-1"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 4294967295,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="11"
+          stroke={
+            {
+              "payload": 4293980402,
+              "type": 0,
+            }
+          }
+          strokeWidth="2"
+        />
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 4293482516,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+            ]
+          }
+          r="9"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#676D79",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Outro
+    </Text>
+  </View>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": false,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "borderColor": "#F0F0F2",
+        "borderRadius": 12,
+        "borderWidth": 1,
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "marginBottom": 16,
+        "opacity": 1,
+        "padding": 24,
+        "width": "100%",
+      }
+    }
+    testID="radio-item-2"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="12"
+          cy="12"
+          fill={
+            {
+              "payload": 4294440952,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="11"
+          stroke={
+            {
+              "payload": 4293482516,
+              "type": 0,
+            }
+          }
+          strokeWidth="1"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#676D79",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Outros
+    </Text>
+  </View>
+</View>
+`;

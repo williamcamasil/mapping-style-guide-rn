@@ -1,0 +1,227 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`WebView snapshots default 1`] = `
+<View
+  style={
+    [
+      {
+        "flex": 1,
+        "overflow": "hidden",
+      },
+      undefined,
+    ]
+  }
+>
+  <RNCWebView
+    cacheEnabled={true}
+    injectedJavaScriptBeforeContentLoadedForMainFrameOnly={true}
+    injectedJavaScriptForMainFrameOnly={true}
+    javaScriptEnabled={true}
+    messagingEnabled={true}
+    onContentProcessDidTerminate={[Function]}
+    onHttpError={[Function]}
+    onLoadingError={[Function]}
+    onLoadingFinish={[Function]}
+    onLoadingProgress={[Function]}
+    onLoadingStart={[Function]}
+    onMessage={[Function]}
+    onShouldStartLoadWithRequest={[Function]}
+    source={
+      {
+        "uri": "https://www.google.com.br/",
+      }
+    }
+    style={
+      [
+        {
+          "flex": 1,
+          "overflow": "hidden",
+        },
+        {
+          "backgroundColor": "#ffffff",
+        },
+        {
+          "flex": 1,
+        },
+      ]
+    }
+    textInteractionEnabled={true}
+    useSharedProcessPool={true}
+  />
+  <View />
+</View>
+`;
+
+exports[`WebView snapshots renderLoading 1`] = `
+<View
+  style={
+    [
+      {
+        "flex": 1,
+        "overflow": "hidden",
+      },
+      undefined,
+    ]
+  }
+>
+  <RNCWebView
+    cacheEnabled={true}
+    injectedJavaScriptBeforeContentLoadedForMainFrameOnly={true}
+    injectedJavaScriptForMainFrameOnly={true}
+    javaScriptEnabled={true}
+    messagingEnabled={true}
+    onContentProcessDidTerminate={[Function]}
+    onHttpError={[Function]}
+    onLoadingError={[Function]}
+    onLoadingFinish={[Function]}
+    onLoadingProgress={[Function]}
+    onLoadingStart={[Function]}
+    onMessage={[Function]}
+    onShouldStartLoadWithRequest={[Function]}
+    source={
+      {
+        "uri": "https://www.google.com.br/",
+      }
+    }
+    style={
+      [
+        {
+          "flex": 1,
+          "overflow": "hidden",
+        },
+        {
+          "backgroundColor": "#ffffff",
+        },
+        {
+          "flex": 1,
+        },
+      ]
+    }
+    textInteractionEnabled={true}
+    useSharedProcessPool={true}
+  />
+  <View
+    style={
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      }
+    }
+  >
+    <View
+      pointerEvents="auto"
+      style={
+        {
+          "alignItems": undefined,
+          "backgroundColor": "#FFFFFF",
+          "flex": 1,
+          "flexDirection": undefined,
+          "justifyContent": undefined,
+          "padding": undefined,
+          "paddingBottom": undefined,
+          "paddingHorizontal": undefined,
+          "paddingLeft": undefined,
+          "paddingRight": undefined,
+          "paddingTop": undefined,
+          "paddingVertical": undefined,
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "justifyContent": "center",
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "borderColor": "hsla(223.60000000000002, 6.4%, 66.5%, 0.6)",
+              "borderRadius": 4,
+              "borderStyle": "solid",
+              "borderWidth": 0.5,
+              "height": 8,
+              "marginHorizontal": 4,
+              "overflow": "hidden",
+              "width": 8,
+            }
+          }
+        >
+          <View
+            collapsable={false}
+            style={
+              {
+                "backgroundColor": "#A4A7AF",
+                "borderRadius": 4,
+                "height": "100%",
+                "opacity": 1,
+                "width": "100%",
+              }
+            }
+          />
+        </View>
+        <View
+          style={
+            {
+              "borderColor": "hsla(223.60000000000002, 6.4%, 66.5%, 0.6)",
+              "borderRadius": 4,
+              "borderStyle": "solid",
+              "borderWidth": 0.5,
+              "height": 8,
+              "marginHorizontal": 4,
+              "overflow": "hidden",
+              "width": 8,
+            }
+          }
+        >
+          <View
+            collapsable={false}
+            style={
+              {
+                "backgroundColor": "#A4A7AF",
+                "borderRadius": 4,
+                "height": "100%",
+                "opacity": 0,
+                "width": "100%",
+              }
+            }
+          />
+        </View>
+        <View
+          style={
+            {
+              "borderColor": "hsla(223.60000000000002, 6.4%, 66.5%, 0.6)",
+              "borderRadius": 4,
+              "borderStyle": "solid",
+              "borderWidth": 0.5,
+              "height": 8,
+              "marginHorizontal": 4,
+              "overflow": "hidden",
+              "width": 8,
+            }
+          }
+        >
+          <View
+            collapsable={false}
+            style={
+              {
+                "backgroundColor": "#A4A7AF",
+                "borderRadius": 4,
+                "height": "100%",
+                "opacity": 0.5,
+                "width": "100%",
+              }
+            }
+          />
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;

@@ -1,0 +1,567 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Shimmer snapshots empty 1`] = `
+<View
+  style={{}}
+/>
+`;
+
+exports[`Shimmer snapshots invisible shimmer 1`] = `null`;
+
+exports[`Shimmer snapshots nested shimmer 1`] = `
+<View
+  style={{}}
+>
+  <View
+    style={{}}
+  >
+    <View
+      style={
+        [
+          {
+            "height": 15,
+            "width": 200,
+          },
+          {
+            "overflow": "hidden",
+          },
+          {
+            "borderRadius": 12,
+            "flexDirection": "row",
+            "height": 10,
+            "width": 10,
+          },
+          undefined,
+        ]
+      }
+    >
+      <View
+        style={
+          [
+            {
+              "height": 0,
+              "opacity": 0,
+              "width": 0,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        style={
+          {
+            "backgroundColor": "#E1E2E4",
+            "flex": 1,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          style={
+            {
+              "flex": 1,
+              "transform": [
+                {
+                  "translateX": -200,
+                },
+              ],
+            }
+          }
+        >
+          <View
+            colors={
+              [
+                "#E1E2E4",
+                "#F0F0F2",
+                "#E1E2E4",
+              ]
+            }
+            end={
+              {
+                "x": 2,
+                "y": 0.5,
+              }
+            }
+            locations={
+              [
+                0.3,
+                0.5,
+                0.7,
+              ]
+            }
+            start={
+              {
+                "x": -1,
+                "y": 0.5,
+              }
+            }
+            style={
+              {
+                "flex": 1,
+                "width": 200,
+              }
+            }
+          />
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        [
+          {
+            "height": 15,
+            "width": 200,
+          },
+          {
+            "overflow": "hidden",
+          },
+          {
+            "borderRadius": 12,
+            "flexDirection": "row",
+            "height": 10,
+            "width": 10,
+          },
+          undefined,
+        ]
+      }
+    >
+      <View
+        style={
+          [
+            {
+              "height": 0,
+              "opacity": 0,
+              "width": 0,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        style={
+          {
+            "backgroundColor": "#E1E2E4",
+            "flex": 1,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          style={
+            {
+              "flex": 1,
+              "transform": [
+                {
+                  "translateX": -200,
+                },
+              ],
+            }
+          }
+        >
+          <View
+            colors={
+              [
+                "#E1E2E4",
+                "#F0F0F2",
+                "#E1E2E4",
+              ]
+            }
+            end={
+              {
+                "x": 2,
+                "y": 0.5,
+              }
+            }
+            locations={
+              [
+                0.3,
+                0.5,
+                0.7,
+              ]
+            }
+            start={
+              {
+                "x": -1,
+                "y": 0.5,
+              }
+            }
+            style={
+              {
+                "flex": 1,
+                "width": 200,
+              }
+            }
+          />
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        [
+          {
+            "height": 15,
+            "width": 200,
+          },
+          {
+            "overflow": "hidden",
+          },
+          {
+            "borderRadius": 12,
+            "flexDirection": "row",
+            "height": 10,
+            "width": 10,
+          },
+          undefined,
+        ]
+      }
+    >
+      <View
+        style={
+          [
+            {
+              "height": 0,
+              "opacity": 0,
+              "width": 0,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        style={
+          {
+            "backgroundColor": "#E1E2E4",
+            "flex": 1,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          style={
+            {
+              "flex": 1,
+              "transform": [
+                {
+                  "translateX": -200,
+                },
+              ],
+            }
+          }
+        >
+          <View
+            colors={
+              [
+                "#E1E2E4",
+                "#F0F0F2",
+                "#E1E2E4",
+              ]
+            }
+            end={
+              {
+                "x": 2,
+                "y": 0.5,
+              }
+            }
+            locations={
+              [
+                0.3,
+                0.5,
+                0.7,
+              ]
+            }
+            start={
+              {
+                "x": -1,
+                "y": 0.5,
+              }
+            }
+            style={
+              {
+                "flex": 1,
+                "width": 200,
+              }
+            }
+          />
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Shimmer snapshots simple shimmer 1`] = `
+<View
+  style={{}}
+>
+  <View
+    style={
+      [
+        {
+          "height": 15,
+          "width": 200,
+        },
+        {
+          "overflow": "hidden",
+        },
+        {
+          "borderRadius": 12,
+          "flexDirection": "row",
+          "height": 10,
+          "width": 10,
+        },
+        undefined,
+      ]
+    }
+  >
+    <View
+      style={
+        [
+          {
+            "height": 0,
+            "opacity": 0,
+            "width": 0,
+          },
+          undefined,
+        ]
+      }
+    />
+    <View
+      style={
+        {
+          "backgroundColor": "#E1E2E4",
+          "flex": 1,
+        }
+      }
+    >
+      <View
+        collapsable={false}
+        style={
+          {
+            "flex": 1,
+            "transform": [
+              {
+                "translateX": -200,
+              },
+            ],
+          }
+        }
+      >
+        <View
+          colors={
+            [
+              "#E1E2E4",
+              "#F0F0F2",
+              "#E1E2E4",
+            ]
+          }
+          end={
+            {
+              "x": 2,
+              "y": 0.5,
+            }
+          }
+          locations={
+            [
+              0.3,
+              0.5,
+              0.7,
+            ]
+          }
+          start={
+            {
+              "x": -1,
+              "y": 0.5,
+            }
+          }
+          style={
+            {
+              "flex": 1,
+              "width": 200,
+            }
+          }
+        />
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      [
+        {
+          "height": 15,
+          "width": 200,
+        },
+        {
+          "overflow": "hidden",
+        },
+        {
+          "borderRadius": 12,
+          "flexDirection": "row",
+          "height": 10,
+          "width": 10,
+        },
+        undefined,
+      ]
+    }
+  >
+    <View
+      style={
+        [
+          {
+            "height": 0,
+            "opacity": 0,
+            "width": 0,
+          },
+          undefined,
+        ]
+      }
+    />
+    <View
+      style={
+        {
+          "backgroundColor": "#E1E2E4",
+          "flex": 1,
+        }
+      }
+    >
+      <View
+        collapsable={false}
+        style={
+          {
+            "flex": 1,
+            "transform": [
+              {
+                "translateX": -200,
+              },
+            ],
+          }
+        }
+      >
+        <View
+          colors={
+            [
+              "#E1E2E4",
+              "#F0F0F2",
+              "#E1E2E4",
+            ]
+          }
+          end={
+            {
+              "x": 2,
+              "y": 0.5,
+            }
+          }
+          locations={
+            [
+              0.3,
+              0.5,
+              0.7,
+            ]
+          }
+          start={
+            {
+              "x": -1,
+              "y": 0.5,
+            }
+          }
+          style={
+            {
+              "flex": 1,
+              "width": 200,
+            }
+          }
+        />
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      [
+        {
+          "height": 15,
+          "width": 200,
+        },
+        {
+          "overflow": "hidden",
+        },
+        {
+          "borderRadius": 12,
+          "flexDirection": "row",
+          "height": 10,
+          "width": 10,
+        },
+        undefined,
+      ]
+    }
+  >
+    <View
+      style={
+        [
+          {
+            "height": 0,
+            "opacity": 0,
+            "width": 0,
+          },
+          undefined,
+        ]
+      }
+    />
+    <View
+      style={
+        {
+          "backgroundColor": "#E1E2E4",
+          "flex": 1,
+        }
+      }
+    >
+      <View
+        collapsable={false}
+        style={
+          {
+            "flex": 1,
+            "transform": [
+              {
+                "translateX": -200,
+              },
+            ],
+          }
+        }
+      >
+        <View
+          colors={
+            [
+              "#E1E2E4",
+              "#F0F0F2",
+              "#E1E2E4",
+            ]
+          }
+          end={
+            {
+              "x": 2,
+              "y": 0.5,
+            }
+          }
+          locations={
+            [
+              0.3,
+              0.5,
+              0.7,
+            ]
+          }
+          start={
+            {
+              "x": -1,
+              "y": 0.5,
+            }
+          }
+          style={
+            {
+              "flex": 1,
+              "width": 200,
+            }
+          }
+        />
+      </View>
+    </View>
+  </View>
+</View>
+`;

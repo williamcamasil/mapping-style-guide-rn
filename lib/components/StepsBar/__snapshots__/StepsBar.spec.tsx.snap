@@ -1,0 +1,343 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot to StepsBar Snapshot fifty percent of progress 1`] = `
+<View
+  style={
+    {
+      "alignItems": "center",
+      "flexDirection": "row",
+    }
+  }
+>
+  <View
+    style={
+      {
+        "flex": 1,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "backgroundColor": "#F7F7F8",
+          "borderColor": "#F7F7F8",
+          "borderRadius": 6,
+          "borderWidth": 2,
+          "height": 12,
+          "justifyContent": "center",
+          "overflow": "hidden",
+        }
+      }
+      testID="progress-bar-container"
+    >
+      <View
+        colors={
+          [
+            "#F29B72",
+            "#E95814",
+          ]
+        }
+        end={
+          {
+            "x": 1,
+            "y": 0,
+          }
+        }
+        start={
+          {
+            "x": 0,
+            "y": 0,
+          }
+        }
+        style={
+          {
+            "borderRadius": 50,
+            "height": "100%",
+            "width": "50%",
+          }
+        }
+        testID="progress-linear-gradient"
+      />
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "marginLeft": 20,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#676D79",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 13,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 13,
+        }
+      }
+    >
+      Passo
+       
+      <Text
+        style={
+          {
+            "fontFamily": "Averta CY",
+            "fontWeight": "bold",
+          }
+        }
+        testID="steps-bar-step-text"
+      >
+        2.5
+      </Text>
+       
+      de
+       
+      <Text
+        style={
+          {
+            "fontFamily": "Averta CY",
+            "fontWeight": "bold",
+          }
+        }
+        testID="steps-bar-total-text"
+      >
+        5
+      </Text>
+       
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`Snapshot to StepsBar Snapshot hundred percent of progress 1`] = `
+<View
+  style={
+    {
+      "alignItems": "center",
+      "flexDirection": "row",
+    }
+  }
+>
+  <View
+    style={
+      {
+        "flex": 1,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "backgroundColor": "#F7F7F8",
+          "borderColor": "#F7F7F8",
+          "borderRadius": 6,
+          "borderWidth": 2,
+          "height": 12,
+          "justifyContent": "center",
+          "overflow": "hidden",
+        }
+      }
+      testID="progress-bar-container"
+    >
+      <View
+        colors={
+          [
+            "#F29B72",
+            "#E95814",
+          ]
+        }
+        end={
+          {
+            "x": 1,
+            "y": 0,
+          }
+        }
+        start={
+          {
+            "x": 0,
+            "y": 0,
+          }
+        }
+        style={
+          {
+            "borderRadius": 50,
+            "height": "100%",
+            "width": "100%",
+          }
+        }
+        testID="progress-linear-gradient"
+      />
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "marginLeft": 20,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#676D79",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 13,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 13,
+        }
+      }
+    >
+      Passo
+       
+      <Text
+        style={
+          {
+            "fontFamily": "Averta CY",
+            "fontWeight": "bold",
+          }
+        }
+        testID="steps-bar-step-text"
+      >
+        5
+      </Text>
+       
+      de
+       
+      <Text
+        style={
+          {
+            "fontFamily": "Averta CY",
+            "fontWeight": "bold",
+          }
+        }
+        testID="steps-bar-total-text"
+      >
+        5
+      </Text>
+       
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`Snapshot to StepsBar Snapshot initial 1`] = `
+<View
+  style={
+    {
+      "alignItems": "center",
+      "flexDirection": "row",
+    }
+  }
+>
+  <View
+    style={
+      {
+        "flex": 1,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "backgroundColor": "#F7F7F8",
+          "borderColor": "#F7F7F8",
+          "borderRadius": 6,
+          "borderWidth": 2,
+          "height": 12,
+          "justifyContent": "center",
+          "overflow": "hidden",
+        }
+      }
+      testID="progress-bar-container"
+    >
+      <View
+        colors={
+          [
+            "#F29B72",
+            "#E95814",
+          ]
+        }
+        end={
+          {
+            "x": 1,
+            "y": 0,
+          }
+        }
+        start={
+          {
+            "x": 0,
+            "y": 0,
+          }
+        }
+        style={
+          {
+            "borderRadius": 50,
+            "height": "100%",
+            "width": "20%",
+          }
+        }
+        testID="progress-linear-gradient"
+      />
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "marginLeft": 20,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#676D79",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 13,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 13,
+        }
+      }
+    >
+      Passo
+       
+      <Text
+        style={
+          {
+            "fontFamily": "Averta CY",
+            "fontWeight": "bold",
+          }
+        }
+        testID="steps-bar-step-text"
+      >
+        1
+      </Text>
+       
+      de
+       
+      <Text
+        style={
+          {
+            "fontFamily": "Averta CY",
+            "fontWeight": "bold",
+          }
+        }
+        testID="steps-bar-total-text"
+      >
+        5
+      </Text>
+       
+    </Text>
+  </View>
+</View>
+`;

@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HelpMessage snapshot default 1`] = `
+<Text
+  allowFontScaling={false}
+  style={
+    {
+      "color": "#676D79",
+      "flexShrink": 1,
+      "fontFamily": "Averta CY",
+      "fontSize": 14,
+      "fontWeight": "normal",
+      "letterSpacing": -0.02,
+      "lineHeight": 14,
+      "marginLeft": undefined,
+      "marginTop": 12,
+    }
+  }
+>
+  Mensagem de ajuda
+</Text>
+`;
+
+exports[`HelpMessage snapshot disabled 1`] = `
+<Text
+  allowFontScaling={false}
+  style={
+    {
+      "color": "#A4A7AF",
+      "flexShrink": 1,
+      "fontFamily": "Averta CY",
+      "fontSize": 14,
+      "fontWeight": "normal",
+      "letterSpacing": -0.02,
+      "lineHeight": 14,
+      "marginLeft": undefined,
+      "marginTop": 12,
+    }
+  }
+>
+  Mensagem de ajuda
+</Text>
+`;
+
+exports[`HelpMessage snapshot empty 1`] = `null`;
+
+exports[`HelpMessage snapshot error 1`] = `
+<Text
+  allowFontScaling={false}
+  style={
+    {
+      "color": "#E53930",
+      "flexShrink": 1,
+      "fontFamily": "Averta CY",
+      "fontSize": 14,
+      "fontWeight": "normal",
+      "letterSpacing": -0.02,
+      "lineHeight": 14,
+      "marginLeft": undefined,
+      "marginTop": 12,
+    }
+  }
+>
+  Mensagem de ajuda
+</Text>
+`;

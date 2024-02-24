@@ -24,13 +24,6 @@ end
 
 target 'MappingStyleGuideRn' do
   use_expo_modules!
-  post_integrate do |installer|
-    begin
-      expo_patch_react_imports!(installer)
-    rescue => e
-      Pod::UI.warn e
-    end
-  end
   config = use_native_modules!
 
   # Flags change depending on the env values.
@@ -55,6 +48,14 @@ target 'MappingStyleGuideRn' do
   target 'MappingStyleGuideRnTests' do
     inherit! :complete
     # Pods for testing
+  end
+
+  post_integrate do |installer|
+    begin
+      expo_patch_react_imports!(installer)
+    rescue => e
+      Pod::UI.warn e
+    end
   end
 
   post_install do |installer|

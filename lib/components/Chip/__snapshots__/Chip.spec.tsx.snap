@@ -1,0 +1,2784 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Chip Should render all items with icons (default) 1`] = `
+<View
+  contentContainerStyle={
+    {
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+    }
+  }
+  horizontal={true}
+  showsHorizontalScrollIndicator={false}
+  style={
+    {
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+    }
+  }
+  testID="chip-button-group"
+>
+  <View
+    style={
+      {
+        "marginBottom": 8,
+        "marginRight": 8,
+      }
+    }
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "backgroundColor": "#FEF6F3",
+          "borderColor": "#F8CDB9",
+          "borderRadius": 12,
+          "borderWidth": 1,
+          "opacity": 1,
+          "paddingHorizontal": 0,
+        }
+      }
+      testID="chip-button-item-0"
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "gap": 8,
+            "justifyContent": "center",
+            "padding": 12,
+          }
+        }
+      >
+        <RNSVGSvgView
+          align="xMidYMid"
+          bbHeight="16"
+          bbWidth="16"
+          fill="none"
+          focusable={false}
+          height={16}
+          meetOrSlice={0}
+          minX={0}
+          minY={0}
+          style={
+            [
+              {
+                "backgroundColor": "transparent",
+                "borderWidth": 0,
+              },
+              {
+                "flex": 0,
+                "height": 16,
+                "width": 16,
+              },
+            ]
+          }
+          vbHeight={24}
+          vbWidth={24}
+          width={16}
+        >
+          <RNSVGGroup
+            fill={null}
+            propList={
+              [
+                "fill",
+              ]
+            }
+          >
+            <RNSVGPath
+              d="M4 18v-7.667m16 0V18M8 10.333V18m4-7.667V18m4-7.667V18m4.972-7.667H3.028a.527.527 0 0 1-.528-.526V7.83a1 1 0 0 1 .684-.948l8.482-2.828a1.06 1.06 0 0 1 .668 0l8.482 2.828a1 1 0 0 1 .684.948v1.976a.527.527 0 0 1-.527.527h-.001ZM20.382 18H3.618a1 1 0 0 0-.894.553l-.618 1.236a.993.993 0 0 0-.106.447V21h20v-.764a.993.993 0 0 0-.106-.447l-.618-1.236a1 1 0 0 0-.894-.553Z"
+              fill={
+                {
+                  "payload": 4278190080,
+                  "type": 0,
+                }
+              }
+              propList={
+                [
+                  "stroke",
+                  "strokeWidth",
+                  "strokeLinecap",
+                  "strokeLinejoin",
+                ]
+              }
+              stroke={
+                {
+                  "payload": 4293482516,
+                  "type": 0,
+                }
+              }
+              strokeLinecap={1}
+              strokeLinejoin={1}
+              strokeWidth="1.8"
+            />
+          </RNSVGGroup>
+        </RNSVGSvgView>
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#E95814",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "letterSpacing": -0.02,
+              "lineHeight": 14,
+            }
+          }
+        >
+          Conta corrente
+        </Text>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "marginBottom": 8,
+        "marginRight": 8,
+      }
+    }
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "backgroundColor": "transparent",
+          "borderColor": "#E1E2E4",
+          "borderRadius": 12,
+          "borderWidth": 1,
+          "opacity": 1,
+          "paddingHorizontal": 0,
+        }
+      }
+      testID="chip-button-item-1"
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "gap": 8,
+            "justifyContent": "center",
+            "padding": 12,
+          }
+        }
+      >
+        <RNSVGSvgView
+          align="xMidYMid"
+          bbHeight="16"
+          bbWidth="16"
+          fill="none"
+          focusable={false}
+          height={16}
+          meetOrSlice={0}
+          minX={0}
+          minY={0}
+          style={
+            [
+              {
+                "backgroundColor": "transparent",
+                "borderWidth": 0,
+              },
+              {
+                "flex": 0,
+                "height": 16,
+                "width": 16,
+              },
+            ]
+          }
+          vbHeight={24}
+          vbWidth={24}
+          width={16}
+        >
+          <RNSVGGroup
+            fill={null}
+            propList={
+              [
+                "fill",
+              ]
+            }
+          >
+            <RNSVGPath
+              d="M4 18v-7.667m16 0V18M8 10.333V18m4-7.667V18m4-7.667V18m4.972-7.667H3.028a.527.527 0 0 1-.528-.526V7.83a1 1 0 0 1 .684-.948l8.482-2.828a1.06 1.06 0 0 1 .668 0l8.482 2.828a1 1 0 0 1 .684.948v1.976a.527.527 0 0 1-.527.527h-.001ZM20.382 18H3.618a1 1 0 0 0-.894.553l-.618 1.236a.993.993 0 0 0-.106.447V21h20v-.764a.993.993 0 0 0-.106-.447l-.618-1.236a1 1 0 0 0-.894-.553Z"
+              fill={
+                {
+                  "payload": 4278190080,
+                  "type": 0,
+                }
+              }
+              propList={
+                [
+                  "stroke",
+                  "strokeWidth",
+                  "strokeLinecap",
+                  "strokeLinejoin",
+                ]
+              }
+              stroke={
+                {
+                  "payload": 4284968313,
+                  "type": 0,
+                }
+              }
+              strokeLinecap={1}
+              strokeLinejoin={1}
+              strokeWidth="1.8"
+            />
+          </RNSVGGroup>
+        </RNSVGSvgView>
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "letterSpacing": -0.02,
+              "lineHeight": 14,
+            }
+          }
+        >
+          Conta poupança
+        </Text>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "marginBottom": 8,
+        "marginRight": 8,
+      }
+    }
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "backgroundColor": "transparent",
+          "borderColor": "#E1E2E4",
+          "borderRadius": 12,
+          "borderWidth": 1,
+          "opacity": 1,
+          "paddingHorizontal": 0,
+        }
+      }
+      testID="chip-button-item-2"
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "gap": 8,
+            "justifyContent": "center",
+            "padding": 12,
+          }
+        }
+      >
+        <RNSVGSvgView
+          align="xMidYMid"
+          bbHeight="16"
+          bbWidth="16"
+          fill="none"
+          focusable={false}
+          height={16}
+          meetOrSlice={0}
+          minX={0}
+          minY={0}
+          style={
+            [
+              {
+                "backgroundColor": "transparent",
+                "borderWidth": 0,
+              },
+              {
+                "flex": 0,
+                "height": 16,
+                "width": 16,
+              },
+            ]
+          }
+          vbHeight={24}
+          vbWidth={24}
+          width={16}
+        >
+          <RNSVGGroup
+            fill={null}
+            propList={
+              [
+                "fill",
+              ]
+            }
+          >
+            <RNSVGPath
+              d="M4 18v-7.667m16 0V18M8 10.333V18m4-7.667V18m4-7.667V18m4.972-7.667H3.028a.527.527 0 0 1-.528-.526V7.83a1 1 0 0 1 .684-.948l8.482-2.828a1.06 1.06 0 0 1 .668 0l8.482 2.828a1 1 0 0 1 .684.948v1.976a.527.527 0 0 1-.527.527h-.001ZM20.382 18H3.618a1 1 0 0 0-.894.553l-.618 1.236a.993.993 0 0 0-.106.447V21h20v-.764a.993.993 0 0 0-.106-.447l-.618-1.236a1 1 0 0 0-.894-.553Z"
+              fill={
+                {
+                  "payload": 4278190080,
+                  "type": 0,
+                }
+              }
+              propList={
+                [
+                  "stroke",
+                  "strokeWidth",
+                  "strokeLinecap",
+                  "strokeLinejoin",
+                ]
+              }
+              stroke={
+                {
+                  "payload": 4284968313,
+                  "type": 0,
+                }
+              }
+              strokeLinecap={1}
+              strokeLinejoin={1}
+              strokeWidth="1.8"
+            />
+          </RNSVGGroup>
+        </RNSVGSvgView>
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "letterSpacing": -0.02,
+              "lineHeight": 14,
+            }
+          }
+        >
+          Mesma titularidade
+        </Text>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "marginBottom": 8,
+        "marginRight": 8,
+      }
+    }
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "backgroundColor": "transparent",
+          "borderColor": "#E1E2E4",
+          "borderRadius": 12,
+          "borderWidth": 1,
+          "opacity": 1,
+          "paddingHorizontal": 0,
+        }
+      }
+      testID="chip-button-item-3"
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "gap": 8,
+            "justifyContent": "center",
+            "padding": 12,
+          }
+        }
+      >
+        <RNSVGSvgView
+          align="xMidYMid"
+          bbHeight="16"
+          bbWidth="16"
+          fill="none"
+          focusable={false}
+          height={16}
+          meetOrSlice={0}
+          minX={0}
+          minY={0}
+          style={
+            [
+              {
+                "backgroundColor": "transparent",
+                "borderWidth": 0,
+              },
+              {
+                "flex": 0,
+                "height": 16,
+                "width": 16,
+              },
+            ]
+          }
+          vbHeight={24}
+          vbWidth={24}
+          width={16}
+        >
+          <RNSVGGroup
+            fill={null}
+            propList={
+              [
+                "fill",
+              ]
+            }
+          >
+            <RNSVGPath
+              d="M4 18v-7.667m16 0V18M8 10.333V18m4-7.667V18m4-7.667V18m4.972-7.667H3.028a.527.527 0 0 1-.528-.526V7.83a1 1 0 0 1 .684-.948l8.482-2.828a1.06 1.06 0 0 1 .668 0l8.482 2.828a1 1 0 0 1 .684.948v1.976a.527.527 0 0 1-.527.527h-.001ZM20.382 18H3.618a1 1 0 0 0-.894.553l-.618 1.236a.993.993 0 0 0-.106.447V21h20v-.764a.993.993 0 0 0-.106-.447l-.618-1.236a1 1 0 0 0-.894-.553Z"
+              fill={
+                {
+                  "payload": 4278190080,
+                  "type": 0,
+                }
+              }
+              propList={
+                [
+                  "stroke",
+                  "strokeWidth",
+                  "strokeLinecap",
+                  "strokeLinejoin",
+                ]
+              }
+              stroke={
+                {
+                  "payload": 4284968313,
+                  "type": 0,
+                }
+              }
+              strokeLinecap={1}
+              strokeLinejoin={1}
+              strokeWidth="1.8"
+            />
+          </RNSVGGroup>
+        </RNSVGSvgView>
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "letterSpacing": -0.02,
+              "lineHeight": 14,
+            }
+          }
+        >
+          Outra titularidade
+        </Text>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "marginBottom": 8,
+        "marginRight": 8,
+      }
+    }
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "backgroundColor": "transparent",
+          "borderColor": "#E1E2E4",
+          "borderRadius": 12,
+          "borderWidth": 1,
+          "opacity": 1,
+          "paddingHorizontal": 0,
+        }
+      }
+      testID="chip-button-item-4"
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "gap": 8,
+            "justifyContent": "center",
+            "padding": 12,
+          }
+        }
+      >
+        <RNSVGSvgView
+          align="xMidYMid"
+          bbHeight="16"
+          bbWidth="16"
+          fill="none"
+          focusable={false}
+          height={16}
+          meetOrSlice={0}
+          minX={0}
+          minY={0}
+          style={
+            [
+              {
+                "backgroundColor": "transparent",
+                "borderWidth": 0,
+              },
+              {
+                "flex": 0,
+                "height": 16,
+                "width": 16,
+              },
+            ]
+          }
+          vbHeight={24}
+          vbWidth={24}
+          width={16}
+        >
+          <RNSVGGroup
+            fill={null}
+            propList={
+              [
+                "fill",
+              ]
+            }
+          >
+            <RNSVGPath
+              d="M4 18v-7.667m16 0V18M8 10.333V18m4-7.667V18m4-7.667V18m4.972-7.667H3.028a.527.527 0 0 1-.528-.526V7.83a1 1 0 0 1 .684-.948l8.482-2.828a1.06 1.06 0 0 1 .668 0l8.482 2.828a1 1 0 0 1 .684.948v1.976a.527.527 0 0 1-.527.527h-.001ZM20.382 18H3.618a1 1 0 0 0-.894.553l-.618 1.236a.993.993 0 0 0-.106.447V21h20v-.764a.993.993 0 0 0-.106-.447l-.618-1.236a1 1 0 0 0-.894-.553Z"
+              fill={
+                {
+                  "payload": 4278190080,
+                  "type": 0,
+                }
+              }
+              propList={
+                [
+                  "stroke",
+                  "strokeWidth",
+                  "strokeLinecap",
+                  "strokeLinejoin",
+                ]
+              }
+              stroke={
+                {
+                  "payload": 4284968313,
+                  "type": 0,
+                }
+              }
+              strokeLinecap={1}
+              strokeLinejoin={1}
+              strokeWidth="1.8"
+            />
+          </RNSVGGroup>
+        </RNSVGSvgView>
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "letterSpacing": -0.02,
+              "lineHeight": 14,
+            }
+          }
+        >
+          Outros
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Chip Should render all items, with first one selected (default) 1`] = `
+<View
+  contentContainerStyle={
+    {
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+    }
+  }
+  horizontal={true}
+  showsHorizontalScrollIndicator={false}
+  style={
+    {
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+    }
+  }
+  testID="chip-button-group"
+>
+  <View
+    style={
+      {
+        "marginBottom": 8,
+        "marginRight": 8,
+      }
+    }
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "backgroundColor": "#FEF6F3",
+          "borderColor": "#F8CDB9",
+          "borderRadius": 12,
+          "borderWidth": 1,
+          "opacity": 1,
+          "paddingHorizontal": 0,
+        }
+      }
+      testID="chip-button-item-0"
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "gap": 8,
+            "justifyContent": "center",
+            "padding": 12,
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#E95814",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "letterSpacing": -0.02,
+              "lineHeight": 14,
+            }
+          }
+        >
+          Conta corrente
+        </Text>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "marginBottom": 8,
+        "marginRight": 8,
+      }
+    }
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "backgroundColor": "transparent",
+          "borderColor": "#E1E2E4",
+          "borderRadius": 12,
+          "borderWidth": 1,
+          "opacity": 1,
+          "paddingHorizontal": 0,
+        }
+      }
+      testID="chip-button-item-1"
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "gap": 8,
+            "justifyContent": "center",
+            "padding": 12,
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "letterSpacing": -0.02,
+              "lineHeight": 14,
+            }
+          }
+        >
+          Conta poupança
+        </Text>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "marginBottom": 8,
+        "marginRight": 8,
+      }
+    }
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "backgroundColor": "transparent",
+          "borderColor": "#E1E2E4",
+          "borderRadius": 12,
+          "borderWidth": 1,
+          "opacity": 1,
+          "paddingHorizontal": 0,
+        }
+      }
+      testID="chip-button-item-2"
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "gap": 8,
+            "justifyContent": "center",
+            "padding": 12,
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "letterSpacing": -0.02,
+              "lineHeight": 14,
+            }
+          }
+        >
+          Mesma titularidade
+        </Text>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "marginBottom": 8,
+        "marginRight": 8,
+      }
+    }
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "backgroundColor": "transparent",
+          "borderColor": "#E1E2E4",
+          "borderRadius": 12,
+          "borderWidth": 1,
+          "opacity": 1,
+          "paddingHorizontal": 0,
+        }
+      }
+      testID="chip-button-item-3"
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "gap": 8,
+            "justifyContent": "center",
+            "padding": 12,
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "letterSpacing": -0.02,
+              "lineHeight": 14,
+            }
+          }
+        >
+          Outra titularidade
+        </Text>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "marginBottom": 8,
+        "marginRight": 8,
+      }
+    }
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "backgroundColor": "transparent",
+          "borderColor": "#E1E2E4",
+          "borderRadius": 12,
+          "borderWidth": 1,
+          "opacity": 1,
+          "paddingHorizontal": 0,
+        }
+      }
+      testID="chip-button-item-4"
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "gap": 8,
+            "justifyContent": "center",
+            "padding": 12,
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "letterSpacing": -0.02,
+              "lineHeight": 14,
+            }
+          }
+        >
+          Outros
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Chip Should render all items, with none selected (multiple) 1`] = `
+<View
+  contentContainerStyle={
+    {
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+    }
+  }
+  horizontal={true}
+  showsHorizontalScrollIndicator={false}
+  style={
+    {
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+    }
+  }
+  testID="chip-button-group"
+>
+  <View
+    style={
+      {
+        "marginBottom": 8,
+        "marginRight": 8,
+      }
+    }
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "backgroundColor": "transparent",
+          "borderColor": "#E1E2E4",
+          "borderRadius": 12,
+          "borderWidth": 1,
+          "opacity": 1,
+          "paddingHorizontal": 0,
+        }
+      }
+      testID="chip-button-item-0"
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "gap": 8,
+            "justifyContent": "center",
+            "padding": 12,
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "letterSpacing": -0.02,
+              "lineHeight": 14,
+            }
+          }
+        >
+          Conta corrente
+        </Text>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "marginBottom": 8,
+        "marginRight": 8,
+      }
+    }
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "backgroundColor": "transparent",
+          "borderColor": "#E1E2E4",
+          "borderRadius": 12,
+          "borderWidth": 1,
+          "opacity": 1,
+          "paddingHorizontal": 0,
+        }
+      }
+      testID="chip-button-item-1"
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "gap": 8,
+            "justifyContent": "center",
+            "padding": 12,
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "letterSpacing": -0.02,
+              "lineHeight": 14,
+            }
+          }
+        >
+          Conta poupança
+        </Text>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "marginBottom": 8,
+        "marginRight": 8,
+      }
+    }
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "backgroundColor": "transparent",
+          "borderColor": "#E1E2E4",
+          "borderRadius": 12,
+          "borderWidth": 1,
+          "opacity": 1,
+          "paddingHorizontal": 0,
+        }
+      }
+      testID="chip-button-item-2"
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "gap": 8,
+            "justifyContent": "center",
+            "padding": 12,
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "letterSpacing": -0.02,
+              "lineHeight": 14,
+            }
+          }
+        >
+          Mesma titularidade
+        </Text>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "marginBottom": 8,
+        "marginRight": 8,
+      }
+    }
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "backgroundColor": "transparent",
+          "borderColor": "#E1E2E4",
+          "borderRadius": 12,
+          "borderWidth": 1,
+          "opacity": 1,
+          "paddingHorizontal": 0,
+        }
+      }
+      testID="chip-button-item-3"
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "gap": 8,
+            "justifyContent": "center",
+            "padding": 12,
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "letterSpacing": -0.02,
+              "lineHeight": 14,
+            }
+          }
+        >
+          Outra titularidade
+        </Text>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "marginBottom": 8,
+        "marginRight": 8,
+      }
+    }
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "backgroundColor": "transparent",
+          "borderColor": "#E1E2E4",
+          "borderRadius": 12,
+          "borderWidth": 1,
+          "opacity": 1,
+          "paddingHorizontal": 0,
+        }
+      }
+      testID="chip-button-item-4"
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "gap": 8,
+            "justifyContent": "center",
+            "padding": 12,
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "letterSpacing": -0.02,
+              "lineHeight": 14,
+            }
+          }
+        >
+          Outros
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Chip Should render all items, with none selected (single optional) 1`] = `
+<View
+  contentContainerStyle={
+    {
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+    }
+  }
+  horizontal={true}
+  showsHorizontalScrollIndicator={false}
+  style={
+    {
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+    }
+  }
+  testID="chip-button-group"
+>
+  <View
+    style={
+      {
+        "marginBottom": 8,
+        "marginRight": 8,
+      }
+    }
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "backgroundColor": "transparent",
+          "borderColor": "#E1E2E4",
+          "borderRadius": 12,
+          "borderWidth": 1,
+          "opacity": 1,
+          "paddingHorizontal": 0,
+        }
+      }
+      testID="chip-button-item-0"
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "gap": 8,
+            "justifyContent": "center",
+            "padding": 12,
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "letterSpacing": -0.02,
+              "lineHeight": 14,
+            }
+          }
+        >
+          Conta corrente
+        </Text>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "marginBottom": 8,
+        "marginRight": 8,
+      }
+    }
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "backgroundColor": "transparent",
+          "borderColor": "#E1E2E4",
+          "borderRadius": 12,
+          "borderWidth": 1,
+          "opacity": 1,
+          "paddingHorizontal": 0,
+        }
+      }
+      testID="chip-button-item-1"
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "gap": 8,
+            "justifyContent": "center",
+            "padding": 12,
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "letterSpacing": -0.02,
+              "lineHeight": 14,
+            }
+          }
+        >
+          Conta poupança
+        </Text>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "marginBottom": 8,
+        "marginRight": 8,
+      }
+    }
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "backgroundColor": "transparent",
+          "borderColor": "#E1E2E4",
+          "borderRadius": 12,
+          "borderWidth": 1,
+          "opacity": 1,
+          "paddingHorizontal": 0,
+        }
+      }
+      testID="chip-button-item-2"
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "gap": 8,
+            "justifyContent": "center",
+            "padding": 12,
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "letterSpacing": -0.02,
+              "lineHeight": 14,
+            }
+          }
+        >
+          Mesma titularidade
+        </Text>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "marginBottom": 8,
+        "marginRight": 8,
+      }
+    }
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "backgroundColor": "transparent",
+          "borderColor": "#E1E2E4",
+          "borderRadius": 12,
+          "borderWidth": 1,
+          "opacity": 1,
+          "paddingHorizontal": 0,
+        }
+      }
+      testID="chip-button-item-3"
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "gap": 8,
+            "justifyContent": "center",
+            "padding": 12,
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "letterSpacing": -0.02,
+              "lineHeight": 14,
+            }
+          }
+        >
+          Outra titularidade
+        </Text>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "marginBottom": 8,
+        "marginRight": 8,
+      }
+    }
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "backgroundColor": "transparent",
+          "borderColor": "#E1E2E4",
+          "borderRadius": 12,
+          "borderWidth": 1,
+          "opacity": 1,
+          "paddingHorizontal": 0,
+        }
+      }
+      testID="chip-button-item-4"
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "gap": 8,
+            "justifyContent": "center",
+            "padding": 12,
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "letterSpacing": -0.02,
+              "lineHeight": 14,
+            }
+          }
+        >
+          Outros
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Chip Should render all items, with the first two selected (multiple) 1`] = `
+<View
+  contentContainerStyle={
+    {
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+    }
+  }
+  horizontal={true}
+  showsHorizontalScrollIndicator={false}
+  style={
+    {
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+    }
+  }
+  testID="chip-button-group"
+>
+  <View
+    style={
+      {
+        "marginBottom": 8,
+        "marginRight": 8,
+      }
+    }
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "backgroundColor": "#FEF6F3",
+          "borderColor": "#F8CDB9",
+          "borderRadius": 12,
+          "borderWidth": 1,
+          "opacity": 1,
+          "paddingHorizontal": 0,
+        }
+      }
+      testID="chip-button-item-0"
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "gap": 8,
+            "justifyContent": "center",
+            "padding": 12,
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#E95814",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "letterSpacing": -0.02,
+              "lineHeight": 14,
+            }
+          }
+        >
+          Conta corrente
+        </Text>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "marginBottom": 8,
+        "marginRight": 8,
+      }
+    }
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "backgroundColor": "#FEF6F3",
+          "borderColor": "#F8CDB9",
+          "borderRadius": 12,
+          "borderWidth": 1,
+          "opacity": 1,
+          "paddingHorizontal": 0,
+        }
+      }
+      testID="chip-button-item-1"
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "gap": 8,
+            "justifyContent": "center",
+            "padding": 12,
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#E95814",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "letterSpacing": -0.02,
+              "lineHeight": 14,
+            }
+          }
+        >
+          Conta poupança
+        </Text>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "marginBottom": 8,
+        "marginRight": 8,
+      }
+    }
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "backgroundColor": "transparent",
+          "borderColor": "#E1E2E4",
+          "borderRadius": 12,
+          "borderWidth": 1,
+          "opacity": 1,
+          "paddingHorizontal": 0,
+        }
+      }
+      testID="chip-button-item-2"
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "gap": 8,
+            "justifyContent": "center",
+            "padding": 12,
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "letterSpacing": -0.02,
+              "lineHeight": 14,
+            }
+          }
+        >
+          Mesma titularidade
+        </Text>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "marginBottom": 8,
+        "marginRight": 8,
+      }
+    }
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "backgroundColor": "transparent",
+          "borderColor": "#E1E2E4",
+          "borderRadius": 12,
+          "borderWidth": 1,
+          "opacity": 1,
+          "paddingHorizontal": 0,
+        }
+      }
+      testID="chip-button-item-3"
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "gap": 8,
+            "justifyContent": "center",
+            "padding": 12,
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "letterSpacing": -0.02,
+              "lineHeight": 14,
+            }
+          }
+        >
+          Outra titularidade
+        </Text>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "marginBottom": 8,
+        "marginRight": 8,
+      }
+    }
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "backgroundColor": "transparent",
+          "borderColor": "#E1E2E4",
+          "borderRadius": 12,
+          "borderWidth": 1,
+          "opacity": 1,
+          "paddingHorizontal": 0,
+        }
+      }
+      testID="chip-button-item-4"
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "gap": 8,
+            "justifyContent": "center",
+            "padding": 12,
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "letterSpacing": -0.02,
+              "lineHeight": 14,
+            }
+          }
+        >
+          Outros
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Chip Should render inline 1`] = `
+<RCTScrollView
+  contentContainerStyle={
+    {
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+    }
+  }
+  horizontal={true}
+  showsHorizontalScrollIndicator={false}
+  style={
+    {
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+    }
+  }
+  testID="chip-button-group"
+>
+  <View>
+    <View
+      style={
+        {
+          "marginBottom": 8,
+          "marginRight": 8,
+        }
+      }
+    >
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "backgroundColor": "transparent",
+            "borderColor": "#E1E2E4",
+            "borderRadius": 12,
+            "borderWidth": 1,
+            "opacity": 1,
+            "paddingHorizontal": 0,
+          }
+        }
+        testID="chip-button-item-0"
+      >
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "flexDirection": "row",
+              "gap": 8,
+              "justifyContent": "center",
+              "padding": 12,
+            }
+          }
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              {
+                "color": "#676D79",
+                "flexShrink": 1,
+                "fontFamily": "Averta CY",
+                "fontSize": 14,
+                "fontWeight": "bold",
+                "letterSpacing": -0.02,
+                "lineHeight": 14,
+              }
+            }
+          >
+            Conta corrente
+          </Text>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "marginBottom": 8,
+          "marginRight": 8,
+        }
+      }
+    >
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "backgroundColor": "transparent",
+            "borderColor": "#E1E2E4",
+            "borderRadius": 12,
+            "borderWidth": 1,
+            "opacity": 1,
+            "paddingHorizontal": 0,
+          }
+        }
+        testID="chip-button-item-1"
+      >
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "flexDirection": "row",
+              "gap": 8,
+              "justifyContent": "center",
+              "padding": 12,
+            }
+          }
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              {
+                "color": "#676D79",
+                "flexShrink": 1,
+                "fontFamily": "Averta CY",
+                "fontSize": 14,
+                "fontWeight": "bold",
+                "letterSpacing": -0.02,
+                "lineHeight": 14,
+              }
+            }
+          >
+            Conta poupança
+          </Text>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "marginBottom": 8,
+          "marginRight": 8,
+        }
+      }
+    >
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "backgroundColor": "transparent",
+            "borderColor": "#E1E2E4",
+            "borderRadius": 12,
+            "borderWidth": 1,
+            "opacity": 1,
+            "paddingHorizontal": 0,
+          }
+        }
+        testID="chip-button-item-2"
+      >
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "flexDirection": "row",
+              "gap": 8,
+              "justifyContent": "center",
+              "padding": 12,
+            }
+          }
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              {
+                "color": "#676D79",
+                "flexShrink": 1,
+                "fontFamily": "Averta CY",
+                "fontSize": 14,
+                "fontWeight": "bold",
+                "letterSpacing": -0.02,
+                "lineHeight": 14,
+              }
+            }
+          >
+            Mesma titularidade
+          </Text>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "marginBottom": 8,
+          "marginRight": 8,
+        }
+      }
+    >
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "backgroundColor": "transparent",
+            "borderColor": "#E1E2E4",
+            "borderRadius": 12,
+            "borderWidth": 1,
+            "opacity": 1,
+            "paddingHorizontal": 0,
+          }
+        }
+        testID="chip-button-item-3"
+      >
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "flexDirection": "row",
+              "gap": 8,
+              "justifyContent": "center",
+              "padding": 12,
+            }
+          }
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              {
+                "color": "#676D79",
+                "flexShrink": 1,
+                "fontFamily": "Averta CY",
+                "fontSize": 14,
+                "fontWeight": "bold",
+                "letterSpacing": -0.02,
+                "lineHeight": 14,
+              }
+            }
+          >
+            Outra titularidade
+          </Text>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "marginBottom": 8,
+          "marginRight": 8,
+        }
+      }
+    >
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "backgroundColor": "transparent",
+            "borderColor": "#E1E2E4",
+            "borderRadius": 12,
+            "borderWidth": 1,
+            "opacity": 1,
+            "paddingHorizontal": 0,
+          }
+        }
+        testID="chip-button-item-4"
+      >
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "flexDirection": "row",
+              "gap": 8,
+              "justifyContent": "center",
+              "padding": 12,
+            }
+          }
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              {
+                "color": "#676D79",
+                "flexShrink": 1,
+                "fontFamily": "Averta CY",
+                "fontSize": 14,
+                "fontWeight": "bold",
+                "letterSpacing": -0.02,
+                "lineHeight": 14,
+              }
+            }
+          >
+            Outros
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+</RCTScrollView>
+`;

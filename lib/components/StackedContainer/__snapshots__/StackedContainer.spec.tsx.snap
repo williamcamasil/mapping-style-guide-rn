@@ -1,0 +1,515 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StackedContainer should render full stack 1`] = `
+<View
+  pointerEvents="auto"
+  style={
+    {
+      "alignItems": undefined,
+      "backgroundColor": "#FFFFFF",
+      "flex": 1,
+      "flexDirection": undefined,
+      "justifyContent": undefined,
+      "padding": undefined,
+      "paddingBottom": undefined,
+      "paddingHorizontal": undefined,
+      "paddingLeft": undefined,
+      "paddingRight": undefined,
+      "paddingTop": undefined,
+      "paddingVertical": undefined,
+    }
+  }
+>
+  <View>
+    <Text>
+      StackedContainer
+    </Text>
+  </View>
+  <View
+    onLayout={[Function]}
+    style={
+      [
+        {
+          "flex": 1,
+        },
+        {
+          "paddingBottom": 0,
+        },
+      ]
+    }
+  >
+    <RCTScrollView
+      contentContainerStyle={
+        {
+          "flexGrow": 1,
+          "justifyContent": "space-between",
+          "paddingHorizontal": 28,
+        }
+      }
+      keyboardShouldPersistTaps="handled"
+    >
+      <View>
+        <RCTSafeAreaView>
+          <View>
+            <Text>
+              StackedContainer
+            </Text>
+          </View>
+          <Text
+            style={
+              {
+                "height": 28,
+                "width": 28,
+              }
+            }
+          />
+        </RCTSafeAreaView>
+        <RCTSafeAreaView>
+          <View>
+            <Text>
+              StackedContainer
+            </Text>
+          </View>
+          <Text
+            style={
+              {
+                "height": 28,
+                "width": 28,
+              }
+            }
+          />
+        </RCTSafeAreaView>
+        <RCTSafeAreaView>
+          <View>
+            <Text>
+              StackedContainer
+            </Text>
+          </View>
+          <Text
+            style={
+              {
+                "height": 28,
+                "width": 28,
+              }
+            }
+          />
+        </RCTSafeAreaView>
+      </View>
+    </RCTScrollView>
+  </View>
+</View>
+`;
+
+exports[`StackedContainer should render only bottom 1`] = `
+<View
+  pointerEvents="auto"
+  style={
+    {
+      "alignItems": undefined,
+      "backgroundColor": "#FFFFFF",
+      "flex": 1,
+      "flexDirection": undefined,
+      "justifyContent": undefined,
+      "padding": undefined,
+      "paddingBottom": undefined,
+      "paddingHorizontal": undefined,
+      "paddingLeft": undefined,
+      "paddingRight": undefined,
+      "paddingTop": undefined,
+      "paddingVertical": undefined,
+    }
+  }
+>
+  <View
+    onLayout={[Function]}
+    style={
+      [
+        {
+          "flex": 1,
+        },
+        {
+          "paddingBottom": 0,
+        },
+      ]
+    }
+  >
+    <RCTScrollView
+      contentContainerStyle={
+        {
+          "flexGrow": 1,
+          "justifyContent": "space-between",
+          "paddingHorizontal": 28,
+        }
+      }
+      keyboardShouldPersistTaps="handled"
+    >
+      <View>
+        <RCTSafeAreaView>
+          <View>
+            <Text>
+              StackedContainer
+            </Text>
+          </View>
+          <Text
+            style={
+              {
+                "height": 28,
+                "width": 28,
+              }
+            }
+          />
+        </RCTSafeAreaView>
+      </View>
+    </RCTScrollView>
+  </View>
+</View>
+`;
+
+exports[`StackedContainer should render only header 1`] = `
+<View
+  pointerEvents="auto"
+  style={
+    {
+      "alignItems": undefined,
+      "backgroundColor": "#FFFFFF",
+      "flex": 1,
+      "flexDirection": undefined,
+      "justifyContent": undefined,
+      "padding": undefined,
+      "paddingBottom": undefined,
+      "paddingHorizontal": undefined,
+      "paddingLeft": undefined,
+      "paddingRight": undefined,
+      "paddingTop": undefined,
+      "paddingVertical": undefined,
+    }
+  }
+>
+  <View>
+    <Text>
+      StackedContainer
+    </Text>
+  </View>
+  <View
+    onLayout={[Function]}
+    style={
+      [
+        {
+          "flex": 1,
+        },
+        {
+          "paddingBottom": 0,
+        },
+      ]
+    }
+  >
+    <RCTScrollView
+      contentContainerStyle={
+        {
+          "flexGrow": 1,
+          "justifyContent": "space-between",
+          "paddingHorizontal": 28,
+        }
+      }
+      keyboardShouldPersistTaps="handled"
+    >
+      <View />
+    </RCTScrollView>
+  </View>
+</View>
+`;
+
+exports[`StackedContainer should render only header, top and bottom 1`] = `
+<View
+  pointerEvents="auto"
+  style={
+    {
+      "alignItems": undefined,
+      "backgroundColor": "#FFFFFF",
+      "flex": 1,
+      "flexDirection": undefined,
+      "justifyContent": undefined,
+      "padding": undefined,
+      "paddingBottom": undefined,
+      "paddingHorizontal": undefined,
+      "paddingLeft": undefined,
+      "paddingRight": undefined,
+      "paddingTop": undefined,
+      "paddingVertical": undefined,
+    }
+  }
+>
+  <View>
+    <Text>
+      StackedContainer
+    </Text>
+  </View>
+  <View
+    onLayout={[Function]}
+    style={
+      [
+        {
+          "flex": 1,
+        },
+        {
+          "paddingBottom": 0,
+        },
+      ]
+    }
+  >
+    <RCTScrollView
+      contentContainerStyle={
+        {
+          "flexGrow": 1,
+          "justifyContent": "space-between",
+          "paddingHorizontal": 28,
+        }
+      }
+      keyboardShouldPersistTaps="handled"
+    >
+      <View>
+        <RCTSafeAreaView>
+          <View>
+            <Text>
+              StackedContainer
+            </Text>
+          </View>
+          <Text
+            style={
+              {
+                "height": 28,
+                "width": 28,
+              }
+            }
+          />
+        </RCTSafeAreaView>
+        <RCTSafeAreaView>
+          <View>
+            <Text>
+              StackedContainer
+            </Text>
+          </View>
+          <Text
+            style={
+              {
+                "height": 28,
+                "width": 28,
+              }
+            }
+          />
+        </RCTSafeAreaView>
+      </View>
+    </RCTScrollView>
+  </View>
+</View>
+`;
+
+exports[`StackedContainer should render only middle 1`] = `
+<View
+  pointerEvents="auto"
+  style={
+    {
+      "alignItems": undefined,
+      "backgroundColor": "#FFFFFF",
+      "flex": 1,
+      "flexDirection": undefined,
+      "justifyContent": undefined,
+      "padding": undefined,
+      "paddingBottom": undefined,
+      "paddingHorizontal": undefined,
+      "paddingLeft": undefined,
+      "paddingRight": undefined,
+      "paddingTop": undefined,
+      "paddingVertical": undefined,
+    }
+  }
+>
+  <View
+    onLayout={[Function]}
+    style={
+      [
+        {
+          "flex": 1,
+        },
+        {
+          "paddingBottom": 0,
+        },
+      ]
+    }
+  >
+    <RCTScrollView
+      contentContainerStyle={
+        {
+          "flexGrow": 1,
+          "justifyContent": "space-between",
+          "paddingHorizontal": 28,
+        }
+      }
+      keyboardShouldPersistTaps="handled"
+    >
+      <View>
+        <RCTSafeAreaView>
+          <View>
+            <Text>
+              StackedContainer
+            </Text>
+          </View>
+          <Text
+            style={
+              {
+                "height": 28,
+                "width": 28,
+              }
+            }
+          />
+        </RCTSafeAreaView>
+      </View>
+    </RCTScrollView>
+  </View>
+</View>
+`;
+
+exports[`StackedContainer should render only top 1`] = `
+<View
+  pointerEvents="auto"
+  style={
+    {
+      "alignItems": undefined,
+      "backgroundColor": "#FFFFFF",
+      "flex": 1,
+      "flexDirection": undefined,
+      "justifyContent": undefined,
+      "padding": undefined,
+      "paddingBottom": undefined,
+      "paddingHorizontal": undefined,
+      "paddingLeft": undefined,
+      "paddingRight": undefined,
+      "paddingTop": undefined,
+      "paddingVertical": undefined,
+    }
+  }
+>
+  <View
+    onLayout={[Function]}
+    style={
+      [
+        {
+          "flex": 1,
+        },
+        {
+          "paddingBottom": 0,
+        },
+      ]
+    }
+  >
+    <RCTScrollView
+      contentContainerStyle={
+        {
+          "flexGrow": 1,
+          "justifyContent": "space-between",
+          "paddingHorizontal": 28,
+        }
+      }
+      keyboardShouldPersistTaps="handled"
+    >
+      <View>
+        <RCTSafeAreaView>
+          <View>
+            <Text>
+              StackedContainer
+            </Text>
+          </View>
+          <Text
+            style={
+              {
+                "height": 28,
+                "width": 28,
+              }
+            }
+          />
+        </RCTSafeAreaView>
+      </View>
+    </RCTScrollView>
+  </View>
+</View>
+`;
+
+exports[`StackedContainer should render only top and bottom 1`] = `
+<View
+  pointerEvents="auto"
+  style={
+    {
+      "alignItems": undefined,
+      "backgroundColor": "#FFFFFF",
+      "flex": 1,
+      "flexDirection": undefined,
+      "justifyContent": undefined,
+      "padding": undefined,
+      "paddingBottom": undefined,
+      "paddingHorizontal": undefined,
+      "paddingLeft": undefined,
+      "paddingRight": undefined,
+      "paddingTop": undefined,
+      "paddingVertical": undefined,
+    }
+  }
+>
+  <View
+    onLayout={[Function]}
+    style={
+      [
+        {
+          "flex": 1,
+        },
+        {
+          "paddingBottom": 0,
+        },
+      ]
+    }
+  >
+    <RCTScrollView
+      contentContainerStyle={
+        {
+          "flexGrow": 1,
+          "justifyContent": "space-between",
+          "paddingHorizontal": 28,
+        }
+      }
+      keyboardShouldPersistTaps="handled"
+    >
+      <View>
+        <RCTSafeAreaView>
+          <View>
+            <Text>
+              StackedContainer
+            </Text>
+          </View>
+          <Text
+            style={
+              {
+                "height": 28,
+                "width": 28,
+              }
+            }
+          />
+        </RCTSafeAreaView>
+        <RCTSafeAreaView>
+          <View>
+            <Text>
+              StackedContainer
+            </Text>
+          </View>
+          <Text
+            style={
+              {
+                "height": 28,
+                "width": 28,
+              }
+            }
+          />
+        </RCTSafeAreaView>
+      </View>
+    </RCTScrollView>
+  </View>
+</View>
+`;

@@ -1,3 +1,3 @@
-const jestConfig = require('omni-tools-rn/lib/jest/jest.config');
+const jestConfig = require('mapping-tools-rn/lib/jest/jest.config');
 
 module.exports = jestConfig;

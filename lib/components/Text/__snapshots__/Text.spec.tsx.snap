@@ -1,0 +1,420 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Text snapshot should match variant snapshot 1`] = `
+<Text
+  allowFontScaling={false}
+  style={
+    {
+      "color": "#676D79",
+      "flexShrink": 1,
+      "fontFamily": "Averta CY",
+      "fontSize": 48,
+      "fontWeight": "bold",
+      "letterSpacing": -0.02,
+      "lineHeight": 58,
+    }
+  }
+>
+  headingDisplay
+</Text>
+`;
+
+exports[`Text snapshot should match variant snapshot 2`] = `
+<Text
+  allowFontScaling={false}
+  style={
+    {
+      "color": "#676D79",
+      "flexShrink": 1,
+      "fontFamily": "Averta CY",
+      "fontSize": 40,
+      "fontWeight": "bold",
+      "letterSpacing": -0.02,
+      "lineHeight": 48,
+    }
+  }
+>
+  headingXLarge
+</Text>
+`;
+
+exports[`Text snapshot should match variant snapshot 3`] = `
+<Text
+  allowFontScaling={false}
+  style={
+    {
+      "color": "#676D79",
+      "flexShrink": 1,
+      "fontFamily": "Averta CY",
+      "fontSize": 33,
+      "fontWeight": "bold",
+      "letterSpacing": -0.02,
+      "lineHeight": 46,
+    }
+  }
+>
+  headingLarge
+</Text>
+`;
+
+exports[`Text snapshot should match variant snapshot 4`] = `
+<Text
+  allowFontScaling={false}
+  style={
+    {
+      "color": "#676D79",
+      "flexShrink": 1,
+      "fontFamily": "Averta CY",
+      "fontSize": 27,
+      "fontWeight": "bold",
+      "letterSpacing": -0.02,
+      "lineHeight": 32,
+    }
+  }
+>
+  headingMedium
+</Text>
+`;
+
+exports[`Text snapshot should match variant snapshot 5`] = `
+<Text
+  allowFontScaling={false}
+  style={
+    {
+      "color": "#676D79",
+      "flexShrink": 1,
+      "fontFamily": "Averta CY",
+      "fontSize": 23,
+      "fontWeight": "bold",
+      "letterSpacing": -0.02,
+      "lineHeight": 28,
+    }
+  }
+>
+  headingSmall
+</Text>
+`;
+
+exports[`Text snapshot should match variant snapshot 6`] = `
+<Text
+  allowFontScaling={false}
+  style={
+    {
+      "color": "#676D79",
+      "flexShrink": 1,
+      "fontFamily": "Averta CY",
+      "fontSize": 19,
+      "fontWeight": "normal",
+      "letterSpacing": -0.02,
+      "lineHeight": 27,
+    }
+  }
+>
+  subtitle
+</Text>
+`;
+
+exports[`Text snapshot should match variant snapshot 7`] = `
+<Text
+  allowFontScaling={false}
+  style={
+    {
+      "color": "#676D79",
+      "flexShrink": 1,
+      "fontFamily": "Averta CY",
+      "fontSize": 16,
+      "fontWeight": "normal",
+      "letterSpacing": -0.02,
+      "lineHeight": 22,
+    }
+  }
+>
+  body
+</Text>
+`;
+
+exports[`Text snapshot should match variant snapshot 8`] = `
+<Text
+  allowFontScaling={false}
+  style={
+    {
+      "color": "#676D79",
+      "flexShrink": 1,
+      "fontFamily": "Averta CY",
+      "fontSize": 14,
+      "fontWeight": "normal",
+      "letterSpacing": -0.02,
+      "lineHeight": 20,
+    }
+  }
+>
+  bodySmall
+</Text>
+`;
+
+exports[`Text snapshot should match variant snapshot 9`] = `
+<Text
+  allowFontScaling={false}
+  style={
+    {
+      "color": "#676D79",
+      "flexShrink": 1,
+      "fontFamily": "Averta CY",
+      "fontSize": 13,
+      "fontWeight": "normal",
+      "letterSpacing": -0.02,
+      "lineHeight": 16,
+    }
+  }
+>
+  caption
+</Text>
+`;
+
+exports[`Text snapshot should match variant snapshot 10`] = `
+<Text
+  allowFontScaling={false}
+  style={
+    {
+      "color": "#676D79",
+      "flexShrink": 1,
+      "fontFamily": "Averta CY",
+      "fontSize": 14,
+      "fontWeight": "bold",
+      "letterSpacing": -0.02,
+      "lineHeight": 17,
+    }
+  }
+>
+  small
+</Text>
+`;
+
+exports[`Text snapshot should match variant snapshot 11`] = `
+<Text
+  allowFontScaling={false}
+  style={
+    {
+      "color": "#676D79",
+      "flexShrink": 1,
+      "fontFamily": "Averta CY",
+      "fontSize": 11,
+      "fontWeight": "bold",
+      "letterSpacing": -0.02,
+      "lineHeight": 13,
+      "textTransform": "uppercase",
+    }
+  }
+>
+  smallCaps
+</Text>
+`;
+
+exports[`Text snapshot should match variant snapshot 12`] = `
+<Text
+  allowFontScaling={false}
+  style={
+    {
+      "color": "#676D79",
+      "flexShrink": 1,
+      "fontFamily": "Averta CY",
+      "fontSize": 27,
+      "fontWeight": "normal",
+      "letterSpacing": -0.02,
+      "lineHeight": 27,
+    }
+  }
+>
+  oneLineHuge
+</Text>
+`;
+
+exports[`Text snapshot should match variant snapshot 13`] = `
+<Text
+  allowFontScaling={false}
+  style={
+    {
+      "color": "#676D79",
+      "flexShrink": 1,
+      "fontFamily": "Averta CY",
+      "fontSize": 23,
+      "fontWeight": "normal",
+      "letterSpacing": -0.02,
+      "lineHeight": 23,
+    }
+  }
+>
+  oneLineLarge
+</Text>
+`;
+
+exports[`Text snapshot should match variant snapshot 14`] = `
+<Text
+  allowFontScaling={false}
+  style={
+    {
+      "color": "#676D79",
+      "flexShrink": 1,
+      "fontFamily": "Averta CY",
+      "fontSize": 16,
+      "fontWeight": "normal",
+      "letterSpacing": -0.02,
+      "lineHeight": 16,
+    }
+  }
+>
+  oneLineMedium
+</Text>
+`;
+
+exports[`Text snapshot should match variant snapshot 15`] = `
+<Text
+  allowFontScaling={false}
+  style={
+    {
+      "color": "#676D79",
+      "flexShrink": 1,
+      "fontFamily": "Averta CY",
+      "fontSize": 14,
+      "fontWeight": "normal",
+      "letterSpacing": -0.02,
+      "lineHeight": 14,
+    }
+  }
+>
+  oneLineSmall
+</Text>
+`;
+
+exports[`Text snapshot should match variant snapshot 16`] = `
+<Text
+  allowFontScaling={false}
+  style={
+    {
+      "color": "#676D79",
+      "flexShrink": 1,
+      "fontFamily": "Averta CY",
+      "fontSize": 13,
+      "fontWeight": "normal",
+      "letterSpacing": -0.02,
+      "lineHeight": 13,
+    }
+  }
+>
+  oneLineCaption
+</Text>
+`;
+
+exports[`Text snapshot should match variant snapshot 17`] = `
+<Text
+  allowFontScaling={false}
+  style={
+    {
+      "color": "#676D79",
+      "flexShrink": 1,
+      "fontFamily": "Averta CY",
+      "fontSize": 19,
+      "fontWeight": "500",
+      "letterSpacing": -0.02,
+      "lineHeight": 19,
+    }
+  }
+>
+  oneLineSemibold
+</Text>
+`;
+
+exports[`Text snapshot should match variant snapshot 18`] = `
+<Text
+  allowFontScaling={false}
+  style={
+    {
+      "color": "#676D79",
+      "flexShrink": 1,
+      "fontFamily": "Averta CY",
+      "fontSize": 27,
+      "fontWeight": "bold",
+      "letterSpacing": -0.02,
+      "lineHeight": 27,
+    }
+  }
+>
+  oneLineBoldHuge
+</Text>
+`;
+
+exports[`Text snapshot should match variant snapshot 19`] = `
+<Text
+  allowFontScaling={false}
+  style={
+    {
+      "color": "#676D79",
+      "flexShrink": 1,
+      "fontFamily": "Averta CY",
+      "fontSize": 23,
+      "fontWeight": "bold",
+      "letterSpacing": -0.02,
+      "lineHeight": 23,
+    }
+  }
+>
+  oneLineBoldExtraLarge
+</Text>
+`;
+
+exports[`Text snapshot should match variant snapshot 20`] = `
+<Text
+  allowFontScaling={false}
+  style={
+    {
+      "color": "#676D79",
+      "flexShrink": 1,
+      "fontFamily": "Averta CY",
+      "fontSize": 19,
+      "fontWeight": "bold",
+      "letterSpacing": -0.02,
+      "lineHeight": 19,
+    }
+  }
+>
+  oneLineBoldLarge
+</Text>
+`;
+
+exports[`Text snapshot should match variant snapshot 21`] = `
+<Text
+  allowFontScaling={false}
+  style={
+    {
+      "color": "#676D79",
+      "flexShrink": 1,
+      "fontFamily": "Averta CY",
+      "fontSize": 16,
+      "fontWeight": "bold",
+      "letterSpacing": -0.02,
+      "lineHeight": 16,
+    }
+  }
+>
+  oneLineBoldMedium
+</Text>
+`;
+
+exports[`Text snapshot should match variant snapshot 22`] = `
+<Text
+  allowFontScaling={false}
+  style={
+    {
+      "color": "#676D79",
+      "flexShrink": 1,
+      "fontFamily": "Averta CY",
+      "fontSize": 14,
+      "fontWeight": "bold",
+      "letterSpacing": -0.02,
+      "lineHeight": 14,
+    }
+  }
+>
+  oneLineBoldSmall
+</Text>
+`;

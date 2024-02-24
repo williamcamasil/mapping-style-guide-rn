@@ -1,0 +1,639 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DefaultList snapshot ListFooterComponent 1`] = `
+<View
+  style={
+    {
+      "backgroundColor": "transparent",
+      "flex": 1,
+    }
+  }
+>
+  <RCTScrollView
+    ListFooterComponent={
+      <withTheme(Text)>
+        Footer
+      </withTheme(Text)>
+    }
+    contentContainerStyle={{}}
+    data={
+      [
+        {
+          "age": 33,
+          "name": "Douglas",
+        },
+        {
+          "age": 34,
+          "name": "Bruna",
+        },
+        {
+          "age": 2,
+          "name": "Arthur",
+        },
+      ]
+    }
+    getItem={[Function]}
+    getItemCount={[Function]}
+    keyExtractor={[Function]}
+    onContentSizeChange={[Function]}
+    onLayout={[Function]}
+    onMomentumScrollBegin={[Function]}
+    onMomentumScrollEnd={[Function]}
+    onScroll={[Function]}
+    onScrollBeginDrag={[Function]}
+    onScrollEndDrag={[Function]}
+    removeClippedSubviews={false}
+    renderItem={[Function]}
+    scrollEventThrottle={50}
+    scrollToOverflowEnabled={true}
+    stickyHeaderIndices={[]}
+    testID="internal-list"
+    type="flat"
+    viewabilityConfigCallbackPairs={[]}
+  >
+    <View>
+      <View
+        onFocusCapture={[Function]}
+        onLayout={[Function]}
+        style={null}
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 16,
+              "fontWeight": "normal",
+              "letterSpacing": -0.02,
+              "lineHeight": 22,
+            }
+          }
+        >
+          Douglas
+           - 
+          33
+        </Text>
+      </View>
+      <View
+        onFocusCapture={[Function]}
+        onLayout={[Function]}
+        style={null}
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 16,
+              "fontWeight": "normal",
+              "letterSpacing": -0.02,
+              "lineHeight": 22,
+            }
+          }
+        >
+          Bruna
+           - 
+          34
+        </Text>
+      </View>
+      <View
+        onFocusCapture={[Function]}
+        onLayout={[Function]}
+        style={null}
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 16,
+              "fontWeight": "normal",
+              "letterSpacing": -0.02,
+              "lineHeight": 22,
+            }
+          }
+        >
+          Arthur
+           - 
+          2
+        </Text>
+      </View>
+      <View
+        onLayout={[Function]}
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 16,
+              "fontWeight": "normal",
+              "letterSpacing": -0.02,
+              "lineHeight": 22,
+            }
+          }
+        >
+          Footer
+        </Text>
+      </View>
+    </View>
+  </RCTScrollView>
+</View>
+`;
+
+exports[`DefaultList snapshot endListMessage 1`] = `
+<View
+  style={
+    {
+      "backgroundColor": "transparent",
+      "flex": 1,
+    }
+  }
+>
+  <RCTScrollView
+    ListFooterComponent={
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "justifyContent": "center",
+            "padding": 8,
+          }
+        }
+      >
+        <withTheme(Text)
+          color="feedbackError300"
+          style={
+            {
+              "textAlign": "center",
+            }
+          }
+        >
+          Fim da lista
+        </withTheme(Text)>
+      </View>
+    }
+    contentContainerStyle={{}}
+    data={
+      [
+        {
+          "age": 33,
+          "name": "Douglas",
+        },
+        {
+          "age": 34,
+          "name": "Bruna",
+        },
+        {
+          "age": 2,
+          "name": "Arthur",
+        },
+      ]
+    }
+    getItem={[Function]}
+    getItemCount={[Function]}
+    keyExtractor={[Function]}
+    onContentSizeChange={[Function]}
+    onLayout={[Function]}
+    onMomentumScrollBegin={[Function]}
+    onMomentumScrollEnd={[Function]}
+    onScroll={[Function]}
+    onScrollBeginDrag={[Function]}
+    onScrollEndDrag={[Function]}
+    removeClippedSubviews={false}
+    renderItem={[Function]}
+    scrollEventThrottle={50}
+    scrollToOverflowEnabled={true}
+    stickyHeaderIndices={[]}
+    testID="internal-list"
+    type="flat"
+    viewabilityConfigCallbackPairs={[]}
+  >
+    <View>
+      <View
+        onFocusCapture={[Function]}
+        onLayout={[Function]}
+        style={null}
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 16,
+              "fontWeight": "normal",
+              "letterSpacing": -0.02,
+              "lineHeight": 22,
+            }
+          }
+        >
+          Douglas
+           - 
+          33
+        </Text>
+      </View>
+      <View
+        onFocusCapture={[Function]}
+        onLayout={[Function]}
+        style={null}
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 16,
+              "fontWeight": "normal",
+              "letterSpacing": -0.02,
+              "lineHeight": 22,
+            }
+          }
+        >
+          Bruna
+           - 
+          34
+        </Text>
+      </View>
+      <View
+        onFocusCapture={[Function]}
+        onLayout={[Function]}
+        style={null}
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 16,
+              "fontWeight": "normal",
+              "letterSpacing": -0.02,
+              "lineHeight": 22,
+            }
+          }
+        >
+          Arthur
+           - 
+          2
+        </Text>
+      </View>
+      <View
+        onLayout={[Function]}
+      >
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "justifyContent": "center",
+              "padding": 8,
+            }
+          }
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              {
+                "color": "#FF8E88",
+                "flexShrink": 1,
+                "fontFamily": "Averta CY",
+                "fontSize": 16,
+                "fontWeight": "normal",
+                "letterSpacing": -0.02,
+                "lineHeight": 22,
+                "textAlign": "center",
+              }
+            }
+          >
+            Fim da lista
+          </Text>
+        </View>
+      </View>
+    </View>
+  </RCTScrollView>
+</View>
+`;
+
+exports[`DefaultList snapshot flat 1`] = `
+<View
+  style={
+    {
+      "backgroundColor": "transparent",
+      "flex": 1,
+    }
+  }
+>
+  <RCTScrollView
+    ListFooterComponent={null}
+    contentContainerStyle={{}}
+    data={
+      [
+        {
+          "age": 33,
+          "name": "Douglas",
+        },
+        {
+          "age": 34,
+          "name": "Bruna",
+        },
+        {
+          "age": 2,
+          "name": "Arthur",
+        },
+      ]
+    }
+    getItem={[Function]}
+    getItemCount={[Function]}
+    keyExtractor={[Function]}
+    onContentSizeChange={[Function]}
+    onLayout={[Function]}
+    onMomentumScrollBegin={[Function]}
+    onMomentumScrollEnd={[Function]}
+    onScroll={[Function]}
+    onScrollBeginDrag={[Function]}
+    onScrollEndDrag={[Function]}
+    removeClippedSubviews={false}
+    renderItem={[Function]}
+    scrollEventThrottle={50}
+    scrollToOverflowEnabled={true}
+    stickyHeaderIndices={[]}
+    testID="internal-list"
+    type="flat"
+    viewabilityConfigCallbackPairs={[]}
+  >
+    <View>
+      <View
+        onFocusCapture={[Function]}
+        onLayout={[Function]}
+        style={null}
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 16,
+              "fontWeight": "normal",
+              "letterSpacing": -0.02,
+              "lineHeight": 22,
+            }
+          }
+        >
+          Douglas
+           - 
+          33
+        </Text>
+      </View>
+      <View
+        onFocusCapture={[Function]}
+        onLayout={[Function]}
+        style={null}
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 16,
+              "fontWeight": "normal",
+              "letterSpacing": -0.02,
+              "lineHeight": 22,
+            }
+          }
+        >
+          Bruna
+           - 
+          34
+        </Text>
+      </View>
+      <View
+        onFocusCapture={[Function]}
+        onLayout={[Function]}
+        style={null}
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 16,
+              "fontWeight": "normal",
+              "letterSpacing": -0.02,
+              "lineHeight": 22,
+            }
+          }
+        >
+          Arthur
+           - 
+          2
+        </Text>
+      </View>
+    </View>
+  </RCTScrollView>
+</View>
+`;
+
+exports[`DefaultList snapshot sections 1`] = `
+<View
+  style={
+    {
+      "backgroundColor": "transparent",
+      "flex": 1,
+    }
+  }
+>
+  <RCTScrollView
+    ListFooterComponent={null}
+    contentContainerStyle={{}}
+    data={
+      [
+        {
+          "data": [
+            {
+              "age": 33,
+              "name": "Douglas",
+            },
+            {
+              "age": 2,
+              "name": "Arthur",
+            },
+          ],
+          "title": "Homens",
+        },
+        {
+          "data": [
+            {
+              "age": 34,
+              "name": "Bruna",
+            },
+          ],
+          "title": "Mulheres",
+        },
+      ]
+    }
+    getItem={[Function]}
+    getItemCount={[Function]}
+    keyExtractor={[Function]}
+    onContentSizeChange={[Function]}
+    onLayout={[Function]}
+    onMomentumScrollBegin={[Function]}
+    onMomentumScrollEnd={[Function]}
+    onScroll={[Function]}
+    onScrollBeginDrag={[Function]}
+    onScrollEndDrag={[Function]}
+    renderItem={[Function]}
+    scrollEventThrottle={50}
+    scrollToOverflowEnabled={true}
+    stickyHeaderIndices={[]}
+    testID="internal-list"
+    type="flat"
+  >
+    <View>
+      <View
+        onFocusCapture={[Function]}
+        onLayout={[Function]}
+        style={null}
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 16,
+              "fontWeight": "normal",
+              "letterSpacing": -0.02,
+              "lineHeight": 22,
+            }
+          }
+        >
+          Homens
+        </Text>
+      </View>
+      <View
+        onFocusCapture={[Function]}
+        onLayout={[Function]}
+        style={null}
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 16,
+              "fontWeight": "normal",
+              "letterSpacing": -0.02,
+              "lineHeight": 22,
+            }
+          }
+        >
+          Douglas
+           - 
+          33
+        </Text>
+      </View>
+      <View
+        onFocusCapture={[Function]}
+        onLayout={[Function]}
+        style={null}
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 16,
+              "fontWeight": "normal",
+              "letterSpacing": -0.02,
+              "lineHeight": 22,
+            }
+          }
+        >
+          Arthur
+           - 
+          2
+        </Text>
+      </View>
+      <View
+        onFocusCapture={[Function]}
+        onLayout={[Function]}
+        style={null}
+      />
+      <View
+        onFocusCapture={[Function]}
+        onLayout={[Function]}
+        style={null}
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 16,
+              "fontWeight": "normal",
+              "letterSpacing": -0.02,
+              "lineHeight": 22,
+            }
+          }
+        >
+          Mulheres
+        </Text>
+      </View>
+      <View
+        onFocusCapture={[Function]}
+        onLayout={[Function]}
+        style={null}
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 16,
+              "fontWeight": "normal",
+              "letterSpacing": -0.02,
+              "lineHeight": 22,
+            }
+          }
+        >
+          Bruna
+           - 
+          34
+        </Text>
+      </View>
+      <View
+        onFocusCapture={[Function]}
+        onLayout={[Function]}
+        style={null}
+      />
+    </View>
+  </RCTScrollView>
+</View>
+`;

@@ -13,6 +13,9 @@
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		43417B0820EB56C235DC03F8 /* ExpoModulesProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEADD5EE9359103DDBF82554 /* ExpoModulesProvider.swift */; };
+		698031362B8A94D800251562 /* AvertaCY-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 698031332B8A94D700251562 /* AvertaCY-Regular.ttf */; };
+		698031372B8A94D800251562 /* AvertaCY-Semibold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 698031342B8A94D700251562 /* AvertaCY-Semibold.ttf */; };
+		698031382B8A94D800251562 /* AvertaCY-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 698031352B8A94D800251562 /* AvertaCY-Bold.ttf */; };
 		7699B88040F8A987B510C191 /* libPods-MappingStyleGuideRn-MappingStyleGuideRnTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-MappingStyleGuideRn-MappingStyleGuideRnTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		B5F07EE5C84DF86859576AB5 /* ExpoModulesProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 490A4A5361A772A7BAB2E933 /* ExpoModulesProvider.swift */; };
@@ -44,6 +47,9 @@
 		5709B34CF0A7D63546082F79 /* Pods-MappingStyleGuideRn.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MappingStyleGuideRn.release.xcconfig"; path = "Target Support Files/Pods-MappingStyleGuideRn/Pods-MappingStyleGuideRn.release.xcconfig"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-MappingStyleGuideRn-MappingStyleGuideRnTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MappingStyleGuideRn-MappingStyleGuideRnTests.debug.xcconfig"; path = "Target Support Files/Pods-MappingStyleGuideRn-MappingStyleGuideRnTests/Pods-MappingStyleGuideRn-MappingStyleGuideRnTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-MappingStyleGuideRn.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MappingStyleGuideRn.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		698031332B8A94D700251562 /* AvertaCY-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "AvertaCY-Regular.ttf"; path = "../assets/fonts/AvertaCY-Regular.ttf"; sourceTree = "<group>"; };
+		698031342B8A94D700251562 /* AvertaCY-Semibold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "AvertaCY-Semibold.ttf"; path = "../assets/fonts/AvertaCY-Semibold.ttf"; sourceTree = "<group>"; };
+		698031352B8A94D800251562 /* AvertaCY-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "AvertaCY-Bold.ttf"; path = "../assets/fonts/AvertaCY-Bold.ttf"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = MappingStyleGuideRn/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-MappingStyleGuideRn-MappingStyleGuideRnTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MappingStyleGuideRn-MappingStyleGuideRnTests.release.xcconfig"; path = "Target Support Files/Pods-MappingStyleGuideRn-MappingStyleGuideRnTests/Pods-MappingStyleGuideRn-MappingStyleGuideRnTests.release.xcconfig"; sourceTree = "<group>"; };
 		AEADD5EE9359103DDBF82554 /* ExpoModulesProvider.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ExpoModulesProvider.swift; path = "Pods/Target Support Files/Pods-MappingStyleGuideRn/ExpoModulesProvider.swift"; sourceTree = "<group>"; };
@@ -137,6 +143,9 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
+				698031352B8A94D800251562 /* AvertaCY-Bold.ttf */,
+				698031332B8A94D700251562 /* AvertaCY-Regular.ttf */,
+				698031342B8A94D700251562 /* AvertaCY-Semibold.ttf */,
 				13B07FAE1A68108700A75B9A /* MappingStyleGuideRn */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* MappingStyleGuideRnTests */,
@@ -272,6 +281,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				698031362B8A94D800251562 /* AvertaCY-Regular.ttf in Resources */,
+				698031372B8A94D800251562 /* AvertaCY-Semibold.ttf in Resources */,
+				698031382B8A94D800251562 /* AvertaCY-Bold.ttf in Resources */,
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 			);

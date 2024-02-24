@@ -1,0 +1,95 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Loading snapshot default 1`] = `
+<View
+  style={
+    {
+      "alignItems": "center",
+      "flexDirection": "row",
+      "justifyContent": "center",
+    }
+  }
+>
+  <View
+    style={
+      {
+        "borderColor": "hsla(0, 0%, 100%, 0.6)",
+        "borderRadius": 4,
+        "borderStyle": "solid",
+        "borderWidth": 0.5,
+        "height": 8,
+        "marginHorizontal": 4,
+        "overflow": "hidden",
+        "width": 8,
+      }
+    }
+  >
+    <View
+      collapsable={false}
+      style={
+        {
+          "backgroundColor": "#FFFFFF",
+          "borderRadius": 4,
+          "height": "100%",
+          "opacity": 1,
+          "width": "100%",
+        }
+      }
+    />
+  </View>
+  <View
+    style={
+      {
+        "borderColor": "hsla(0, 0%, 100%, 0.6)",
+        "borderRadius": 4,
+        "borderStyle": "solid",
+        "borderWidth": 0.5,
+        "height": 8,
+        "marginHorizontal": 4,
+        "overflow": "hidden",
+        "width": 8,
+      }
+    }
+  >
+    <View
+      collapsable={false}
+      style={
+        {
+          "backgroundColor": "#FFFFFF",
+          "borderRadius": 4,
+          "height": "100%",
+          "opacity": 0,
+          "width": "100%",
+        }
+      }
+    />
+  </View>
+  <View
+    style={
+      {
+        "borderColor": "hsla(0, 0%, 100%, 0.6)",
+        "borderRadius": 4,
+        "borderStyle": "solid",
+        "borderWidth": 0.5,
+        "height": 8,
+        "marginHorizontal": 4,
+        "overflow": "hidden",
+        "width": 8,
+      }
+    }
+  >
+    <View
+      collapsable={false}
+      style={
+        {
+          "backgroundColor": "#FFFFFF",
+          "borderRadius": 4,
+          "height": "100%",
+          "opacity": 0.5,
+          "width": "100%",
+        }
+      }
+    />
+  </View>
+</View>
+`;

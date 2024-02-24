@@ -1,0 +1,384 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`link snapshot default 1`] = `
+<View
+  style={
+    {
+      "flexDirection": "row",
+    }
+  }
+>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": undefined,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "borderBottomWidth": 1,
+        "borderColor": "#F08A5B",
+        "opacity": 1,
+        "paddingBottom": 8,
+      }
+    }
+    testID="touchable-link"
+  >
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#E95814",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 14,
+          "fontWeight": "bold",
+          "letterSpacing": -0.02,
+          "lineHeight": 20,
+        }
+      }
+      testID="link-text"
+    >
+      Click me
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`link snapshot disabled 1`] = `
+<View
+  style={
+    {
+      "flexDirection": "row",
+    }
+  }
+>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": true,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "borderBottomWidth": 1,
+        "borderColor": "#E1E2E4",
+        "opacity": 1,
+        "paddingBottom": 8,
+      }
+    }
+    testID="touchable-link"
+  >
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#E1E2E4",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 14,
+          "fontWeight": "bold",
+          "letterSpacing": -0.02,
+          "lineHeight": 20,
+        }
+      }
+      testID="link-text"
+    >
+      Click me
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`link snapshot should match snapshot of the disabled text variant 1`] = `
+<Text
+  disabled={true}
+  onPress={[Function]}
+  style={
+    {
+      "color": "#E1E2E4",
+      "textDecorationLine": "underline",
+    }
+  }
+  testID="touchable-link"
+>
+  Click me
+</Text>
+`;
+
+exports[`link snapshot should match snapshot of the text variant 1`] = `
+<Text
+  onPress={[Function]}
+  style={
+    {
+      "color": "#F08A5B",
+      "textDecorationLine": "underline",
+    }
+  }
+  testID="touchable-link"
+>
+  Click me
+</Text>
+`;
+
+exports[`link snapshot should match snapshot of the text variant with changed color 1`] = `
+<Text
+  onPress={[Function]}
+  style={
+    {
+      "color": "#013188",
+      "textDecorationLine": "underline",
+    }
+  }
+  testID="touchable-link"
+>
+  Click me
+</Text>
+`;
+
+exports[`link snapshot should match snapshot of the text variant with changed size 1`] = `
+<Text
+  onPress={[Function]}
+  style={
+    {
+      "color": "#F08A5B",
+      "fontSize": 14,
+      "textDecorationLine": "underline",
+    }
+  }
+  testID="touchable-link"
+>
+  Click me
+</Text>
+`;
+
+exports[`link testing Link with custom textColor 1`] = `
+<View
+  style={
+    {
+      "flexDirection": "row",
+    }
+  }
+>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": undefined,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "borderBottomWidth": 1,
+        "borderColor": "#028E39",
+        "opacity": 1,
+        "paddingBottom": 8,
+      }
+    }
+    testID="touchable-link"
+  >
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "flexDirection": "row",
+        }
+      }
+    >
+      <RNSVGSvgView
+        align="xMidYMid"
+        bbHeight="16"
+        bbWidth="16"
+        fill="none"
+        focusable={false}
+        height={16}
+        meetOrSlice={0}
+        minX={0}
+        minY={0}
+        style={
+          [
+            {
+              "backgroundColor": "transparent",
+              "borderWidth": 0,
+            },
+            {
+              "flex": 0,
+              "height": 16,
+              "width": 16,
+            },
+          ]
+        }
+        vbHeight={24}
+        vbWidth={24}
+        width={16}
+      >
+        <RNSVGGroup
+          fill={null}
+          propList={
+            [
+              "fill",
+            ]
+          }
+        >
+          <RNSVGGroup
+            clipPath="a"
+            fill={
+              {
+                "payload": 4278190080,
+                "type": 0,
+              }
+            }
+            propList={
+              [
+                "stroke",
+                "strokeWidth",
+                "strokeLinecap",
+                "strokeLinejoin",
+              ]
+            }
+            stroke={
+              {
+                "payload": 4278357561,
+                "type": 0,
+              }
+            }
+            strokeLinecap={1}
+            strokeLinejoin={1}
+            strokeWidth="1.6"
+          >
+            <RNSVGPath
+              d="m16.209 14.035-.992-1.008-1.26 1.24-2.124-.019-.86 2.08a1.999 1.999 0 0 1-1.866 1.236l-4.163-.035A2.001 2.001 0 0 1 3.1 16.262l-1.408-3.575a1.999 1.999 0 0 1 .013-1.498l1.469-3.55a2 2 0 0 1 1.865-1.236l4.163.036a2 2 0 0 1 1.843 1.267l.805 2.04 8.52.073 2.23 2.27-2.269 2.23-1.875-.015-1.24-1.261-1.008.992h0Z"
+              fill={
+                {
+                  "payload": 4278190080,
+                  "type": 0,
+                }
+              }
+            />
+            <RNSVGPath
+              d="M6.727 11.464a.433.433 0 1 1-.001.002"
+              fill={
+                {
+                  "payload": 4278190080,
+                  "type": 0,
+                }
+              }
+            />
+          </RNSVGGroup>
+          <RNSVGDefs>
+            <RNSVGClipPath
+              fill={
+                {
+                  "payload": 4278190080,
+                  "type": 0,
+                }
+              }
+              name="a"
+            >
+              <RNSVGPath
+                d="M0 0h24v24H0z"
+                fill={
+                  {
+                    "payload": 4278190080,
+                    "type": 0,
+                  }
+                }
+              />
+            </RNSVGClipPath>
+          </RNSVGDefs>
+        </RNSVGGroup>
+      </RNSVGSvgView>
+      <Text
+        style={
+          {
+            "height": 4,
+            "width": 4,
+          }
+        }
+      />
+      <Text
+        allowFontScaling={false}
+        style={
+          {
+            "color": "#028E39",
+            "flexShrink": 1,
+            "fontFamily": "Averta CY",
+            "fontSize": 14,
+            "fontWeight": "bold",
+            "letterSpacing": -0.02,
+            "lineHeight": 20,
+          }
+        }
+        testID="link-text"
+      >
+        Click me
+      </Text>
+    </View>
+  </View>
+</View>
+`;
