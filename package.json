@@ -23,7 +23,9 @@
     "color": "4.2.3",
     "date-fns": "2.29.2",
     "final-form": "4.20.7",
-    "react-final-form": "6.5.9"
+    "react-final-form": "6.5.9",
+    "react-native-calendars": "1.1299.0",
+    "react-native-shimmer-placeholder": "2.0.9"
   },
   "devDependencies": {
     "@react-native-async-storage/async-storage": "1.17.7",
@@ -35,6 +37,8 @@
     "eslint-config-rn-mapping": "git+ssh://git@github.com-pessoal:williamcamasil/eslint-config-rn-mapping.git#dev",
     "mapping-context-rn": "git+ssh://git@github.com-pessoal:williamcamasil/mapping-context-rn.git#dev",
     "mapping-tools-rn": "git+ssh://git@github.com-pessoal:williamcamasil/mapping-tools-rn.git#dev",
+    "npm-run-all": "4.1.5",
+    "patch-package": "6.4.7",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-native": "0.71.7",
@@ -46,7 +50,7 @@
     "react-native-webview": "11.23.0",
     "typescript": "4.9.5"
   },
-  "jest": {
-    "preset": "react-native"
+  "resolutions": {
+    "@types/react": "18.0.38"
   }
 }
