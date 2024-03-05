@@ -4,13 +4,9 @@ O `mapping-style-guide-rn` é o repositório responsável por centralizar os com
 
 ### Dependências com configuração
 * [Expo Modules](https://docs.expo.dev/bare/installing-expo-modules/) responsável por permitir adicionar libs que compõem o desenvolvimento dos módulos.
-* [Storybook]()
+* Para instalar as fonts (android e ios), execute: npx react-native-asset
 
 ### Pendencias | TODOs
-
-- [ ] Instar o storybook
-- [ ] Instalar npx install-expo-modules
-- [ ] Instalar yarn add expo-device
   * yarn add --dev @testing-library/react-native
   * yarn add --dev @testing-library/jest-native
     - yarn test

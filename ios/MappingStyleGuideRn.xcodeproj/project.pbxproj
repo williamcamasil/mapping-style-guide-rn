@@ -153,6 +153,7 @@
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
 				25EE1737B4A0EFDD7921B0AE /* ExpoModulesProviders */,
+				234B36608A3B4001AD415FEC /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -186,6 +187,14 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		234B36608A3B4001AD415FEC /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
