@@ -106,7 +106,7 @@ exports[`RadioGroup default state with selected item Should render the defaultSe
           r="11"
           stroke={
             {
-              "payload": 4283201216,
+              "payload": 4294224777,
               "type": 0,
             }
           }
@@ -126,7 +126,7 @@ exports[`RadioGroup default state with selected item Should render the defaultSe
       allowFontScaling={false}
       style={
         {
-          "color": "#4C76C0",
+          "color": "#F4AB89",
           "flexShrink": 1,
           "fontFamily": "Averta CY",
           "fontSize": 16,
@@ -220,7 +220,7 @@ exports[`RadioGroup default state with selected item Should render the defaultSe
           cy="12"
           fill={
             {
-              "payload": 4293482516,
+              "payload": 4278268296,
               "type": 0,
             }
           }
@@ -234,7 +234,7 @@ exports[`RadioGroup default state with selected item Should render the defaultSe
           r="11"
           stroke={
             {
-              "payload": 4280570793,
+              "payload": 4294089586,
               "type": 0,
             }
           }
@@ -245,7 +245,7 @@ exports[`RadioGroup default state with selected item Should render the defaultSe
           cy="12"
           fill={
             {
-              "payload": 4293482516,
+              "payload": 4278268296,
               "type": 0,
             }
           }
@@ -364,7 +364,7 @@ exports[`RadioGroup default state with selected item Should render the defaultSe
           cy="12"
           fill={
             {
-              "payload": 4279189913,
+              "payload": 4293954139,
               "type": 0,
             }
           }
@@ -378,7 +378,7 @@ exports[`RadioGroup default state with selected item Should render the defaultSe
           r="11"
           stroke={
             {
-              "payload": 4293482516,
+              "payload": 4278268296,
               "type": 0,
             }
           }
@@ -398,7 +398,7 @@ exports[`RadioGroup default state with selected item Should render the defaultSe
       allowFontScaling={false}
       style={
         {
-          "color": "#C6D3EA",
+          "color": "#FDEBE3",
           "flexShrink": 1,
           "fontFamily": "Averta CY",
           "fontSize": 16,
@@ -659,7 +659,7 @@ exports[`RadioGroup default state with selected item Should render the primaryDe
           cy="12"
           fill={
             {
-              "payload": 4293482516,
+              "payload": 4278268296,
               "type": 0,
             }
           }
@@ -792,7 +792,7 @@ exports[`RadioGroup default state with selected item Should render the primaryDe
           r="11"
           stroke={
             {
-              "payload": 4293482516,
+              "payload": 4278268296,
               "type": 0,
             }
           }
@@ -1081,7 +1081,7 @@ exports[`RadioGroup default state with selected item Should render the shapedPri
           cy="12"
           fill={
             {
-              "payload": 4293482516,
+              "payload": 4278268296,
               "type": 0,
             }
           }
@@ -1218,7 +1218,7 @@ exports[`RadioGroup default state with selected item Should render the shapedPri
           r="11"
           stroke={
             {
-              "payload": 4293482516,
+              "payload": 4278268296,
               "type": 0,
             }
           }
@@ -1360,7 +1360,7 @@ exports[`RadioGroup disabled and error state with selected item Should render th
           r="11"
           stroke={
             {
-              "payload": 4283201216,
+              "payload": 4294224777,
               "type": 0,
             }
           }
@@ -1380,7 +1380,7 @@ exports[`RadioGroup disabled and error state with selected item Should render th
       allowFontScaling={false}
       style={
         {
-          "color": "#4C76C0",
+          "color": "#F4AB89",
           "flexShrink": 1,
           "fontFamily": "Averta CY",
           "fontSize": 16,
@@ -1488,7 +1488,7 @@ exports[`RadioGroup disabled and error state with selected item Should render th
           r="11"
           stroke={
             {
-              "payload": 4283201216,
+              "payload": 4294224777,
               "type": 0,
             }
           }
@@ -1524,7 +1524,7 @@ exports[`RadioGroup disabled and error state with selected item Should render th
       allowFontScaling={false}
       style={
         {
-          "color": "#4C76C0",
+          "color": "#F4AB89",
           "flexShrink": 1,
           "fontFamily": "Averta CY",
           "fontSize": 16,
@@ -1632,7 +1632,7 @@ exports[`RadioGroup disabled and error state with selected item Should render th
           r="11"
           stroke={
             {
-              "payload": 4283201216,
+              "payload": 4294224777,
               "type": 0,
             }
           }
@@ -1652,7 +1652,7 @@ exports[`RadioGroup disabled and error state with selected item Should render th
       allowFontScaling={false}
       style={
         {
-          "color": "#4C76C0",
+          "color": "#F4AB89",
           "flexShrink": 1,
           "fontFamily": "Averta CY",
           "fontSize": 16,
@@ -2614,7 +2614,7 @@ exports[`RadioGroup disabled state with selected item Should render the defaultS
           r="11"
           stroke={
             {
-              "payload": 4283201216,
+              "payload": 4294224777,
               "type": 0,
             }
           }
@@ -2634,7 +2634,7 @@ exports[`RadioGroup disabled state with selected item Should render the defaultS
       allowFontScaling={false}
       style={
         {
-          "color": "#4C76C0",
+          "color": "#F4AB89",
           "flexShrink": 1,
           "fontFamily": "Averta CY",
           "fontSize": 16,
@@ -2742,7 +2742,7 @@ exports[`RadioGroup disabled state with selected item Should render the defaultS
           r="11"
           stroke={
             {
-              "payload": 4283201216,
+              "payload": 4294224777,
               "type": 0,
             }
           }
@@ -2778,7 +2778,7 @@ exports[`RadioGroup disabled state with selected item Should render the defaultS
       allowFontScaling={false}
       style={
         {
-          "color": "#4C76C0",
+          "color": "#F4AB89",
           "flexShrink": 1,
           "fontFamily": "Averta CY",
           "fontSize": 16,
@@ -2886,7 +2886,7 @@ exports[`RadioGroup disabled state with selected item Should render the defaultS
           r="11"
           stroke={
             {
-              "payload": 4283201216,
+              "payload": 4294224777,
               "type": 0,
             }
           }
@@ -2906,7 +2906,7 @@ exports[`RadioGroup disabled state with selected item Should render the defaultS
       allowFontScaling={false}
       style={
         {
-          "color": "#4C76C0",
+          "color": "#F4AB89",
           "flexShrink": 1,
           "fontFamily": "Averta CY",
           "fontSize": 16,
@@ -3868,7 +3868,7 @@ exports[`RadioGroup error state with selected item Should render the defaultSeco
           r="11"
           stroke={
             {
-              "payload": 4283201216,
+              "payload": 4294224777,
               "type": 0,
             }
           }
@@ -3888,7 +3888,7 @@ exports[`RadioGroup error state with selected item Should render the defaultSeco
       allowFontScaling={false}
       style={
         {
-          "color": "#4C76C0",
+          "color": "#F4AB89",
           "flexShrink": 1,
           "fontFamily": "Averta CY",
           "fontSize": 16,
@@ -5120,7 +5120,7 @@ exports[`RadioGroup stacked mode Should render the defaultSecondary variant 1`] 
           r="11"
           stroke={
             {
-              "payload": 4283201216,
+              "payload": 4294224777,
               "type": 0,
             }
           }
@@ -5140,7 +5140,7 @@ exports[`RadioGroup stacked mode Should render the defaultSecondary variant 1`] 
       allowFontScaling={false}
       style={
         {
-          "color": "#4C76C0",
+          "color": "#F4AB89",
           "flexShrink": 1,
           "fontFamily": "Averta CY",
           "fontSize": 16,
@@ -5233,7 +5233,7 @@ exports[`RadioGroup stacked mode Should render the defaultSecondary variant 1`] 
           cy="12"
           fill={
             {
-              "payload": 4293482516,
+              "payload": 4278268296,
               "type": 0,
             }
           }
@@ -5247,7 +5247,7 @@ exports[`RadioGroup stacked mode Should render the defaultSecondary variant 1`] 
           r="11"
           stroke={
             {
-              "payload": 4280570793,
+              "payload": 4294089586,
               "type": 0,
             }
           }
@@ -5258,7 +5258,7 @@ exports[`RadioGroup stacked mode Should render the defaultSecondary variant 1`] 
           cy="12"
           fill={
             {
-              "payload": 4293482516,
+              "payload": 4278268296,
               "type": 0,
             }
           }
@@ -5376,7 +5376,7 @@ exports[`RadioGroup stacked mode Should render the defaultSecondary variant 1`] 
           cy="12"
           fill={
             {
-              "payload": 4279189913,
+              "payload": 4293954139,
               "type": 0,
             }
           }
@@ -5390,7 +5390,7 @@ exports[`RadioGroup stacked mode Should render the defaultSecondary variant 1`] 
           r="11"
           stroke={
             {
-              "payload": 4293482516,
+              "payload": 4278268296,
               "type": 0,
             }
           }
@@ -5410,7 +5410,7 @@ exports[`RadioGroup stacked mode Should render the defaultSecondary variant 1`] 
       allowFontScaling={false}
       style={
         {
-          "color": "#C6D3EA",
+          "color": "#FDEBE3",
           "flexShrink": 1,
           "fontFamily": "Averta CY",
           "fontSize": 16,
@@ -5668,7 +5668,7 @@ exports[`RadioGroup stacked mode Should render the primaryDefault variant 1`] = 
           cy="12"
           fill={
             {
-              "payload": 4293482516,
+              "payload": 4278268296,
               "type": 0,
             }
           }
@@ -5800,7 +5800,7 @@ exports[`RadioGroup stacked mode Should render the primaryDefault variant 1`] = 
           r="11"
           stroke={
             {
-              "payload": 4293482516,
+              "payload": 4278268296,
               "type": 0,
             }
           }
@@ -6086,7 +6086,7 @@ exports[`RadioGroup stacked mode Should render the shapedPrimary variant 1`] = `
           cy="12"
           fill={
             {
-              "payload": 4293482516,
+              "payload": 4278268296,
               "type": 0,
             }
           }
@@ -6222,7 +6222,7 @@ exports[`RadioGroup stacked mode Should render the shapedPrimary variant 1`] = `
           r="11"
           stroke={
             {
-              "payload": 4293482516,
+              "payload": 4278268296,
               "type": 0,
             }
           }

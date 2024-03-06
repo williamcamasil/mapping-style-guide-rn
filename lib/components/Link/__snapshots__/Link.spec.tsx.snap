@@ -39,7 +39,7 @@ exports[`link snapshot default 1`] = `
     style={
       {
         "borderBottomWidth": 1,
-        "borderColor": "#F08A5B",
+        "borderColor": "#0F4199",
         "opacity": 1,
         "paddingBottom": 8,
       }
@@ -50,7 +50,7 @@ exports[`link snapshot default 1`] = `
       allowFontScaling={false}
       style={
         {
-          "color": "#E95814",
+          "color": "#013188",
           "flexShrink": 1,
           "fontFamily": "Averta CY",
           "fontSize": 14,
@@ -155,7 +155,7 @@ exports[`link snapshot should match snapshot of the text variant 1`] = `
   onPress={[Function]}
   style={
     {
-      "color": "#F08A5B",
+      "color": "#0F4199",
       "textDecorationLine": "underline",
     }
   }
@@ -170,7 +170,7 @@ exports[`link snapshot should match snapshot of the text variant with changed co
   onPress={[Function]}
   style={
     {
-      "color": "#013188",
+      "color": "#E95814",
       "textDecorationLine": "underline",
     }
   }
@@ -185,7 +185,7 @@ exports[`link snapshot should match snapshot of the text variant with changed si
   onPress={[Function]}
   style={
     {
-      "color": "#F08A5B",
+      "color": "#0F4199",
       "fontSize": 14,
       "textDecorationLine": "underline",
     }

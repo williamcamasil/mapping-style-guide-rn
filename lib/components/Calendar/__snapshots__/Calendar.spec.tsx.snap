@@ -366,7 +366,7 @@ exports[`Calendar Should match default calendar snapshot 1`] = `
           style={
             [
               {
-                "color": "#E95814",
+                "color": "#013188",
                 "flex": 1,
                 "fontFamily": "Averta CY",
                 "fontSize": 16,
@@ -387,7 +387,7 @@ exports[`Calendar Should match default calendar snapshot 1`] = `
           style={
             [
               {
-                "color": "#E95814",
+                "color": "#013188",
                 "flex": 1,
                 "fontFamily": "Averta CY",
                 "fontSize": 16,
@@ -408,7 +408,7 @@ exports[`Calendar Should match default calendar snapshot 1`] = `
           style={
             [
               {
-                "color": "#E95814",
+                "color": "#013188",
                 "flex": 1,
                 "fontFamily": "Averta CY",
                 "fontSize": 16,
@@ -429,7 +429,7 @@ exports[`Calendar Should match default calendar snapshot 1`] = `
           style={
             [
               {
-                "color": "#E95814",
+                "color": "#013188",
                 "flex": 1,
                 "fontFamily": "Averta CY",
                 "fontSize": 16,
@@ -450,7 +450,7 @@ exports[`Calendar Should match default calendar snapshot 1`] = `
           style={
             [
               {
-                "color": "#E95814",
+                "color": "#013188",
                 "flex": 1,
                 "fontFamily": "Averta CY",
                 "fontSize": 16,
@@ -471,7 +471,7 @@ exports[`Calendar Should match default calendar snapshot 1`] = `
           style={
             [
               {
-                "color": "#E95814",
+                "color": "#013188",
                 "flex": 1,
                 "fontFamily": "Averta CY",
                 "fontSize": 16,
@@ -492,7 +492,7 @@ exports[`Calendar Should match default calendar snapshot 1`] = `
           style={
             [
               {
-                "color": "#E95814",
+                "color": "#013188",
                 "flex": 1,
                 "fontFamily": "Averta CY",
                 "fontSize": 16,
@@ -600,7 +600,7 @@ exports[`Calendar Should match default calendar snapshot 1`] = `
             style={
               {
                 "alignItems": "center",
-                "backgroundColor": "#E95814",
+                "backgroundColor": "#013188",
                 "borderBottomLeftRadius": 24,
                 "borderBottomRightRadius": 24,
                 "borderRadius": 16,

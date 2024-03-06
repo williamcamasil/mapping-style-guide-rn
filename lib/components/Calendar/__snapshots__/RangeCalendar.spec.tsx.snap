@@ -367,7 +367,7 @@ exports[`RangeCalendar Should match snapshot of calendar with initial value 1`] 
             style={
               [
                 {
-                  "color": "#E95814",
+                  "color": "#013188",
                   "flex": 1,
                   "fontFamily": "Averta CY",
                   "fontSize": 16,
@@ -388,7 +388,7 @@ exports[`RangeCalendar Should match snapshot of calendar with initial value 1`] 
             style={
               [
                 {
-                  "color": "#E95814",
+                  "color": "#013188",
                   "flex": 1,
                   "fontFamily": "Averta CY",
                   "fontSize": 16,
@@ -409,7 +409,7 @@ exports[`RangeCalendar Should match snapshot of calendar with initial value 1`] 
             style={
               [
                 {
-                  "color": "#E95814",
+                  "color": "#013188",
                   "flex": 1,
                   "fontFamily": "Averta CY",
                   "fontSize": 16,
@@ -430,7 +430,7 @@ exports[`RangeCalendar Should match snapshot of calendar with initial value 1`] 
             style={
               [
                 {
-                  "color": "#E95814",
+                  "color": "#013188",
                   "flex": 1,
                   "fontFamily": "Averta CY",
                   "fontSize": 16,
@@ -451,7 +451,7 @@ exports[`RangeCalendar Should match snapshot of calendar with initial value 1`] 
             style={
               [
                 {
-                  "color": "#E95814",
+                  "color": "#013188",
                   "flex": 1,
                   "fontFamily": "Averta CY",
                   "fontSize": 16,
@@ -472,7 +472,7 @@ exports[`RangeCalendar Should match snapshot of calendar with initial value 1`] 
             style={
               [
                 {
-                  "color": "#E95814",
+                  "color": "#013188",
                   "flex": 1,
                   "fontFamily": "Averta CY",
                   "fontSize": 16,
@@ -493,7 +493,7 @@ exports[`RangeCalendar Should match snapshot of calendar with initial value 1`] 
             style={
               [
                 {
-                  "color": "#E95814",
+                  "color": "#013188",
                   "flex": 1,
                   "fontFamily": "Averta CY",
                   "fontSize": 16,
@@ -2792,7 +2792,7 @@ exports[`RangeCalendar Should match snapshot of calendar with initial value 1`] 
                         "opacity": 0.05,
                       },
                       {
-                        "backgroundColor": "#E95814",
+                        "backgroundColor": "#013188",
                       },
                     ]
                   }
@@ -2817,7 +2817,7 @@ exports[`RangeCalendar Should match snapshot of calendar with initial value 1`] 
                     },
                     {},
                     {
-                      "backgroundColor": "#E95814",
+                      "backgroundColor": "#013188",
                     },
                   ]
                 }
@@ -2917,7 +2917,7 @@ exports[`RangeCalendar Should match snapshot of calendar with initial value 1`] 
                       "right": 0,
                     },
                     {
-                      "backgroundColor": "#FEF6F3",
+                      "backgroundColor": "#EDF1F8",
                     },
                   ]
                 }
@@ -2931,7 +2931,7 @@ exports[`RangeCalendar Should match snapshot of calendar with initial value 1`] 
                         "opacity": 0.05,
                       },
                       {
-                        "backgroundColor": "#FEF6F3",
+                        "backgroundColor": "#EDF1F8",
                       },
                     ]
                   }
@@ -2945,7 +2945,7 @@ exports[`RangeCalendar Should match snapshot of calendar with initial value 1`] 
                         "opacity": 0.05,
                       },
                       {
-                        "backgroundColor": "#FEF6F3",
+                        "backgroundColor": "#EDF1F8",
                       },
                     ]
                   }
@@ -2984,7 +2984,7 @@ exports[`RangeCalendar Should match snapshot of calendar with initial value 1`] 
                         "fontWeight": "bold",
                       },
                       {
-                        "color": "#F29B72",
+                        "color": "#2453A9",
                       },
                     ]
                   }
@@ -3067,7 +3067,7 @@ exports[`RangeCalendar Should match snapshot of calendar with initial value 1`] 
                       "right": 0,
                     },
                     {
-                      "backgroundColor": "#FEF6F3",
+                      "backgroundColor": "#EDF1F8",
                     },
                   ]
                 }
@@ -3081,7 +3081,7 @@ exports[`RangeCalendar Should match snapshot of calendar with initial value 1`] 
                         "opacity": 0.05,
                       },
                       {
-                        "backgroundColor": "#FEF6F3",
+                        "backgroundColor": "#EDF1F8",
                       },
                     ]
                   }
@@ -3095,7 +3095,7 @@ exports[`RangeCalendar Should match snapshot of calendar with initial value 1`] 
                         "opacity": 0.05,
                       },
                       {
-                        "backgroundColor": "#FEF6F3",
+                        "backgroundColor": "#EDF1F8",
                       },
                     ]
                   }
@@ -3134,7 +3134,7 @@ exports[`RangeCalendar Should match snapshot of calendar with initial value 1`] 
                         "fontWeight": "bold",
                       },
                       {
-                        "color": "#F29B72",
+                        "color": "#2453A9",
                       },
                     ]
                   }
@@ -3217,7 +3217,7 @@ exports[`RangeCalendar Should match snapshot of calendar with initial value 1`] 
                       "right": 0,
                     },
                     {
-                      "backgroundColor": "#FEF6F3",
+                      "backgroundColor": "#EDF1F8",
                     },
                   ]
                 }
@@ -3231,7 +3231,7 @@ exports[`RangeCalendar Should match snapshot of calendar with initial value 1`] 
                         "opacity": 0.05,
                       },
                       {
-                        "backgroundColor": "#FEF6F3",
+                        "backgroundColor": "#EDF1F8",
                       },
                     ]
                   }
@@ -3245,7 +3245,7 @@ exports[`RangeCalendar Should match snapshot of calendar with initial value 1`] 
                         "opacity": 0.05,
                       },
                       {
-                        "backgroundColor": "#FEF6F3",
+                        "backgroundColor": "#EDF1F8",
                       },
                     ]
                   }
@@ -3284,7 +3284,7 @@ exports[`RangeCalendar Should match snapshot of calendar with initial value 1`] 
                         "fontWeight": "bold",
                       },
                       {
-                        "color": "#F29B72",
+                        "color": "#2453A9",
                       },
                     ]
                   }
@@ -3367,7 +3367,7 @@ exports[`RangeCalendar Should match snapshot of calendar with initial value 1`] 
                       "right": 0,
                     },
                     {
-                      "backgroundColor": "#FEF6F3",
+                      "backgroundColor": "#EDF1F8",
                     },
                   ]
                 }
@@ -3381,7 +3381,7 @@ exports[`RangeCalendar Should match snapshot of calendar with initial value 1`] 
                         "opacity": 0.05,
                       },
                       {
-                        "backgroundColor": "#FEF6F3",
+                        "backgroundColor": "#EDF1F8",
                       },
                     ]
                   }
@@ -3395,7 +3395,7 @@ exports[`RangeCalendar Should match snapshot of calendar with initial value 1`] 
                         "opacity": 0.05,
                       },
                       {
-                        "backgroundColor": "#FEF6F3",
+                        "backgroundColor": "#EDF1F8",
                       },
                     ]
                   }
@@ -3434,7 +3434,7 @@ exports[`RangeCalendar Should match snapshot of calendar with initial value 1`] 
                         "fontWeight": "bold",
                       },
                       {
-                        "color": "#F29B72",
+                        "color": "#2453A9",
                       },
                     ]
                   }
@@ -3529,7 +3529,7 @@ exports[`RangeCalendar Should match snapshot of calendar with initial value 1`] 
                         "opacity": 0.05,
                       },
                       {
-                        "backgroundColor": "#E95814",
+                        "backgroundColor": "#013188",
                       },
                     ]
                   }
@@ -3568,7 +3568,7 @@ exports[`RangeCalendar Should match snapshot of calendar with initial value 1`] 
                     },
                     {},
                     {
-                      "backgroundColor": "#E95814",
+                      "backgroundColor": "#013188",
                     },
                   ]
                 }
@@ -4273,7 +4273,7 @@ exports[`RangeCalendar Should match snapshot of calendar with initial value 1`] 
           {
             "alignItems": "center",
             "backgroundColor": "transparent",
-            "borderColor": "#F29B72",
+            "borderColor": "#2453A9",
             "borderRadius": 12,
             "borderWidth": 1,
             "display": "flex",
@@ -4289,7 +4289,7 @@ exports[`RangeCalendar Should match snapshot of calendar with initial value 1`] 
           allowFontScaling={false}
           style={
             {
-              "color": "#E95814",
+              "color": "#013188",
               "flexShrink": 1,
               "fontFamily": "Averta CY",
               "fontSize": 16,
@@ -4351,7 +4351,7 @@ exports[`RangeCalendar Should match snapshot of calendar with initial value 1`] 
         style={
           {
             "alignItems": "center",
-            "backgroundColor": "#E95814",
+            "backgroundColor": "#013188",
             "borderRadius": 12,
             "borderWidth": 0,
             "display": "flex",

@@ -5,7 +5,7 @@ exports[`IconWithBackground snapshot default 1`] = `
   style={
     {
       "alignItems": "center",
-      "backgroundColor": "#FDEBE3",
+      "backgroundColor": "#C6D3EA",
       "borderRadius": 12,
       "height": 36,
       "justifyContent": "center",
@@ -66,7 +66,7 @@ exports[`IconWithBackground snapshot default 1`] = `
         }
         stroke={
           {
-            "payload": 4293482516,
+            "payload": 4278268296,
             "type": 0,
           }
         }

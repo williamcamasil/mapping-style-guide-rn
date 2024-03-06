@@ -154,7 +154,7 @@ exports[`Switch snapshot switch true 1`] = `
   onStartShouldSetResponder={[Function]}
   style={
     {
-      "backgroundColor": "rgba(233, 88, 20, 1)",
+      "backgroundColor": "rgba(1, 49, 136, 1)",
       "borderRadius": 24,
       "height": 28,
       "opacity": 1,

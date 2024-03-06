@@ -31,8 +31,8 @@ exports[`card snapshot card arrow highlighted100 1`] = `
   onStartShouldSetResponder={[Function]}
   style={
     {
-      "backgroundColor": "#E95814",
-      "borderColor": "#F29B72",
+      "backgroundColor": "#013188",
+      "borderColor": "#2453A9",
       "borderRadius": 12,
       "borderWidth": 1,
       "elevation": 7,
@@ -533,7 +533,7 @@ exports[`card snapshot card type highlighted50 1`] = `
   style={
     {
       "backgroundColor": "#FFFFFF",
-      "borderColor": "#F08A5B",
+      "borderColor": "#0F4199",
       "borderRadius": 12,
       "borderWidth": 1,
       "elevation": 7,
@@ -593,8 +593,8 @@ exports[`card snapshot card type highlighted100 1`] = `
   onStartShouldSetResponder={[Function]}
   style={
     {
-      "backgroundColor": "#E95814",
-      "borderColor": "#F29B72",
+      "backgroundColor": "#013188",
+      "borderColor": "#2453A9",
       "borderRadius": 12,
       "borderWidth": 1,
       "elevation": 7,
@@ -655,7 +655,7 @@ exports[`card snapshot card with custom style 1`] = `
   style={
     {
       "backgroundColor": "#FFFFFF",
-      "borderColor": "#F08A5B",
+      "borderColor": "#0F4199",
       "borderRadius": 12,
       "borderWidth": 1,
       "elevation": 7,

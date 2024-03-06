@@ -868,8 +868,8 @@ exports[`LoadingContainer snapshot Should render the loading container with seco
 <View
   colors={
     [
-      "hsla(218.70000000000005, 98.5%, 26.9%, 0.6)",
-      "hsla(218.70000000000005, 98.5%, 26.9%, 0.6)",
+      "hsla(19.19999999999999, 84.2%, 49.6%, 0.6)",
+      "hsla(19.19999999999999, 84.2%, 49.6%, 0.6)",
     ]
   }
   end={
@@ -1299,8 +1299,8 @@ exports[`LoadingContainer snapshot Should render the secondary variant 1`] = `
 <View
   colors={
     [
-      "#2453A9",
-      "#013188",
+      "#F29B72",
+      "#E95814",
     ]
   }
   end={
@@ -1331,7 +1331,7 @@ exports[`LoadingContainer snapshot Should render the secondary variant 1`] = `
   <View
     style={
       {
-        "backgroundColor": "#2453A9",
+        "backgroundColor": "#F29B72",
         "borderRadius": 12,
         "padding": 20,
       }
@@ -1436,8 +1436,8 @@ exports[`LoadingContainer snapshot Should render the secondary variant with Text
 <View
   colors={
     [
-      "#2453A9",
-      "#013188",
+      "#F29B72",
+      "#E95814",
     ]
   }
   end={
@@ -1485,7 +1485,7 @@ exports[`LoadingContainer snapshot Should render the secondary variant with Text
   <View
     style={
       {
-        "backgroundColor": "#2453A9",
+        "backgroundColor": "#F29B72",
         "borderRadius": 12,
         "marginBottom": 80,
         "marginLeft": 28,

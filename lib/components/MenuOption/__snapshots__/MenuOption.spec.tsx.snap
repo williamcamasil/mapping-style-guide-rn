@@ -105,7 +105,7 @@ exports[`MenuOption snapshots custom right component 1`] = `
           }
           stroke={
             {
-              "payload": 4293482516,
+              "payload": 4278268296,
               "type": 0,
             }
           }
@@ -292,7 +292,7 @@ exports[`MenuOption snapshots default 1`] = `
           }
           stroke={
             {
-              "payload": 4293482516,
+              "payload": 4278268296,
               "type": 0,
             }
           }

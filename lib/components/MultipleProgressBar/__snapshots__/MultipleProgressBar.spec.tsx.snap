@@ -17,8 +17,8 @@ exports[`ProgressBar snapshots multiple progress 1`] = `
   <View
     colors={
       [
-        "#2453A9",
-        "#013188",
+        "#F29B72",
+        "#E95814",
       ]
     }
     end={
@@ -48,8 +48,8 @@ exports[`ProgressBar snapshots multiple progress 1`] = `
   <View
     colors={
       [
-        "#F08A5B",
-        "#E95814",
+        "#0F4199",
+        "#013188",
       ]
     }
     end={
@@ -114,8 +114,8 @@ exports[`ProgressBar snapshots multiple progress 1`] = `
   <View
     colors={
       [
-        "#2453A9",
-        "#013188",
+        "#F29B72",
+        "#E95814",
       ]
     }
     end={
@@ -161,8 +161,8 @@ exports[`ProgressBar snapshots single progress 1`] = `
   <View
     colors={
       [
-        "#2453A9",
-        "#013188",
+        "#F29B72",
+        "#E95814",
       ]
     }
     end={
@@ -206,8 +206,8 @@ exports[`ProgressBar snapshots two progress 1`] = `
   <View
     colors={
       [
-        "#2453A9",
-        "#013188",
+        "#F29B72",
+        "#E95814",
       ]
     }
     end={
@@ -237,8 +237,8 @@ exports[`ProgressBar snapshots two progress 1`] = `
   <View
     colors={
       [
-        "#F08A5B",
-        "#E95814",
+        "#0F4199",
+        "#013188",
       ]
     }
     end={

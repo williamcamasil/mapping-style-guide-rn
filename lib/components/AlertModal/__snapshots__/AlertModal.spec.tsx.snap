@@ -217,7 +217,7 @@ exports[`AlertModal snapshot Should render with extraText text 1`] = `
                       style={
                         {
                           "alignItems": "center",
-                          "backgroundColor": "#E95814",
+                          "backgroundColor": "#013188",
                           "borderRadius": 12,
                           "borderWidth": 0,
                           "display": "flex",
@@ -525,7 +525,7 @@ exports[`AlertModal snapshot basic 1`] = `
                       style={
                         {
                           "alignItems": "center",
-                          "backgroundColor": "#E95814",
+                          "backgroundColor": "#013188",
                           "borderRadius": 12,
                           "borderWidth": 0,
                           "display": "flex",
@@ -799,7 +799,7 @@ exports[`AlertModal snapshot bottomSheet 1`] = `
                           style={
                             {
                               "alignItems": "center",
-                              "backgroundColor": "#E95814",
+                              "backgroundColor": "#013188",
                               "borderRadius": 12,
                               "borderWidth": 0,
                               "display": "flex",
@@ -1171,7 +1171,7 @@ exports[`AlertModal snapshot centered 1`] = `
                       style={
                         {
                           "alignItems": "center",
-                          "backgroundColor": "#E95814",
+                          "backgroundColor": "#013188",
                           "borderRadius": 12,
                           "borderWidth": 0,
                           "display": "flex",
@@ -1499,7 +1499,7 @@ exports[`AlertModal snapshot default 1`] = `
                       style={
                         {
                           "alignItems": "center",
-                          "backgroundColor": "#E95814",
+                          "backgroundColor": "#013188",
                           "borderRadius": 12,
                           "borderWidth": 0,
                           "display": "flex",
@@ -1801,7 +1801,7 @@ exports[`AlertModal snapshot with loading 1`] = `
                       style={
                         {
                           "alignItems": "center",
-                          "backgroundColor": "#E95814",
+                          "backgroundColor": "#013188",
                           "borderRadius": 12,
                           "borderWidth": 0,
                           "display": "flex",

@@ -33,8 +33,8 @@ exports[`Snapshot to StepsBar Snapshot fifty percent of progress 1`] = `
       <View
         colors={
           [
-            "#F29B72",
-            "#E95814",
+            "#2453A9",
+            "#013188",
           ]
         }
         end={
@@ -147,8 +147,8 @@ exports[`Snapshot to StepsBar Snapshot hundred percent of progress 1`] = `
       <View
         colors={
           [
-            "#F29B72",
-            "#E95814",
+            "#2453A9",
+            "#013188",
           ]
         }
         end={
@@ -261,8 +261,8 @@ exports[`Snapshot to StepsBar Snapshot initial 1`] = `
       <View
         colors={
           [
-            "#F29B72",
-            "#E95814",
+            "#2453A9",
+            "#013188",
           ]
         }
         end={

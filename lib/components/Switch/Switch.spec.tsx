@@ -85,7 +85,7 @@ describe('Switch', () => {
 
     const valueTransform = [{ translateX: 20 }];
 
-    expect(switchStyle).toHaveProperty('backgroundColor', 'rgba(233, 88, 20, 1)');
+    expect(switchStyle).toHaveProperty('backgroundColor', 'rgba(1, 49, 136, 1)');
     expect(ellipseStyle).toHaveProperty('backgroundColor', DefaultTheme.colors.neutralWhite);
     expect(ellipseStyle).toHaveProperty('transform', valueTransform);
   });

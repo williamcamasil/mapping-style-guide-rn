@@ -46,7 +46,7 @@ describe('Utils', () => {
 
   it('getCircleBorderColor', () => {
     const colorString = getCircleBorderColor(DefaultTheme, 'primaryMain');
-    expect(colorString).toEqual('hsla(19.19999999999999, 84.2%, 49.6%, 0.6)');
+    expect(colorString).toEqual('hsla(218.70000000000005, 98.5%, 26.9%, 0.6)');
   });
 });
 

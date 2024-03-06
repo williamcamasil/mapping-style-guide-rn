@@ -31,7 +31,7 @@ exports[`PressableCardButton snapshots default copy button 1`] = `
   onStartShouldSetResponder={[Function]}
   style={
     {
-      "backgroundColor": "#FEF6F3",
+      "backgroundColor": "#EDF1F8",
       "borderColor": "transparent",
       "borderRadius": 12,
       "borderWidth": 1,
@@ -133,7 +133,7 @@ exports[`PressableCardButton snapshots default copy button 1`] = `
               }
               stroke={
                 {
-                  "payload": 4293482516,
+                  "payload": 4278268296,
                   "type": 0,
                 }
               }
@@ -148,7 +148,7 @@ exports[`PressableCardButton snapshots default copy button 1`] = `
         allowFontScaling={false}
         style={
           {
-            "color": "#E95814",
+            "color": "#013188",
             "flexShrink": 1,
             "fontFamily": "Averta CY",
             "fontSize": 14,
@@ -197,7 +197,7 @@ exports[`PressableCardButton snapshots default download button 1`] = `
   onStartShouldSetResponder={[Function]}
   style={
     {
-      "backgroundColor": "#FEF6F3",
+      "backgroundColor": "#EDF1F8",
       "borderColor": "transparent",
       "borderRadius": 12,
       "borderWidth": 1,
@@ -299,7 +299,7 @@ exports[`PressableCardButton snapshots default download button 1`] = `
               }
               stroke={
                 {
-                  "payload": 4293482516,
+                  "payload": 4278268296,
                   "type": 0,
                 }
               }
@@ -314,7 +314,7 @@ exports[`PressableCardButton snapshots default download button 1`] = `
         allowFontScaling={false}
         style={
           {
-            "color": "#E95814",
+            "color": "#013188",
             "flexShrink": 1,
             "fontFamily": "Averta CY",
             "fontSize": 14,

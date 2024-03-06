@@ -18,8 +18,8 @@ exports[`ProgressBar snapshots 50% in progress 1`] = `
   <View
     colors={
       [
-        "#F29B72",
-        "#E95814",
+        "#2453A9",
+        "#013188",
       ]
     }
     end={
@@ -64,8 +64,8 @@ exports[`ProgressBar snapshots 100% in progress 1`] = `
   <View
     colors={
       [
-        "#F29B72",
-        "#E95814",
+        "#2453A9",
+        "#013188",
       ]
     }
     end={
@@ -110,8 +110,8 @@ exports[`ProgressBar snapshots default 1`] = `
   <View
     colors={
       [
-        "#F29B72",
-        "#E95814",
+        "#2453A9",
+        "#013188",
       ]
     }
     end={
