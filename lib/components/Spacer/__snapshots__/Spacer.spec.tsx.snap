@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Spacer snapshot default 1`] = `
+<Text
+  style={
+    {
+      "height": 28,
+      "width": 28,
+    }
+  }
+/>
+`;

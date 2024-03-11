@@ -1,0 +1,3341 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Calendar Should match default calendar snapshot 1`] = `
+<View
+  onMoveShouldSetResponder={[Function]}
+  onMoveShouldSetResponderCapture={[Function]}
+  onResponderEnd={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderReject={[Function]}
+  onResponderRelease={[Function]}
+  onResponderStart={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  onStartShouldSetResponderCapture={[Function]}
+  onSwipe={[Function]}
+>
+  <View
+    style={
+      [
+        {
+          "backgroundColor": "white",
+          "paddingLeft": 5,
+          "paddingRight": 5,
+        },
+        undefined,
+      ]
+    }
+    testID="calendar"
+  >
+    <View
+      accessibilityActions={
+        [
+          {
+            "label": "increment",
+            "name": "increment",
+          },
+          {
+            "label": "decrement",
+            "name": "decrement",
+          },
+        ]
+      }
+      accessibilityRole="adjustable"
+      accessible={true}
+      onAccessibilityAction={[Function]}
+      testID="calendar.header"
+    >
+      <View
+        style={
+          [
+            {
+              "alignItems": "center",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginTop": 6,
+              "paddingLeft": 10,
+              "paddingRight": 10,
+            },
+            undefined,
+          ]
+        }
+      >
+        <View />
+        <View
+          style={
+            {
+              "flexDirection": "row",
+            }
+          }
+        >
+          <View
+            style={
+              {
+                "flex": 1,
+                "flexDirection": "row",
+                "marginBottom": 16,
+                "paddingHorizontal": 6,
+              }
+            }
+          >
+            <View
+              style={
+                {
+                  "flex": 1,
+                  "justifyContent": "center",
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                style={
+                  {
+                    "color": "#3E4149",
+                    "flexShrink": 1,
+                    "fontFamily": "Averta CY",
+                    "fontSize": 16,
+                    "fontWeight": "bold",
+                    "letterSpacing": -0.02,
+                    "lineHeight": 16,
+                    "textTransform": "capitalize",
+                  }
+                }
+                testID="name-month-and-year"
+              >
+                janeiro 2021
+              </Text>
+            </View>
+            <View
+              style={
+                {
+                  "alignItems": "center",
+                  "flexDirection": "row",
+                  "justifyContent": "flex-end",
+                }
+              }
+            >
+              <View
+                accessibilityState={
+                  {
+                    "busy": undefined,
+                    "checked": undefined,
+                    "disabled": undefined,
+                    "expanded": undefined,
+                    "selected": undefined,
+                  }
+                }
+                accessibilityValue={
+                  {
+                    "max": undefined,
+                    "min": undefined,
+                    "now": undefined,
+                    "text": undefined,
+                  }
+                }
+                accessible={true}
+                collapsable={false}
+                focusable={true}
+                hitSlop={
+                  {
+                    "bottom": 10,
+                    "left": 10,
+                    "right": 10,
+                    "top": 10,
+                  }
+                }
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  {
+                    "height": 16,
+                    "opacity": 1,
+                    "width": 16,
+                  }
+                }
+                testID="button-arrow-left"
+              >
+                <RNSVGSvgView
+                  align="xMidYMid"
+                  bbHeight="16"
+                  bbWidth="16"
+                  fill="none"
+                  focusable={false}
+                  height={16}
+                  meetOrSlice={0}
+                  minX={0}
+                  minY={0}
+                  style={
+                    [
+                      {
+                        "backgroundColor": "transparent",
+                        "borderWidth": 0,
+                      },
+                      {
+                        "flex": 0,
+                        "height": 16,
+                        "width": 16,
+                      },
+                    ]
+                  }
+                  vbHeight={16}
+                  vbWidth={16}
+                  width={16}
+                >
+                  <RNSVGGroup
+                    fill={null}
+                    propList={
+                      [
+                        "fill",
+                      ]
+                    }
+                  >
+                    <RNSVGPath
+                      d="M6 4 2 8l4 4"
+                      fill={
+                        {
+                          "payload": 4278190080,
+                          "type": 0,
+                        }
+                      }
+                      propList={
+                        [
+                          "stroke",
+                          "strokeWidth",
+                          "strokeLinecap",
+                          "strokeLinejoin",
+                        ]
+                      }
+                      stroke={
+                        {
+                          "payload": 4284968313,
+                          "type": 0,
+                        }
+                      }
+                      strokeLinecap={1}
+                      strokeLinejoin={1}
+                      strokeWidth="2"
+                    />
+                  </RNSVGGroup>
+                </RNSVGSvgView>
+              </View>
+              <Text
+                style={
+                  {
+                    "height": 16,
+                    "width": 16,
+                  }
+                }
+              />
+              <View
+                accessibilityState={
+                  {
+                    "busy": undefined,
+                    "checked": undefined,
+                    "disabled": undefined,
+                    "expanded": undefined,
+                    "selected": undefined,
+                  }
+                }
+                accessibilityValue={
+                  {
+                    "max": undefined,
+                    "min": undefined,
+                    "now": undefined,
+                    "text": undefined,
+                  }
+                }
+                accessible={true}
+                collapsable={false}
+                focusable={true}
+                hitSlop={
+                  {
+                    "bottom": 10,
+                    "left": 10,
+                    "right": 10,
+                    "top": 10,
+                  }
+                }
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  {
+                    "height": 16,
+                    "opacity": 1,
+                    "width": 16,
+                  }
+                }
+                testID="button-arrow-right"
+              >
+                <RNSVGSvgView
+                  align="xMidYMid"
+                  bbHeight="16"
+                  bbWidth="16"
+                  fill="none"
+                  focusable={false}
+                  height={16}
+                  meetOrSlice={0}
+                  minX={0}
+                  minY={0}
+                  style={
+                    [
+                      {
+                        "backgroundColor": "transparent",
+                        "borderWidth": 0,
+                      },
+                      {
+                        "flex": 0,
+                        "height": 16,
+                        "width": 16,
+                      },
+                    ]
+                  }
+                  vbHeight={16}
+                  vbWidth={16}
+                  width={16}
+                >
+                  <RNSVGGroup
+                    fill={null}
+                    propList={
+                      [
+                        "fill",
+                      ]
+                    }
+                  >
+                    <RNSVGPath
+                      d="m10 12 4-4-4-4"
+                      fill={
+                        {
+                          "payload": 4278190080,
+                          "type": 0,
+                        }
+                      }
+                      propList={
+                        [
+                          "stroke",
+                          "strokeWidth",
+                          "strokeLinecap",
+                          "strokeLinejoin",
+                        ]
+                      }
+                      stroke={
+                        {
+                          "payload": 4284968313,
+                          "type": 0,
+                        }
+                      }
+                      strokeLinecap={1}
+                      strokeLinejoin={1}
+                      strokeWidth="2"
+                    />
+                  </RNSVGGroup>
+                </RNSVGSvgView>
+              </View>
+            </View>
+          </View>
+        </View>
+        <View />
+      </View>
+      <View
+        style={
+          [
+            {
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+            },
+            undefined,
+          ]
+        }
+        testID="calendar.header.dayNames"
+      >
+        <Text
+          accessibilityLabel=""
+          allowFontScaling={false}
+          numberOfLines={1}
+          style={
+            [
+              {
+                "color": "#013188",
+                "flex": 1,
+                "fontFamily": "Averta CY",
+                "fontSize": 16,
+                "fontWeight": "bold",
+                "marginBottom": 16,
+                "marginTop": 16,
+                "textAlign": "center",
+              },
+            ]
+          }
+        >
+          D
+        </Text>
+        <Text
+          accessibilityLabel=""
+          allowFontScaling={false}
+          numberOfLines={1}
+          style={
+            [
+              {
+                "color": "#013188",
+                "flex": 1,
+                "fontFamily": "Averta CY",
+                "fontSize": 16,
+                "fontWeight": "bold",
+                "marginBottom": 16,
+                "marginTop": 16,
+                "textAlign": "center",
+              },
+            ]
+          }
+        >
+          S
+        </Text>
+        <Text
+          accessibilityLabel=""
+          allowFontScaling={false}
+          numberOfLines={1}
+          style={
+            [
+              {
+                "color": "#013188",
+                "flex": 1,
+                "fontFamily": "Averta CY",
+                "fontSize": 16,
+                "fontWeight": "bold",
+                "marginBottom": 16,
+                "marginTop": 16,
+                "textAlign": "center",
+              },
+            ]
+          }
+        >
+          T
+        </Text>
+        <Text
+          accessibilityLabel=""
+          allowFontScaling={false}
+          numberOfLines={1}
+          style={
+            [
+              {
+                "color": "#013188",
+                "flex": 1,
+                "fontFamily": "Averta CY",
+                "fontSize": 16,
+                "fontWeight": "bold",
+                "marginBottom": 16,
+                "marginTop": 16,
+                "textAlign": "center",
+              },
+            ]
+          }
+        >
+          Q
+        </Text>
+        <Text
+          accessibilityLabel=""
+          allowFontScaling={false}
+          numberOfLines={1}
+          style={
+            [
+              {
+                "color": "#013188",
+                "flex": 1,
+                "fontFamily": "Averta CY",
+                "fontSize": 16,
+                "fontWeight": "bold",
+                "marginBottom": 16,
+                "marginTop": 16,
+                "textAlign": "center",
+              },
+            ]
+          }
+        >
+          Q
+        </Text>
+        <Text
+          accessibilityLabel=""
+          allowFontScaling={false}
+          numberOfLines={1}
+          style={
+            [
+              {
+                "color": "#013188",
+                "flex": 1,
+                "fontFamily": "Averta CY",
+                "fontSize": 16,
+                "fontWeight": "bold",
+                "marginBottom": 16,
+                "marginTop": 16,
+                "textAlign": "center",
+              },
+            ]
+          }
+        >
+          S
+        </Text>
+        <Text
+          accessibilityLabel=""
+          allowFontScaling={false}
+          numberOfLines={1}
+          style={
+            [
+              {
+                "color": "#013188",
+                "flex": 1,
+                "fontFamily": "Averta CY",
+                "fontSize": 16,
+                "fontWeight": "bold",
+                "marginBottom": 16,
+                "marginTop": 16,
+                "textAlign": "center",
+              },
+            ]
+          }
+        >
+          S
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "backgroundColor": "white",
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "flexDirection": "row",
+            "justifyContent": "space-around",
+            "marginVertical": 7,
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "flex": 1,
+            }
+          }
+        />
+        <View
+          style={
+            {
+              "flex": 1,
+            }
+          }
+        />
+        <View
+          style={
+            {
+              "flex": 1,
+            }
+          }
+        />
+        <View
+          style={
+            {
+              "flex": 1,
+            }
+          }
+        />
+        <View
+          style={
+            {
+              "flex": 1,
+            }
+          }
+        />
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "flex": 1,
+            }
+          }
+        >
+          <View
+            accessibilityLabel=" Sexta 1 Janeiro 2021 selected You have entries for this day "
+            accessibilityRole="button"
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": false,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "backgroundColor": "#013188",
+                "borderBottomLeftRadius": 24,
+                "borderBottomRightRadius": 24,
+                "borderRadius": 16,
+                "borderTopLeftRadius": 24,
+                "borderTopRightRadius": 24,
+                "height": 42,
+                "justifyContent": "center",
+                "opacity": 1,
+                "width": 42,
+              }
+            }
+            testID="calendar.day_2021-01-01"
+          >
+            <Text
+              allowFontScaling={false}
+              style={
+                [
+                  {
+                    "backgroundColor": "rgba(255, 255, 255, 0)",
+                    "color": "#676D79",
+                    "fontFamily": "Averta CY",
+                    "fontSize": 16,
+                    "fontWeight": "bold",
+                    "marginTop": 6,
+                  },
+                  {
+                    "color": "white",
+                  },
+                ]
+              }
+            >
+              1
+            </Text>
+            <View
+              style={
+                [
+                  {
+                    "borderRadius": 2,
+                    "height": 4,
+                    "marginHorizontal": 1,
+                    "marginTop": 1,
+                    "opacity": 0,
+                    "width": 4,
+                  },
+                  {
+                    "backgroundColor": "#00BBF2",
+                    "opacity": 1,
+                  },
+                  {
+                    "backgroundColor": "white",
+                  },
+                  {
+                    "backgroundColor": "transparent",
+                  },
+                ]
+              }
+            />
+          </View>
+        </View>
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "flex": 1,
+            }
+          }
+        >
+          <View
+            accessibilityLabel=" Sábado 2 Janeiro 2021 disabled "
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": true,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={false}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "borderBottomLeftRadius": 24,
+                "borderBottomRightRadius": 24,
+                "borderTopLeftRadius": 24,
+                "borderTopRightRadius": 24,
+                "height": 42,
+                "justifyContent": "center",
+                "opacity": 1,
+                "width": 42,
+              }
+            }
+            testID="calendar.day_2021-01-02"
+          >
+            <Text
+              allowFontScaling={false}
+              style={
+                [
+                  {
+                    "backgroundColor": "rgba(255, 255, 255, 0)",
+                    "color": "#676D79",
+                    "fontFamily": "Averta CY",
+                    "fontSize": 16,
+                    "fontWeight": "bold",
+                    "marginTop": 6,
+                  },
+                  {
+                    "color": "#d9e1e8",
+                  },
+                ]
+              }
+            >
+              2
+            </Text>
+            <View
+              style={
+                [
+                  {
+                    "borderRadius": 2,
+                    "height": 4,
+                    "marginHorizontal": 1,
+                    "marginTop": 1,
+                    "opacity": 0,
+                    "width": 4,
+                  },
+                ]
+              }
+            />
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          {
+            "flexDirection": "row",
+            "justifyContent": "space-around",
+            "marginVertical": 7,
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "flex": 1,
+            }
+          }
+        >
+          <View
+            accessibilityLabel=" Domingo 3 Janeiro 2021 "
+            accessibilityRole="button"
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": false,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "borderBottomLeftRadius": 24,
+                "borderBottomRightRadius": 24,
+                "borderTopLeftRadius": 24,
+                "borderTopRightRadius": 24,
+                "height": 42,
+                "justifyContent": "center",
+                "opacity": 1,
+                "width": 42,
+              }
+            }
+            testID="calendar.day_2021-01-03"
+          >
+            <Text
+              allowFontScaling={false}
+              style={
+                [
+                  {
+                    "backgroundColor": "rgba(255, 255, 255, 0)",
+                    "color": "#676D79",
+                    "fontFamily": "Averta CY",
+                    "fontSize": 16,
+                    "fontWeight": "bold",
+                    "marginTop": 6,
+                  },
+                ]
+              }
+            >
+              3
+            </Text>
+            <View
+              style={
+                [
+                  {
+                    "borderRadius": 2,
+                    "height": 4,
+                    "marginHorizontal": 1,
+                    "marginTop": 1,
+                    "opacity": 0,
+                    "width": 4,
+                  },
+                ]
+              }
+            />
+          </View>
+        </View>
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "flex": 1,
+            }
+          }
+        >
+          <View
+            accessibilityLabel=" Segunda 4 Janeiro 2021 "
+            accessibilityRole="button"
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": false,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "borderBottomLeftRadius": 24,
+                "borderBottomRightRadius": 24,
+                "borderTopLeftRadius": 24,
+                "borderTopRightRadius": 24,
+                "height": 42,
+                "justifyContent": "center",
+                "opacity": 1,
+                "width": 42,
+              }
+            }
+            testID="calendar.day_2021-01-04"
+          >
+            <Text
+              allowFontScaling={false}
+              style={
+                [
+                  {
+                    "backgroundColor": "rgba(255, 255, 255, 0)",
+                    "color": "#676D79",
+                    "fontFamily": "Averta CY",
+                    "fontSize": 16,
+                    "fontWeight": "bold",
+                    "marginTop": 6,
+                  },
+                ]
+              }
+            >
+              4
+            </Text>
+            <View
+              style={
+                [
+                  {
+                    "borderRadius": 2,
+                    "height": 4,
+                    "marginHorizontal": 1,
+                    "marginTop": 1,
+                    "opacity": 0,
+                    "width": 4,
+                  },
+                ]
+              }
+            />
+          </View>
+        </View>
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "flex": 1,
+            }
+          }
+        >
+          <View
+            accessibilityLabel=" Terça 5 Janeiro 2021 "
+            accessibilityRole="button"
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": false,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "borderBottomLeftRadius": 24,
+                "borderBottomRightRadius": 24,
+                "borderTopLeftRadius": 24,
+                "borderTopRightRadius": 24,
+                "height": 42,
+                "justifyContent": "center",
+                "opacity": 1,
+                "width": 42,
+              }
+            }
+            testID="calendar.day_2021-01-05"
+          >
+            <Text
+              allowFontScaling={false}
+              style={
+                [
+                  {
+                    "backgroundColor": "rgba(255, 255, 255, 0)",
+                    "color": "#676D79",
+                    "fontFamily": "Averta CY",
+                    "fontSize": 16,
+                    "fontWeight": "bold",
+                    "marginTop": 6,
+                  },
+                ]
+              }
+            >
+              5
+            </Text>
+            <View
+              style={
+                [
+                  {
+                    "borderRadius": 2,
+                    "height": 4,
+                    "marginHorizontal": 1,
+                    "marginTop": 1,
+                    "opacity": 0,
+                    "width": 4,
+                  },
+                ]
+              }
+            />
+          </View>
+        </View>
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "flex": 1,
+            }
+          }
+        >
+          <View
+            accessibilityLabel=" Quarta 6 Janeiro 2021 "
+            accessibilityRole="button"
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": false,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "borderBottomLeftRadius": 24,
+                "borderBottomRightRadius": 24,
+                "borderTopLeftRadius": 24,
+                "borderTopRightRadius": 24,
+                "height": 42,
+                "justifyContent": "center",
+                "opacity": 1,
+                "width": 42,
+              }
+            }
+            testID="calendar.day_2021-01-06"
+          >
+            <Text
+              allowFontScaling={false}
+              style={
+                [
+                  {
+                    "backgroundColor": "rgba(255, 255, 255, 0)",
+                    "color": "#676D79",
+                    "fontFamily": "Averta CY",
+                    "fontSize": 16,
+                    "fontWeight": "bold",
+                    "marginTop": 6,
+                  },
+                ]
+              }
+            >
+              6
+            </Text>
+            <View
+              style={
+                [
+                  {
+                    "borderRadius": 2,
+                    "height": 4,
+                    "marginHorizontal": 1,
+                    "marginTop": 1,
+                    "opacity": 0,
+                    "width": 4,
+                  },
+                ]
+              }
+            />
+          </View>
+        </View>
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "flex": 1,
+            }
+          }
+        >
+          <View
+            accessibilityLabel=" Quinta 7 Janeiro 2021 "
+            accessibilityRole="button"
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": false,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "borderBottomLeftRadius": 24,
+                "borderBottomRightRadius": 24,
+                "borderTopLeftRadius": 24,
+                "borderTopRightRadius": 24,
+                "height": 42,
+                "justifyContent": "center",
+                "opacity": 1,
+                "width": 42,
+              }
+            }
+            testID="calendar.day_2021-01-07"
+          >
+            <Text
+              allowFontScaling={false}
+              style={
+                [
+                  {
+                    "backgroundColor": "rgba(255, 255, 255, 0)",
+                    "color": "#676D79",
+                    "fontFamily": "Averta CY",
+                    "fontSize": 16,
+                    "fontWeight": "bold",
+                    "marginTop": 6,
+                  },
+                ]
+              }
+            >
+              7
+            </Text>
+            <View
+              style={
+                [
+                  {
+                    "borderRadius": 2,
+                    "height": 4,
+                    "marginHorizontal": 1,
+                    "marginTop": 1,
+                    "opacity": 0,
+                    "width": 4,
+                  },
+                ]
+              }
+            />
+          </View>
+        </View>
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "flex": 1,
+            }
+          }
+        >
+          <View
+            accessibilityLabel=" Sexta 8 Janeiro 2021 "
+            accessibilityRole="button"
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": false,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "borderBottomLeftRadius": 24,
+                "borderBottomRightRadius": 24,
+                "borderTopLeftRadius": 24,
+                "borderTopRightRadius": 24,
+                "height": 42,
+                "justifyContent": "center",
+                "opacity": 1,
+                "width": 42,
+              }
+            }
+            testID="calendar.day_2021-01-08"
+          >
+            <Text
+              allowFontScaling={false}
+              style={
+                [
+                  {
+                    "backgroundColor": "rgba(255, 255, 255, 0)",
+                    "color": "#676D79",
+                    "fontFamily": "Averta CY",
+                    "fontSize": 16,
+                    "fontWeight": "bold",
+                    "marginTop": 6,
+                  },
+                ]
+              }
+            >
+              8
+            </Text>
+            <View
+              style={
+                [
+                  {
+                    "borderRadius": 2,
+                    "height": 4,
+                    "marginHorizontal": 1,
+                    "marginTop": 1,
+                    "opacity": 0,
+                    "width": 4,
+                  },
+                ]
+              }
+            />
+          </View>
+        </View>
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "flex": 1,
+            }
+          }
+        >
+          <View
+            accessibilityLabel=" Sábado 9 Janeiro 2021 "
+            accessibilityRole="button"
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": false,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "borderBottomLeftRadius": 24,
+                "borderBottomRightRadius": 24,
+                "borderTopLeftRadius": 24,
+                "borderTopRightRadius": 24,
+                "height": 42,
+                "justifyContent": "center",
+                "opacity": 1,
+                "width": 42,
+              }
+            }
+            testID="calendar.day_2021-01-09"
+          >
+            <Text
+              allowFontScaling={false}
+              style={
+                [
+                  {
+                    "backgroundColor": "rgba(255, 255, 255, 0)",
+                    "color": "#676D79",
+                    "fontFamily": "Averta CY",
+                    "fontSize": 16,
+                    "fontWeight": "bold",
+                    "marginTop": 6,
+                  },
+                ]
+              }
+            >
+              9
+            </Text>
+            <View
+              style={
+                [
+                  {
+                    "borderRadius": 2,
+                    "height": 4,
+                    "marginHorizontal": 1,
+                    "marginTop": 1,
+                    "opacity": 0,
+                    "width": 4,
+                  },
+                ]
+              }
+            />
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          {
+            "flexDirection": "row",
+            "justifyContent": "space-around",
+            "marginVertical": 7,
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "flex": 1,
+            }
+          }
+        >
+          <View
+            accessibilityLabel=" Domingo 10 Janeiro 2021 "
+            accessibilityRole="button"
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": false,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "borderBottomLeftRadius": 24,
+                "borderBottomRightRadius": 24,
+                "borderTopLeftRadius": 24,
+                "borderTopRightRadius": 24,
+                "height": 42,
+                "justifyContent": "center",
+                "opacity": 1,
+                "width": 42,
+              }
+            }
+            testID="calendar.day_2021-01-10"
+          >
+            <Text
+              allowFontScaling={false}
+              style={
+                [
+                  {
+                    "backgroundColor": "rgba(255, 255, 255, 0)",
+                    "color": "#676D79",
+                    "fontFamily": "Averta CY",
+                    "fontSize": 16,
+                    "fontWeight": "bold",
+                    "marginTop": 6,
+                  },
+                ]
+              }
+            >
+              10
+            </Text>
+            <View
+              style={
+                [
+                  {
+                    "borderRadius": 2,
+                    "height": 4,
+                    "marginHorizontal": 1,
+                    "marginTop": 1,
+                    "opacity": 0,
+                    "width": 4,
+                  },
+                ]
+              }
+            />
+          </View>
+        </View>
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "flex": 1,
+            }
+          }
+        >
+          <View
+            accessibilityLabel=" Segunda 11 Janeiro 2021 "
+            accessibilityRole="button"
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": false,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "borderBottomLeftRadius": 24,
+                "borderBottomRightRadius": 24,
+                "borderTopLeftRadius": 24,
+                "borderTopRightRadius": 24,
+                "height": 42,
+                "justifyContent": "center",
+                "opacity": 1,
+                "width": 42,
+              }
+            }
+            testID="calendar.day_2021-01-11"
+          >
+            <Text
+              allowFontScaling={false}
+              style={
+                [
+                  {
+                    "backgroundColor": "rgba(255, 255, 255, 0)",
+                    "color": "#676D79",
+                    "fontFamily": "Averta CY",
+                    "fontSize": 16,
+                    "fontWeight": "bold",
+                    "marginTop": 6,
+                  },
+                ]
+              }
+            >
+              11
+            </Text>
+            <View
+              style={
+                [
+                  {
+                    "borderRadius": 2,
+                    "height": 4,
+                    "marginHorizontal": 1,
+                    "marginTop": 1,
+                    "opacity": 0,
+                    "width": 4,
+                  },
+                ]
+              }
+            />
+          </View>
+        </View>
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "flex": 1,
+            }
+          }
+        >
+          <View
+            accessibilityLabel=" Terça 12 Janeiro 2021 "
+            accessibilityRole="button"
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": false,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "borderBottomLeftRadius": 24,
+                "borderBottomRightRadius": 24,
+                "borderTopLeftRadius": 24,
+                "borderTopRightRadius": 24,
+                "height": 42,
+                "justifyContent": "center",
+                "opacity": 1,
+                "width": 42,
+              }
+            }
+            testID="calendar.day_2021-01-12"
+          >
+            <Text
+              allowFontScaling={false}
+              style={
+                [
+                  {
+                    "backgroundColor": "rgba(255, 255, 255, 0)",
+                    "color": "#676D79",
+                    "fontFamily": "Averta CY",
+                    "fontSize": 16,
+                    "fontWeight": "bold",
+                    "marginTop": 6,
+                  },
+                ]
+              }
+            >
+              12
+            </Text>
+            <View
+              style={
+                [
+                  {
+                    "borderRadius": 2,
+                    "height": 4,
+                    "marginHorizontal": 1,
+                    "marginTop": 1,
+                    "opacity": 0,
+                    "width": 4,
+                  },
+                ]
+              }
+            />
+          </View>
+        </View>
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "flex": 1,
+            }
+          }
+        >
+          <View
+            accessibilityLabel=" Quarta 13 Janeiro 2021 "
+            accessibilityRole="button"
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": false,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "borderBottomLeftRadius": 24,
+                "borderBottomRightRadius": 24,
+                "borderTopLeftRadius": 24,
+                "borderTopRightRadius": 24,
+                "height": 42,
+                "justifyContent": "center",
+                "opacity": 1,
+                "width": 42,
+              }
+            }
+            testID="calendar.day_2021-01-13"
+          >
+            <Text
+              allowFontScaling={false}
+              style={
+                [
+                  {
+                    "backgroundColor": "rgba(255, 255, 255, 0)",
+                    "color": "#676D79",
+                    "fontFamily": "Averta CY",
+                    "fontSize": 16,
+                    "fontWeight": "bold",
+                    "marginTop": 6,
+                  },
+                ]
+              }
+            >
+              13
+            </Text>
+            <View
+              style={
+                [
+                  {
+                    "borderRadius": 2,
+                    "height": 4,
+                    "marginHorizontal": 1,
+                    "marginTop": 1,
+                    "opacity": 0,
+                    "width": 4,
+                  },
+                ]
+              }
+            />
+          </View>
+        </View>
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "flex": 1,
+            }
+          }
+        >
+          <View
+            accessibilityLabel=" Quinta 14 Janeiro 2021 "
+            accessibilityRole="button"
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": false,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "borderBottomLeftRadius": 24,
+                "borderBottomRightRadius": 24,
+                "borderTopLeftRadius": 24,
+                "borderTopRightRadius": 24,
+                "height": 42,
+                "justifyContent": "center",
+                "opacity": 1,
+                "width": 42,
+              }
+            }
+            testID="calendar.day_2021-01-14"
+          >
+            <Text
+              allowFontScaling={false}
+              style={
+                [
+                  {
+                    "backgroundColor": "rgba(255, 255, 255, 0)",
+                    "color": "#676D79",
+                    "fontFamily": "Averta CY",
+                    "fontSize": 16,
+                    "fontWeight": "bold",
+                    "marginTop": 6,
+                  },
+                ]
+              }
+            >
+              14
+            </Text>
+            <View
+              style={
+                [
+                  {
+                    "borderRadius": 2,
+                    "height": 4,
+                    "marginHorizontal": 1,
+                    "marginTop": 1,
+                    "opacity": 0,
+                    "width": 4,
+                  },
+                ]
+              }
+            />
+          </View>
+        </View>
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "flex": 1,
+            }
+          }
+        >
+          <View
+            accessibilityLabel=" Sexta 15 Janeiro 2021 "
+            accessibilityRole="button"
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": false,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "borderBottomLeftRadius": 24,
+                "borderBottomRightRadius": 24,
+                "borderTopLeftRadius": 24,
+                "borderTopRightRadius": 24,
+                "height": 42,
+                "justifyContent": "center",
+                "opacity": 1,
+                "width": 42,
+              }
+            }
+            testID="calendar.day_2021-01-15"
+          >
+            <Text
+              allowFontScaling={false}
+              style={
+                [
+                  {
+                    "backgroundColor": "rgba(255, 255, 255, 0)",
+                    "color": "#676D79",
+                    "fontFamily": "Averta CY",
+                    "fontSize": 16,
+                    "fontWeight": "bold",
+                    "marginTop": 6,
+                  },
+                ]
+              }
+            >
+              15
+            </Text>
+            <View
+              style={
+                [
+                  {
+                    "borderRadius": 2,
+                    "height": 4,
+                    "marginHorizontal": 1,
+                    "marginTop": 1,
+                    "opacity": 0,
+                    "width": 4,
+                  },
+                ]
+              }
+            />
+          </View>
+        </View>
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "flex": 1,
+            }
+          }
+        >
+          <View
+            accessibilityLabel=" Sábado 16 Janeiro 2021 "
+            accessibilityRole="button"
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": false,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "borderBottomLeftRadius": 24,
+                "borderBottomRightRadius": 24,
+                "borderTopLeftRadius": 24,
+                "borderTopRightRadius": 24,
+                "height": 42,
+                "justifyContent": "center",
+                "opacity": 1,
+                "width": 42,
+              }
+            }
+            testID="calendar.day_2021-01-16"
+          >
+            <Text
+              allowFontScaling={false}
+              style={
+                [
+                  {
+                    "backgroundColor": "rgba(255, 255, 255, 0)",
+                    "color": "#676D79",
+                    "fontFamily": "Averta CY",
+                    "fontSize": 16,
+                    "fontWeight": "bold",
+                    "marginTop": 6,
+                  },
+                ]
+              }
+            >
+              16
+            </Text>
+            <View
+              style={
+                [
+                  {
+                    "borderRadius": 2,
+                    "height": 4,
+                    "marginHorizontal": 1,
+                    "marginTop": 1,
+                    "opacity": 0,
+                    "width": 4,
+                  },
+                ]
+              }
+            />
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          {
+            "flexDirection": "row",
+            "justifyContent": "space-around",
+            "marginVertical": 7,
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "flex": 1,
+            }
+          }
+        >
+          <View
+            accessibilityLabel=" Domingo 17 Janeiro 2021 "
+            accessibilityRole="button"
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": false,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "borderBottomLeftRadius": 24,
+                "borderBottomRightRadius": 24,
+                "borderTopLeftRadius": 24,
+                "borderTopRightRadius": 24,
+                "height": 42,
+                "justifyContent": "center",
+                "opacity": 1,
+                "width": 42,
+              }
+            }
+            testID="calendar.day_2021-01-17"
+          >
+            <Text
+              allowFontScaling={false}
+              style={
+                [
+                  {
+                    "backgroundColor": "rgba(255, 255, 255, 0)",
+                    "color": "#676D79",
+                    "fontFamily": "Averta CY",
+                    "fontSize": 16,
+                    "fontWeight": "bold",
+                    "marginTop": 6,
+                  },
+                ]
+              }
+            >
+              17
+            </Text>
+            <View
+              style={
+                [
+                  {
+                    "borderRadius": 2,
+                    "height": 4,
+                    "marginHorizontal": 1,
+                    "marginTop": 1,
+                    "opacity": 0,
+                    "width": 4,
+                  },
+                ]
+              }
+            />
+          </View>
+        </View>
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "flex": 1,
+            }
+          }
+        >
+          <View
+            accessibilityLabel=" Segunda 18 Janeiro 2021 "
+            accessibilityRole="button"
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": false,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "borderBottomLeftRadius": 24,
+                "borderBottomRightRadius": 24,
+                "borderTopLeftRadius": 24,
+                "borderTopRightRadius": 24,
+                "height": 42,
+                "justifyContent": "center",
+                "opacity": 1,
+                "width": 42,
+              }
+            }
+            testID="calendar.day_2021-01-18"
+          >
+            <Text
+              allowFontScaling={false}
+              style={
+                [
+                  {
+                    "backgroundColor": "rgba(255, 255, 255, 0)",
+                    "color": "#676D79",
+                    "fontFamily": "Averta CY",
+                    "fontSize": 16,
+                    "fontWeight": "bold",
+                    "marginTop": 6,
+                  },
+                ]
+              }
+            >
+              18
+            </Text>
+            <View
+              style={
+                [
+                  {
+                    "borderRadius": 2,
+                    "height": 4,
+                    "marginHorizontal": 1,
+                    "marginTop": 1,
+                    "opacity": 0,
+                    "width": 4,
+                  },
+                ]
+              }
+            />
+          </View>
+        </View>
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "flex": 1,
+            }
+          }
+        >
+          <View
+            accessibilityLabel=" Terça 19 Janeiro 2021 "
+            accessibilityRole="button"
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": false,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "borderBottomLeftRadius": 24,
+                "borderBottomRightRadius": 24,
+                "borderTopLeftRadius": 24,
+                "borderTopRightRadius": 24,
+                "height": 42,
+                "justifyContent": "center",
+                "opacity": 1,
+                "width": 42,
+              }
+            }
+            testID="calendar.day_2021-01-19"
+          >
+            <Text
+              allowFontScaling={false}
+              style={
+                [
+                  {
+                    "backgroundColor": "rgba(255, 255, 255, 0)",
+                    "color": "#676D79",
+                    "fontFamily": "Averta CY",
+                    "fontSize": 16,
+                    "fontWeight": "bold",
+                    "marginTop": 6,
+                  },
+                ]
+              }
+            >
+              19
+            </Text>
+            <View
+              style={
+                [
+                  {
+                    "borderRadius": 2,
+                    "height": 4,
+                    "marginHorizontal": 1,
+                    "marginTop": 1,
+                    "opacity": 0,
+                    "width": 4,
+                  },
+                ]
+              }
+            />
+          </View>
+        </View>
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "flex": 1,
+            }
+          }
+        >
+          <View
+            accessibilityLabel=" Quarta 20 Janeiro 2021 "
+            accessibilityRole="button"
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": false,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "borderBottomLeftRadius": 24,
+                "borderBottomRightRadius": 24,
+                "borderTopLeftRadius": 24,
+                "borderTopRightRadius": 24,
+                "height": 42,
+                "justifyContent": "center",
+                "opacity": 1,
+                "width": 42,
+              }
+            }
+            testID="calendar.day_2021-01-20"
+          >
+            <Text
+              allowFontScaling={false}
+              style={
+                [
+                  {
+                    "backgroundColor": "rgba(255, 255, 255, 0)",
+                    "color": "#676D79",
+                    "fontFamily": "Averta CY",
+                    "fontSize": 16,
+                    "fontWeight": "bold",
+                    "marginTop": 6,
+                  },
+                ]
+              }
+            >
+              20
+            </Text>
+            <View
+              style={
+                [
+                  {
+                    "borderRadius": 2,
+                    "height": 4,
+                    "marginHorizontal": 1,
+                    "marginTop": 1,
+                    "opacity": 0,
+                    "width": 4,
+                  },
+                ]
+              }
+            />
+          </View>
+        </View>
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "flex": 1,
+            }
+          }
+        >
+          <View
+            accessibilityLabel=" Quinta 21 Janeiro 2021 "
+            accessibilityRole="button"
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": false,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "borderBottomLeftRadius": 24,
+                "borderBottomRightRadius": 24,
+                "borderTopLeftRadius": 24,
+                "borderTopRightRadius": 24,
+                "height": 42,
+                "justifyContent": "center",
+                "opacity": 1,
+                "width": 42,
+              }
+            }
+            testID="calendar.day_2021-01-21"
+          >
+            <Text
+              allowFontScaling={false}
+              style={
+                [
+                  {
+                    "backgroundColor": "rgba(255, 255, 255, 0)",
+                    "color": "#676D79",
+                    "fontFamily": "Averta CY",
+                    "fontSize": 16,
+                    "fontWeight": "bold",
+                    "marginTop": 6,
+                  },
+                ]
+              }
+            >
+              21
+            </Text>
+            <View
+              style={
+                [
+                  {
+                    "borderRadius": 2,
+                    "height": 4,
+                    "marginHorizontal": 1,
+                    "marginTop": 1,
+                    "opacity": 0,
+                    "width": 4,
+                  },
+                ]
+              }
+            />
+          </View>
+        </View>
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "flex": 1,
+            }
+          }
+        >
+          <View
+            accessibilityLabel=" Sexta 22 Janeiro 2021 "
+            accessibilityRole="button"
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": false,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "borderBottomLeftRadius": 24,
+                "borderBottomRightRadius": 24,
+                "borderTopLeftRadius": 24,
+                "borderTopRightRadius": 24,
+                "height": 42,
+                "justifyContent": "center",
+                "opacity": 1,
+                "width": 42,
+              }
+            }
+            testID="calendar.day_2021-01-22"
+          >
+            <Text
+              allowFontScaling={false}
+              style={
+                [
+                  {
+                    "backgroundColor": "rgba(255, 255, 255, 0)",
+                    "color": "#676D79",
+                    "fontFamily": "Averta CY",
+                    "fontSize": 16,
+                    "fontWeight": "bold",
+                    "marginTop": 6,
+                  },
+                ]
+              }
+            >
+              22
+            </Text>
+            <View
+              style={
+                [
+                  {
+                    "borderRadius": 2,
+                    "height": 4,
+                    "marginHorizontal": 1,
+                    "marginTop": 1,
+                    "opacity": 0,
+                    "width": 4,
+                  },
+                ]
+              }
+            />
+          </View>
+        </View>
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "flex": 1,
+            }
+          }
+        >
+          <View
+            accessibilityLabel=" Sábado 23 Janeiro 2021 "
+            accessibilityRole="button"
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": false,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "borderBottomLeftRadius": 24,
+                "borderBottomRightRadius": 24,
+                "borderTopLeftRadius": 24,
+                "borderTopRightRadius": 24,
+                "height": 42,
+                "justifyContent": "center",
+                "opacity": 1,
+                "width": 42,
+              }
+            }
+            testID="calendar.day_2021-01-23"
+          >
+            <Text
+              allowFontScaling={false}
+              style={
+                [
+                  {
+                    "backgroundColor": "rgba(255, 255, 255, 0)",
+                    "color": "#676D79",
+                    "fontFamily": "Averta CY",
+                    "fontSize": 16,
+                    "fontWeight": "bold",
+                    "marginTop": 6,
+                  },
+                ]
+              }
+            >
+              23
+            </Text>
+            <View
+              style={
+                [
+                  {
+                    "borderRadius": 2,
+                    "height": 4,
+                    "marginHorizontal": 1,
+                    "marginTop": 1,
+                    "opacity": 0,
+                    "width": 4,
+                  },
+                ]
+              }
+            />
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          {
+            "flexDirection": "row",
+            "justifyContent": "space-around",
+            "marginVertical": 7,
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "flex": 1,
+            }
+          }
+        >
+          <View
+            accessibilityLabel=" Domingo 24 Janeiro 2021 "
+            accessibilityRole="button"
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": false,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "borderBottomLeftRadius": 24,
+                "borderBottomRightRadius": 24,
+                "borderTopLeftRadius": 24,
+                "borderTopRightRadius": 24,
+                "height": 42,
+                "justifyContent": "center",
+                "opacity": 1,
+                "width": 42,
+              }
+            }
+            testID="calendar.day_2021-01-24"
+          >
+            <Text
+              allowFontScaling={false}
+              style={
+                [
+                  {
+                    "backgroundColor": "rgba(255, 255, 255, 0)",
+                    "color": "#676D79",
+                    "fontFamily": "Averta CY",
+                    "fontSize": 16,
+                    "fontWeight": "bold",
+                    "marginTop": 6,
+                  },
+                ]
+              }
+            >
+              24
+            </Text>
+            <View
+              style={
+                [
+                  {
+                    "borderRadius": 2,
+                    "height": 4,
+                    "marginHorizontal": 1,
+                    "marginTop": 1,
+                    "opacity": 0,
+                    "width": 4,
+                  },
+                ]
+              }
+            />
+          </View>
+        </View>
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "flex": 1,
+            }
+          }
+        >
+          <View
+            accessibilityLabel=" Segunda 25 Janeiro 2021 "
+            accessibilityRole="button"
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": false,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "borderBottomLeftRadius": 24,
+                "borderBottomRightRadius": 24,
+                "borderTopLeftRadius": 24,
+                "borderTopRightRadius": 24,
+                "height": 42,
+                "justifyContent": "center",
+                "opacity": 1,
+                "width": 42,
+              }
+            }
+            testID="calendar.day_2021-01-25"
+          >
+            <Text
+              allowFontScaling={false}
+              style={
+                [
+                  {
+                    "backgroundColor": "rgba(255, 255, 255, 0)",
+                    "color": "#676D79",
+                    "fontFamily": "Averta CY",
+                    "fontSize": 16,
+                    "fontWeight": "bold",
+                    "marginTop": 6,
+                  },
+                ]
+              }
+            >
+              25
+            </Text>
+            <View
+              style={
+                [
+                  {
+                    "borderRadius": 2,
+                    "height": 4,
+                    "marginHorizontal": 1,
+                    "marginTop": 1,
+                    "opacity": 0,
+                    "width": 4,
+                  },
+                ]
+              }
+            />
+          </View>
+        </View>
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "flex": 1,
+            }
+          }
+        >
+          <View
+            accessibilityLabel=" Terça 26 Janeiro 2021 "
+            accessibilityRole="button"
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": false,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "borderBottomLeftRadius": 24,
+                "borderBottomRightRadius": 24,
+                "borderTopLeftRadius": 24,
+                "borderTopRightRadius": 24,
+                "height": 42,
+                "justifyContent": "center",
+                "opacity": 1,
+                "width": 42,
+              }
+            }
+            testID="calendar.day_2021-01-26"
+          >
+            <Text
+              allowFontScaling={false}
+              style={
+                [
+                  {
+                    "backgroundColor": "rgba(255, 255, 255, 0)",
+                    "color": "#676D79",
+                    "fontFamily": "Averta CY",
+                    "fontSize": 16,
+                    "fontWeight": "bold",
+                    "marginTop": 6,
+                  },
+                ]
+              }
+            >
+              26
+            </Text>
+            <View
+              style={
+                [
+                  {
+                    "borderRadius": 2,
+                    "height": 4,
+                    "marginHorizontal": 1,
+                    "marginTop": 1,
+                    "opacity": 0,
+                    "width": 4,
+                  },
+                ]
+              }
+            />
+          </View>
+        </View>
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "flex": 1,
+            }
+          }
+        >
+          <View
+            accessibilityLabel=" Quarta 27 Janeiro 2021 "
+            accessibilityRole="button"
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": false,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "borderBottomLeftRadius": 24,
+                "borderBottomRightRadius": 24,
+                "borderTopLeftRadius": 24,
+                "borderTopRightRadius": 24,
+                "height": 42,
+                "justifyContent": "center",
+                "opacity": 1,
+                "width": 42,
+              }
+            }
+            testID="calendar.day_2021-01-27"
+          >
+            <Text
+              allowFontScaling={false}
+              style={
+                [
+                  {
+                    "backgroundColor": "rgba(255, 255, 255, 0)",
+                    "color": "#676D79",
+                    "fontFamily": "Averta CY",
+                    "fontSize": 16,
+                    "fontWeight": "bold",
+                    "marginTop": 6,
+                  },
+                ]
+              }
+            >
+              27
+            </Text>
+            <View
+              style={
+                [
+                  {
+                    "borderRadius": 2,
+                    "height": 4,
+                    "marginHorizontal": 1,
+                    "marginTop": 1,
+                    "opacity": 0,
+                    "width": 4,
+                  },
+                ]
+              }
+            />
+          </View>
+        </View>
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "flex": 1,
+            }
+          }
+        >
+          <View
+            accessibilityLabel=" Quinta 28 Janeiro 2021 "
+            accessibilityRole="button"
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": false,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "borderBottomLeftRadius": 24,
+                "borderBottomRightRadius": 24,
+                "borderTopLeftRadius": 24,
+                "borderTopRightRadius": 24,
+                "height": 42,
+                "justifyContent": "center",
+                "opacity": 1,
+                "width": 42,
+              }
+            }
+            testID="calendar.day_2021-01-28"
+          >
+            <Text
+              allowFontScaling={false}
+              style={
+                [
+                  {
+                    "backgroundColor": "rgba(255, 255, 255, 0)",
+                    "color": "#676D79",
+                    "fontFamily": "Averta CY",
+                    "fontSize": 16,
+                    "fontWeight": "bold",
+                    "marginTop": 6,
+                  },
+                ]
+              }
+            >
+              28
+            </Text>
+            <View
+              style={
+                [
+                  {
+                    "borderRadius": 2,
+                    "height": 4,
+                    "marginHorizontal": 1,
+                    "marginTop": 1,
+                    "opacity": 0,
+                    "width": 4,
+                  },
+                ]
+              }
+            />
+          </View>
+        </View>
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "flex": 1,
+            }
+          }
+        >
+          <View
+            accessibilityLabel=" Sexta 29 Janeiro 2021 "
+            accessibilityRole="button"
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": false,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "borderBottomLeftRadius": 24,
+                "borderBottomRightRadius": 24,
+                "borderTopLeftRadius": 24,
+                "borderTopRightRadius": 24,
+                "height": 42,
+                "justifyContent": "center",
+                "opacity": 1,
+                "width": 42,
+              }
+            }
+            testID="calendar.day_2021-01-29"
+          >
+            <Text
+              allowFontScaling={false}
+              style={
+                [
+                  {
+                    "backgroundColor": "rgba(255, 255, 255, 0)",
+                    "color": "#676D79",
+                    "fontFamily": "Averta CY",
+                    "fontSize": 16,
+                    "fontWeight": "bold",
+                    "marginTop": 6,
+                  },
+                ]
+              }
+            >
+              29
+            </Text>
+            <View
+              style={
+                [
+                  {
+                    "borderRadius": 2,
+                    "height": 4,
+                    "marginHorizontal": 1,
+                    "marginTop": 1,
+                    "opacity": 0,
+                    "width": 4,
+                  },
+                ]
+              }
+            />
+          </View>
+        </View>
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "flex": 1,
+            }
+          }
+        >
+          <View
+            accessibilityLabel=" Sábado 30 Janeiro 2021 "
+            accessibilityRole="button"
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": false,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "borderBottomLeftRadius": 24,
+                "borderBottomRightRadius": 24,
+                "borderTopLeftRadius": 24,
+                "borderTopRightRadius": 24,
+                "height": 42,
+                "justifyContent": "center",
+                "opacity": 1,
+                "width": 42,
+              }
+            }
+            testID="calendar.day_2021-01-30"
+          >
+            <Text
+              allowFontScaling={false}
+              style={
+                [
+                  {
+                    "backgroundColor": "rgba(255, 255, 255, 0)",
+                    "color": "#676D79",
+                    "fontFamily": "Averta CY",
+                    "fontSize": 16,
+                    "fontWeight": "bold",
+                    "marginTop": 6,
+                  },
+                ]
+              }
+            >
+              30
+            </Text>
+            <View
+              style={
+                [
+                  {
+                    "borderRadius": 2,
+                    "height": 4,
+                    "marginHorizontal": 1,
+                    "marginTop": 1,
+                    "opacity": 0,
+                    "width": 4,
+                  },
+                ]
+              }
+            />
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          {
+            "flexDirection": "row",
+            "justifyContent": "space-around",
+            "marginVertical": 7,
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "flex": 1,
+            }
+          }
+        >
+          <View
+            accessibilityLabel=" Domingo 31 Janeiro 2021 "
+            accessibilityRole="button"
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": false,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "borderBottomLeftRadius": 24,
+                "borderBottomRightRadius": 24,
+                "borderTopLeftRadius": 24,
+                "borderTopRightRadius": 24,
+                "height": 42,
+                "justifyContent": "center",
+                "opacity": 1,
+                "width": 42,
+              }
+            }
+            testID="calendar.day_2021-01-31"
+          >
+            <Text
+              allowFontScaling={false}
+              style={
+                [
+                  {
+                    "backgroundColor": "rgba(255, 255, 255, 0)",
+                    "color": "#676D79",
+                    "fontFamily": "Averta CY",
+                    "fontSize": 16,
+                    "fontWeight": "bold",
+                    "marginTop": 6,
+                  },
+                ]
+              }
+            >
+              31
+            </Text>
+            <View
+              style={
+                [
+                  {
+                    "borderRadius": 2,
+                    "height": 4,
+                    "marginHorizontal": 1,
+                    "marginTop": 1,
+                    "opacity": 0,
+                    "width": 4,
+                  },
+                ]
+              }
+            />
+          </View>
+        </View>
+        <View
+          style={
+            {
+              "flex": 1,
+            }
+          }
+        />
+        <View
+          style={
+            {
+              "flex": 1,
+            }
+          }
+        />
+        <View
+          style={
+            {
+              "flex": 1,
+            }
+          }
+        />
+        <View
+          style={
+            {
+              "flex": 1,
+            }
+          }
+        />
+        <View
+          style={
+            {
+              "flex": 1,
+            }
+          }
+        />
+        <View
+          style={
+            {
+              "flex": 1,
+            }
+          }
+        />
+      </View>
+    </View>
+  </View>
+</View>
+`;

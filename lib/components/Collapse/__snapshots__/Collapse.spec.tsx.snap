@@ -1,0 +1,789 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Collapse snapshots children 1`] = `
+<View
+  collapsable={false}
+  style={
+    {
+      "borderColor": "#F0F0F2",
+      "borderRadius": 12,
+      "borderWidth": 1,
+      "height": 74,
+      "overflow": "hidden",
+    }
+  }
+>
+  <View
+    onLayout={[Function]}
+    style={
+      {
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      }
+    }
+    testID="collapse-content"
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onLayout={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "opacity": 1,
+          "padding": 24,
+          "paddingBottom": 0,
+        }
+      }
+      testID="collapse-touchable"
+    >
+      <Text
+        allowFontScaling={false}
+        numberOfLines={1}
+        style={
+          {
+            "color": "#676D79",
+            "flexShrink": 1,
+            "fontFamily": "Averta CY",
+            "fontSize": 16,
+            "fontWeight": "bold",
+            "letterSpacing": -0.02,
+            "lineHeight": 22,
+            "marginRight": 4,
+          }
+        }
+        testID="collapse-title"
+      >
+        My title
+      </Text>
+      <RNSVGSvgView
+        align="xMidYMid"
+        bbHeight="16"
+        bbWidth="16"
+        fill="none"
+        focusable={false}
+        height={16}
+        meetOrSlice={0}
+        minX={0}
+        minY={0}
+        style={
+          [
+            {
+              "backgroundColor": "transparent",
+              "borderWidth": 0,
+            },
+            {
+              "flex": 0,
+              "height": 16,
+              "width": 16,
+            },
+          ]
+        }
+        vbHeight={16}
+        vbWidth={16}
+        width={16}
+      >
+        <RNSVGGroup
+          fill={null}
+          propList={
+            [
+              "fill",
+            ]
+          }
+        >
+          <RNSVGPath
+            d="m4 6 4 4 4-4"
+            fill={
+              {
+                "payload": 4278190080,
+                "type": 0,
+              }
+            }
+            propList={
+              [
+                "stroke",
+                "strokeWidth",
+                "strokeLinecap",
+                "strokeLinejoin",
+              ]
+            }
+            stroke={
+              {
+                "payload": 4290954697,
+                "type": 0,
+              }
+            }
+            strokeLinecap={1}
+            strokeLinejoin={1}
+            strokeWidth="2"
+          />
+        </RNSVGGroup>
+      </RNSVGSvgView>
+    </View>
+    <View
+      collapsable={false}
+      style={
+        {
+          "marginTop": 8,
+          "opacity": 0,
+          "paddingHorizontal": 24,
+        }
+      }
+      testID="collapse-description-container"
+    >
+      <Text
+        allowFontScaling={false}
+        style={
+          {
+            "color": "#676D79",
+            "flexShrink": 1,
+            "fontFamily": "Averta CY",
+            "fontSize": 16,
+            "fontWeight": "normal",
+            "letterSpacing": -0.02,
+            "lineHeight": 22,
+          }
+        }
+        testID="collapse-description"
+      >
+        My description
+      </Text>
+    </View>
+    <View
+      collapsable={false}
+      style={
+        {
+          "opacity": 0,
+          "padding": 24,
+          "paddingTop": 0,
+        }
+      }
+      testID="collapse-children-container"
+    >
+      <Text
+        allowFontScaling={false}
+        style={
+          {
+            "color": "#676D79",
+            "flexShrink": 1,
+            "fontFamily": "Averta CY",
+            "fontSize": 16,
+            "fontWeight": "normal",
+            "letterSpacing": -0.02,
+            "lineHeight": 22,
+          }
+        }
+      >
+        My children
+      </Text>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Collapse snapshots default 1`] = `
+<View
+  collapsable={false}
+  style={
+    {
+      "borderColor": "#F0F0F2",
+      "borderRadius": 12,
+      "borderWidth": 1,
+      "height": 74,
+      "overflow": "hidden",
+    }
+  }
+>
+  <View
+    onLayout={[Function]}
+    style={
+      {
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      }
+    }
+    testID="collapse-content"
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onLayout={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "opacity": 1,
+          "padding": 24,
+          "paddingBottom": 0,
+        }
+      }
+      testID="collapse-touchable"
+    >
+      <Text
+        allowFontScaling={false}
+        numberOfLines={1}
+        style={
+          {
+            "color": "#676D79",
+            "flexShrink": 1,
+            "fontFamily": "Averta CY",
+            "fontSize": 16,
+            "fontWeight": "bold",
+            "letterSpacing": -0.02,
+            "lineHeight": 22,
+            "marginRight": 4,
+          }
+        }
+        testID="collapse-title"
+      >
+        My title
+      </Text>
+      <RNSVGSvgView
+        align="xMidYMid"
+        bbHeight="16"
+        bbWidth="16"
+        fill="none"
+        focusable={false}
+        height={16}
+        meetOrSlice={0}
+        minX={0}
+        minY={0}
+        style={
+          [
+            {
+              "backgroundColor": "transparent",
+              "borderWidth": 0,
+            },
+            {
+              "flex": 0,
+              "height": 16,
+              "width": 16,
+            },
+          ]
+        }
+        vbHeight={16}
+        vbWidth={16}
+        width={16}
+      >
+        <RNSVGGroup
+          fill={null}
+          propList={
+            [
+              "fill",
+            ]
+          }
+        >
+          <RNSVGPath
+            d="m4 6 4 4 4-4"
+            fill={
+              {
+                "payload": 4278190080,
+                "type": 0,
+              }
+            }
+            propList={
+              [
+                "stroke",
+                "strokeWidth",
+                "strokeLinecap",
+                "strokeLinejoin",
+              ]
+            }
+            stroke={
+              {
+                "payload": 4290954697,
+                "type": 0,
+              }
+            }
+            strokeLinecap={1}
+            strokeLinejoin={1}
+            strokeWidth="2"
+          />
+        </RNSVGGroup>
+      </RNSVGSvgView>
+    </View>
+    <View
+      collapsable={false}
+      style={
+        {
+          "marginTop": 8,
+          "opacity": 0,
+          "paddingHorizontal": 24,
+        }
+      }
+      testID="collapse-description-container"
+    />
+    <View
+      collapsable={false}
+      style={
+        {
+          "opacity": 0,
+          "padding": 24,
+          "paddingTop": 0,
+        }
+      }
+      testID="collapse-children-container"
+    />
+  </View>
+</View>
+`;
+
+exports[`Collapse snapshots description 1`] = `
+<View
+  collapsable={false}
+  style={
+    {
+      "borderColor": "#F0F0F2",
+      "borderRadius": 12,
+      "borderWidth": 1,
+      "height": 74,
+      "overflow": "hidden",
+    }
+  }
+>
+  <View
+    onLayout={[Function]}
+    style={
+      {
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      }
+    }
+    testID="collapse-content"
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onLayout={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "opacity": 1,
+          "padding": 24,
+          "paddingBottom": 0,
+        }
+      }
+      testID="collapse-touchable"
+    >
+      <Text
+        allowFontScaling={false}
+        numberOfLines={1}
+        style={
+          {
+            "color": "#676D79",
+            "flexShrink": 1,
+            "fontFamily": "Averta CY",
+            "fontSize": 16,
+            "fontWeight": "bold",
+            "letterSpacing": -0.02,
+            "lineHeight": 22,
+            "marginRight": 4,
+          }
+        }
+        testID="collapse-title"
+      >
+        My title
+      </Text>
+      <RNSVGSvgView
+        align="xMidYMid"
+        bbHeight="16"
+        bbWidth="16"
+        fill="none"
+        focusable={false}
+        height={16}
+        meetOrSlice={0}
+        minX={0}
+        minY={0}
+        style={
+          [
+            {
+              "backgroundColor": "transparent",
+              "borderWidth": 0,
+            },
+            {
+              "flex": 0,
+              "height": 16,
+              "width": 16,
+            },
+          ]
+        }
+        vbHeight={16}
+        vbWidth={16}
+        width={16}
+      >
+        <RNSVGGroup
+          fill={null}
+          propList={
+            [
+              "fill",
+            ]
+          }
+        >
+          <RNSVGPath
+            d="m4 6 4 4 4-4"
+            fill={
+              {
+                "payload": 4278190080,
+                "type": 0,
+              }
+            }
+            propList={
+              [
+                "stroke",
+                "strokeWidth",
+                "strokeLinecap",
+                "strokeLinejoin",
+              ]
+            }
+            stroke={
+              {
+                "payload": 4290954697,
+                "type": 0,
+              }
+            }
+            strokeLinecap={1}
+            strokeLinejoin={1}
+            strokeWidth="2"
+          />
+        </RNSVGGroup>
+      </RNSVGSvgView>
+    </View>
+    <View
+      collapsable={false}
+      style={
+        {
+          "marginTop": 8,
+          "opacity": 0,
+          "paddingHorizontal": 24,
+        }
+      }
+      testID="collapse-description-container"
+    >
+      <Text
+        allowFontScaling={false}
+        style={
+          {
+            "color": "#676D79",
+            "flexShrink": 1,
+            "fontFamily": "Averta CY",
+            "fontSize": 16,
+            "fontWeight": "normal",
+            "letterSpacing": -0.02,
+            "lineHeight": 22,
+          }
+        }
+        testID="collapse-description"
+      >
+        My description
+      </Text>
+    </View>
+    <View
+      collapsable={false}
+      style={
+        {
+          "opacity": 0,
+          "padding": 24,
+          "paddingTop": 0,
+        }
+      }
+      testID="collapse-children-container"
+    />
+  </View>
+</View>
+`;
+
+exports[`Collapse snapshots expanded 1`] = `
+<View
+  collapsable={false}
+  style={
+    {
+      "borderColor": "#F0F0F2",
+      "borderRadius": 12,
+      "borderWidth": 1,
+      "height": 200,
+      "overflow": "hidden",
+    }
+  }
+>
+  <View
+    onLayout={[Function]}
+    style={
+      {
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      }
+    }
+    testID="collapse-content"
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onLayout={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "opacity": 1,
+          "padding": 24,
+          "paddingBottom": 0,
+        }
+      }
+      testID="collapse-touchable"
+    >
+      <Text
+        allowFontScaling={false}
+        numberOfLines={1}
+        style={
+          {
+            "color": "#3E4149",
+            "flexShrink": 1,
+            "fontFamily": "Averta CY",
+            "fontSize": 16,
+            "fontWeight": "bold",
+            "letterSpacing": -0.02,
+            "lineHeight": 22,
+            "marginRight": 4,
+          }
+        }
+        testID="collapse-title"
+      >
+        My title
+      </Text>
+      <RNSVGSvgView
+        align="xMidYMid"
+        bbHeight="16"
+        bbWidth="16"
+        fill="none"
+        focusable={false}
+        height={16}
+        meetOrSlice={0}
+        minX={0}
+        minY={0}
+        style={
+          [
+            {
+              "backgroundColor": "transparent",
+              "borderWidth": 0,
+            },
+            {
+              "flex": 0,
+              "height": 16,
+              "width": 16,
+            },
+          ]
+        }
+        vbHeight={16}
+        vbWidth={16}
+        width={16}
+      >
+        <RNSVGGroup
+          fill={null}
+          propList={
+            [
+              "fill",
+            ]
+          }
+        >
+          <RNSVGPath
+            d="M12 10 8 6l-4 4"
+            fill={
+              {
+                "payload": 4278190080,
+                "type": 0,
+              }
+            }
+            propList={
+              [
+                "stroke",
+                "strokeWidth",
+                "strokeLinecap",
+                "strokeLinejoin",
+              ]
+            }
+            stroke={
+              {
+                "payload": 4290954697,
+                "type": 0,
+              }
+            }
+            strokeLinecap={1}
+            strokeLinejoin={1}
+            strokeWidth="2"
+          />
+        </RNSVGGroup>
+      </RNSVGSvgView>
+    </View>
+    <View
+      collapsable={false}
+      style={
+        {
+          "marginTop": 8,
+          "opacity": 1,
+          "paddingHorizontal": 24,
+        }
+      }
+      testID="collapse-description-container"
+    >
+      <Text
+        allowFontScaling={false}
+        style={
+          {
+            "color": "#676D79",
+            "flexShrink": 1,
+            "fontFamily": "Averta CY",
+            "fontSize": 16,
+            "fontWeight": "normal",
+            "letterSpacing": -0.02,
+            "lineHeight": 22,
+          }
+        }
+        testID="collapse-description"
+      >
+        My description
+      </Text>
+    </View>
+    <View
+      collapsable={false}
+      style={
+        {
+          "opacity": 1,
+          "padding": 24,
+          "paddingTop": 0,
+        }
+      }
+      testID="collapse-children-container"
+    >
+      <Text
+        allowFontScaling={false}
+        style={
+          {
+            "color": "#676D79",
+            "flexShrink": 1,
+            "fontFamily": "Averta CY",
+            "fontSize": 16,
+            "fontWeight": "normal",
+            "letterSpacing": -0.02,
+            "lineHeight": 22,
+          }
+        }
+      >
+        My children
+      </Text>
+    </View>
+  </View>
+</View>
+`;

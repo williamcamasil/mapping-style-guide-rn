@@ -1,0 +1,89 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Ratio snapshot by height 1`] = `
+<View
+  onLayout={[Function]}
+>
+  <View
+    style={
+      {
+        "height": 1080,
+        "width": 2158.2029950083192,
+      }
+    }
+    testID="ratio-instance"
+  >
+    <Image
+      source={
+        {
+          "testUri": "../../../lib/components/Ratio/image-example.png",
+        }
+      }
+      style={
+        {
+          "height": 1080,
+          "width": 2158.2029950083192,
+        }
+      }
+      testID="internal-image"
+    />
+  </View>
+</View>
+`;
+
+exports[`Ratio snapshot by width 1`] = `
+<View
+  onLayout={[Function]}
+>
+  <View
+    style={
+      {
+        "height": 160.1332223147377,
+        "width": 320,
+      }
+    }
+    testID="ratio-instance"
+  >
+    <Image
+      source={
+        {
+          "testUri": "../../../lib/components/Ratio/image-example.png",
+        }
+      }
+      style={
+        {
+          "height": 160.1332223147377,
+          "width": 320,
+        }
+      }
+      testID="internal-image"
+    />
+  </View>
+</View>
+`;
+
+exports[`Ratio snapshot children element 1`] = `
+<View
+  onLayout={[Function]}
+>
+  <View
+    style={
+      {
+        "height": 160.1332223147377,
+        "width": 320,
+      }
+    }
+    testID="ratio-instance"
+  >
+    <View
+      style={
+        {
+          "height": "100%",
+          "width": "100%",
+        }
+      }
+      testID="internal-view"
+    />
+  </View>
+</View>
+`;

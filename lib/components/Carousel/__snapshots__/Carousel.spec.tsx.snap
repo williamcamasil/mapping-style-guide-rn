@@ -1,0 +1,507 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Carousel Carousel snapshot 1`] = `
+<View
+  style={
+    {
+      "flex": 0,
+      "height": 475,
+    }
+  }
+>
+  <View
+    onLayout={[Function]}
+  >
+    <View
+      style={
+        {
+          "height": "100%",
+          "width": "100%",
+        }
+      }
+    >
+      <RCTScrollView
+        data={
+          [
+            <withTheme(Container)
+              centered={true}
+            >
+              <Image
+                source={
+                  {
+                    "testUri": "../../../lib/components/Carousel/Banner1/index.png",
+                  }
+                }
+                style={
+                  {
+                    "width": "100%",
+                  }
+                }
+                testID="image-banner1"
+              />
+            </withTheme(Container)>,
+            <withTheme(Container)
+              centered={true}
+            >
+              <Image
+                source={
+                  {
+                    "testUri": "../../../lib/components/Carousel/Banner2/index.png",
+                  }
+                }
+                style={
+                  {
+                    "width": "100%",
+                  }
+                }
+                testID="image-banner2"
+              />
+            </withTheme(Container)>,
+            <withTheme(Container)
+              centered={true}
+            >
+              <Image
+                source={
+                  {
+                    "testUri": "../../../lib/components/Carousel/Banner3/index.png",
+                  }
+                }
+                style={
+                  {
+                    "width": "100%",
+                  }
+                }
+                testID="image-banner3"
+              />
+            </withTheme(Container)>,
+          ]
+        }
+        getItem={[Function]}
+        getItemCount={[Function]}
+        getItemLayout={[Function]}
+        horizontal={true}
+        keyExtractor={[Function]}
+        onContentSizeChange={[Function]}
+        onLayout={[Function]}
+        onMomentumScrollBegin={[Function]}
+        onMomentumScrollEnd={[Function]}
+        onScroll={[Function]}
+        onScrollBeginDrag={[Function]}
+        onScrollEndDrag={[Function]}
+        onViewableItemsChanged={[Function]}
+        pagingEnabled={true}
+        removeClippedSubviews={false}
+        renderItem={[Function]}
+        scrollEventThrottle={50}
+        showsHorizontalScrollIndicator={false}
+        stickyHeaderIndices={[]}
+        testID="carousel-flat-list-id"
+        viewabilityConfig={
+          {
+            "itemVisiblePercentThreshold": 50,
+            "waitForInteraction": false,
+          }
+        }
+        viewabilityConfigCallbackPairs={
+          [
+            {
+              "onViewableItemsChanged": [Function],
+              "viewabilityConfig": {
+                "itemVisiblePercentThreshold": 50,
+                "waitForInteraction": false,
+              },
+            },
+          ]
+        }
+      >
+        <View>
+          <View
+            onFocusCapture={[Function]}
+            style={
+              [
+                {
+                  "flexDirection": "row",
+                },
+                null,
+              ]
+            }
+          >
+            <View
+              style={
+                {
+                  "height": undefined,
+                  "overflow": "hidden",
+                  "width": undefined,
+                }
+              }
+              testID="item-container-carousel"
+            >
+              <View
+                pointerEvents="auto"
+                style={
+                  {
+                    "alignItems": "center",
+                    "backgroundColor": "#FFFFFF",
+                    "flex": 1,
+                    "flexDirection": undefined,
+                    "justifyContent": undefined,
+                    "padding": undefined,
+                    "paddingBottom": undefined,
+                    "paddingHorizontal": undefined,
+                    "paddingLeft": undefined,
+                    "paddingRight": undefined,
+                    "paddingTop": undefined,
+                    "paddingVertical": undefined,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../lib/components/Carousel/Banner1/index.png",
+                    }
+                  }
+                  style={
+                    {
+                      "width": "100%",
+                    }
+                  }
+                  testID="image-banner1"
+                />
+              </View>
+            </View>
+          </View>
+          <View
+            onFocusCapture={[Function]}
+            style={
+              [
+                {
+                  "flexDirection": "row",
+                },
+                null,
+              ]
+            }
+          >
+            <View
+              style={
+                {
+                  "height": undefined,
+                  "overflow": "hidden",
+                  "width": undefined,
+                }
+              }
+              testID="item-container-carousel"
+            >
+              <View
+                pointerEvents="auto"
+                style={
+                  {
+                    "alignItems": "center",
+                    "backgroundColor": "#FFFFFF",
+                    "flex": 1,
+                    "flexDirection": undefined,
+                    "justifyContent": undefined,
+                    "padding": undefined,
+                    "paddingBottom": undefined,
+                    "paddingHorizontal": undefined,
+                    "paddingLeft": undefined,
+                    "paddingRight": undefined,
+                    "paddingTop": undefined,
+                    "paddingVertical": undefined,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../lib/components/Carousel/Banner2/index.png",
+                    }
+                  }
+                  style={
+                    {
+                      "width": "100%",
+                    }
+                  }
+                  testID="image-banner2"
+                />
+              </View>
+            </View>
+          </View>
+          <View
+            onFocusCapture={[Function]}
+            style={
+              [
+                {
+                  "flexDirection": "row",
+                },
+                null,
+              ]
+            }
+          >
+            <View
+              style={
+                {
+                  "height": undefined,
+                  "overflow": "hidden",
+                  "width": undefined,
+                }
+              }
+              testID="item-container-carousel"
+            >
+              <View
+                pointerEvents="auto"
+                style={
+                  {
+                    "alignItems": "center",
+                    "backgroundColor": "#FFFFFF",
+                    "flex": 1,
+                    "flexDirection": undefined,
+                    "justifyContent": undefined,
+                    "padding": undefined,
+                    "paddingBottom": undefined,
+                    "paddingHorizontal": undefined,
+                    "paddingLeft": undefined,
+                    "paddingRight": undefined,
+                    "paddingTop": undefined,
+                    "paddingVertical": undefined,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../lib/components/Carousel/Banner3/index.png",
+                    }
+                  }
+                  style={
+                    {
+                      "width": "100%",
+                    }
+                  }
+                  testID="image-banner3"
+                />
+              </View>
+            </View>
+          </View>
+        </View>
+      </RCTScrollView>
+    </View>
+  </View>
+  <Text
+    style={
+      {
+        "height": 28,
+        "width": 28,
+      }
+    }
+  />
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "justifyContent": "flex-start",
+        "marginLeft": 20,
+      }
+    }
+    testID="container-pointers"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="16"
+      bbWidth="16"
+      fill="none"
+      focusable={false}
+      height={16}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "marginHorizontal": 8,
+          },
+          {
+            "flex": 0,
+            "height": 16,
+            "width": 16,
+          },
+        ]
+      }
+      testID="item-pointer"
+      vbHeight={16}
+      vbWidth={16}
+      width={16}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="8"
+          cy="8"
+          fill={
+            {
+              "payload": 4278268296,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="7"
+          stroke={
+            {
+              "payload": 4291220458,
+              "type": 0,
+            }
+          }
+          strokeWidth="2"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="16"
+      bbWidth="16"
+      fill="none"
+      focusable={false}
+      height={16}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "marginHorizontal": 8,
+          },
+          {
+            "flex": 0,
+            "height": 16,
+            "width": 16,
+          },
+        ]
+      }
+      testID="item-pointer"
+      vbHeight={16}
+      vbWidth={16}
+      width={16}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="8"
+          cy="8"
+          fill={
+            {
+              "payload": 4278190080,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="7"
+          stroke={
+            {
+              "payload": 4292993764,
+              "type": 0,
+            }
+          }
+          strokeWidth="2"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="16"
+      bbWidth="16"
+      fill="none"
+      focusable={false}
+      height={16}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "marginHorizontal": 8,
+          },
+          {
+            "flex": 0,
+            "height": 16,
+            "width": 16,
+          },
+        ]
+      }
+      testID="item-pointer"
+      vbHeight={16}
+      vbWidth={16}
+      width={16}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGCircle
+          cx="8"
+          cy="8"
+          fill={
+            {
+              "payload": 4278190080,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          r="7"
+          stroke={
+            {
+              "payload": 4292993764,
+              "type": 0,
+            }
+          }
+          strokeWidth="2"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+  </View>
+</View>
+`;

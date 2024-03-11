@@ -1,0 +1,744 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`card snapshot card arrow highlighted100 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "backgroundColor": "#013188",
+      "borderColor": "#2453A9",
+      "borderRadius": 12,
+      "borderWidth": 1,
+      "elevation": 7,
+      "flexDirection": "row",
+      "minHeight": 128,
+      "opacity": 1,
+      "padding": 20,
+      "shadowColor": "#000",
+      "shadowOffset": {
+        "height": 3,
+        "width": 0,
+      },
+      "shadowOpacity": 0.29,
+      "shadowRadius": 4.65,
+    }
+  }
+  testID="card-touchable"
+>
+  <View
+    style={
+      {
+        "flex": 1,
+      }
+    }
+  />
+  <View
+    style={
+      {
+        "bottom": 0,
+        "justifyContent": "center",
+        "position": "absolute",
+        "right": 20,
+        "top": 0,
+      }
+    }
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="16"
+      bbWidth="16"
+      fill="none"
+      focusable={false}
+      height={16}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 16,
+            "width": 16,
+          },
+        ]
+      }
+      vbHeight={16}
+      vbWidth={16}
+      width={16}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGPath
+          d="m10 12 4-4-4-4"
+          fill={
+            {
+              "payload": 4278190080,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "stroke",
+              "strokeWidth",
+              "strokeLinecap",
+              "strokeLinejoin",
+            ]
+          }
+          stroke={
+            {
+              "payload": 4294967295,
+              "type": 0,
+            }
+          }
+          strokeLinecap={1}
+          strokeLinejoin={1}
+          strokeWidth="2"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+  </View>
+</View>
+`;
+
+exports[`card snapshot card big 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "backgroundColor": "#FFFFFF",
+      "borderRadius": 12,
+      "elevation": 7,
+      "flexDirection": "row",
+      "minHeight": 128,
+      "opacity": 1,
+      "padding": 20,
+      "shadowColor": "#000",
+      "shadowOffset": {
+        "height": 3,
+        "width": 0,
+      },
+      "shadowOpacity": 0.29,
+      "shadowRadius": 4.65,
+    }
+  }
+  testID="card-touchable"
+>
+  <View
+    style={
+      {
+        "flex": 1,
+      }
+    }
+  />
+</View>
+`;
+
+exports[`card snapshot card custow arrow color 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "backgroundColor": "#FFFFFF",
+      "borderRadius": 12,
+      "elevation": 7,
+      "flexDirection": "row",
+      "minHeight": 128,
+      "opacity": 1,
+      "padding": 20,
+      "shadowColor": "#000",
+      "shadowOffset": {
+        "height": 3,
+        "width": 0,
+      },
+      "shadowOpacity": 0.29,
+      "shadowRadius": 4.65,
+    }
+  }
+  testID="card-touchable"
+>
+  <View
+    style={
+      {
+        "flex": 1,
+      }
+    }
+  />
+  <View
+    style={
+      {
+        "bottom": 0,
+        "justifyContent": "center",
+        "position": "absolute",
+        "right": 20,
+        "top": 0,
+      }
+    }
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="16"
+      bbWidth="16"
+      fill="none"
+      focusable={false}
+      height={16}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 16,
+            "width": 16,
+          },
+        ]
+      }
+      vbHeight={16}
+      vbWidth={16}
+      width={16}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGPath
+          d="m10 12 4-4-4-4"
+          fill={
+            {
+              "payload": 4278190080,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "stroke",
+              "strokeWidth",
+              "strokeLinecap",
+              "strokeLinejoin",
+            ]
+          }
+          stroke={
+            {
+              "payload": 4294901760,
+              "type": 0,
+            }
+          }
+          strokeLinecap={1}
+          strokeLinejoin={1}
+          strokeWidth="2"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+  </View>
+</View>
+`;
+
+exports[`card snapshot card disabled 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": true,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "backgroundColor": "#FFFFFF",
+      "borderRadius": 12,
+      "elevation": 7,
+      "flexDirection": "row",
+      "minHeight": 128,
+      "opacity": 1,
+      "padding": 20,
+      "shadowColor": "#000",
+      "shadowOffset": {
+        "height": 3,
+        "width": 0,
+      },
+      "shadowOpacity": 0.29,
+      "shadowRadius": 4.65,
+    }
+  }
+  testID="card-touchable"
+>
+  <View
+    style={
+      {
+        "flex": 1,
+      }
+    }
+  />
+</View>
+`;
+
+exports[`card snapshot card no shadow 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "backgroundColor": "#FFFFFF",
+      "borderColor": "#F0F0F2",
+      "borderRadius": 12,
+      "borderWidth": 1,
+      "flexDirection": "row",
+      "minHeight": 128,
+      "opacity": 1,
+      "padding": 20,
+    }
+  }
+  testID="card-touchable"
+>
+  <View
+    style={
+      {
+        "flex": 1,
+      }
+    }
+  />
+</View>
+`;
+
+exports[`card snapshot card small 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "backgroundColor": "#FFFFFF",
+      "borderRadius": 12,
+      "elevation": 7,
+      "flexDirection": "row",
+      "height": 120,
+      "opacity": 1,
+      "padding": 16,
+      "shadowColor": "#000",
+      "shadowOffset": {
+        "height": 3,
+        "width": 0,
+      },
+      "shadowOpacity": 0.29,
+      "shadowRadius": 4.65,
+      "width": 135,
+    }
+  }
+  testID="card-touchable"
+>
+  <View
+    style={
+      {
+        "flex": 1,
+      }
+    }
+  />
+</View>
+`;
+
+exports[`card snapshot card type highlighted50 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "backgroundColor": "#FFFFFF",
+      "borderColor": "#0F4199",
+      "borderRadius": 12,
+      "borderWidth": 1,
+      "elevation": 7,
+      "flexDirection": "row",
+      "minHeight": 128,
+      "opacity": 1,
+      "padding": 20,
+      "shadowColor": "#000",
+      "shadowOffset": {
+        "height": 3,
+        "width": 0,
+      },
+      "shadowOpacity": 0.29,
+      "shadowRadius": 4.65,
+    }
+  }
+  testID="card-touchable"
+>
+  <View
+    style={
+      {
+        "flex": 1,
+      }
+    }
+  />
+</View>
+`;
+
+exports[`card snapshot card type highlighted100 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "backgroundColor": "#013188",
+      "borderColor": "#2453A9",
+      "borderRadius": 12,
+      "borderWidth": 1,
+      "elevation": 7,
+      "flexDirection": "row",
+      "minHeight": 128,
+      "opacity": 1,
+      "padding": 20,
+      "shadowColor": "#000",
+      "shadowOffset": {
+        "height": 3,
+        "width": 0,
+      },
+      "shadowOpacity": 0.29,
+      "shadowRadius": 4.65,
+    }
+  }
+  testID="card-touchable"
+>
+  <View
+    style={
+      {
+        "flex": 1,
+      }
+    }
+  />
+</View>
+`;
+
+exports[`card snapshot card with custom style 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "backgroundColor": "#FFFFFF",
+      "borderColor": "#0F4199",
+      "borderRadius": 12,
+      "borderWidth": 1,
+      "elevation": 7,
+      "flexDirection": "row",
+      "minHeight": 128,
+      "opacity": 1,
+      "padding": 20,
+      "shadowColor": "#000",
+      "shadowOffset": {
+        "height": 3,
+        "width": 0,
+      },
+      "shadowOpacity": 0.29,
+      "shadowRadius": 4.65,
+    }
+  }
+  testID="card-touchable"
+>
+  <View
+    style={
+      {
+        "flex": 1,
+      }
+    }
+  />
+</View>
+`;
+
+exports[`card snapshot default 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "backgroundColor": "#FFFFFF",
+      "borderRadius": 12,
+      "elevation": 7,
+      "flexDirection": "row",
+      "minHeight": 128,
+      "opacity": 1,
+      "padding": 20,
+      "shadowColor": "#000",
+      "shadowOffset": {
+        "height": 3,
+        "width": 0,
+      },
+      "shadowOpacity": 0.29,
+      "shadowRadius": 4.65,
+    }
+  }
+  testID="card-touchable"
+>
+  <View
+    style={
+      {
+        "flex": 1,
+      }
+    }
+  />
+</View>
+`;

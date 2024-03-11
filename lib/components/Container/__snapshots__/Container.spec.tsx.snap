@@ -1,0 +1,169 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Container snapshot blockActions 1`] = `
+<View
+  pointerEvents="none"
+  style={
+    {
+      "alignItems": undefined,
+      "backgroundColor": "#FFFFFF",
+      "flex": 1,
+      "flexDirection": undefined,
+      "justifyContent": undefined,
+      "padding": undefined,
+      "paddingBottom": undefined,
+      "paddingHorizontal": undefined,
+      "paddingLeft": undefined,
+      "paddingRight": undefined,
+      "paddingTop": undefined,
+      "paddingVertical": undefined,
+    }
+  }
+>
+  <View />
+</View>
+`;
+
+exports[`Container snapshot centered 1`] = `
+<View
+  pointerEvents="auto"
+  style={
+    {
+      "alignItems": "center",
+      "backgroundColor": "#FFFFFF",
+      "flex": 1,
+      "flexDirection": undefined,
+      "justifyContent": undefined,
+      "padding": undefined,
+      "paddingBottom": undefined,
+      "paddingHorizontal": undefined,
+      "paddingLeft": undefined,
+      "paddingRight": undefined,
+      "paddingTop": undefined,
+      "paddingVertical": undefined,
+    }
+  }
+>
+  <View />
+</View>
+`;
+
+exports[`Container snapshot dont fill parent 1`] = `
+<View
+  pointerEvents="auto"
+  style={
+    {
+      "alignItems": undefined,
+      "backgroundColor": "#FFFFFF",
+      "flex": undefined,
+      "flexDirection": undefined,
+      "justifyContent": undefined,
+      "padding": undefined,
+      "paddingBottom": undefined,
+      "paddingHorizontal": undefined,
+      "paddingLeft": undefined,
+      "paddingRight": undefined,
+      "paddingTop": undefined,
+      "paddingVertical": undefined,
+    }
+  }
+>
+  <View />
+</View>
+`;
+
+exports[`Container snapshot fill parent 1`] = `
+<View
+  pointerEvents="auto"
+  style={
+    {
+      "alignItems": undefined,
+      "backgroundColor": "#FFFFFF",
+      "flex": 1,
+      "flexDirection": undefined,
+      "justifyContent": undefined,
+      "padding": undefined,
+      "paddingBottom": undefined,
+      "paddingHorizontal": undefined,
+      "paddingLeft": undefined,
+      "paddingRight": undefined,
+      "paddingTop": undefined,
+      "paddingVertical": undefined,
+    }
+  }
+>
+  <View />
+</View>
+`;
+
+exports[`Container snapshot horizontal 1`] = `
+<View
+  pointerEvents="auto"
+  style={
+    {
+      "alignItems": undefined,
+      "backgroundColor": "#FFFFFF",
+      "flex": 1,
+      "flexDirection": "row",
+      "justifyContent": undefined,
+      "padding": undefined,
+      "paddingBottom": undefined,
+      "paddingHorizontal": undefined,
+      "paddingLeft": undefined,
+      "paddingRight": undefined,
+      "paddingTop": undefined,
+      "paddingVertical": undefined,
+    }
+  }
+>
+  <View />
+</View>
+`;
+
+exports[`Container snapshot horizontal centered 1`] = `
+<View
+  pointerEvents="auto"
+  style={
+    {
+      "alignItems": undefined,
+      "backgroundColor": "#FFFFFF",
+      "flex": 1,
+      "flexDirection": "row",
+      "justifyContent": "center",
+      "padding": undefined,
+      "paddingBottom": undefined,
+      "paddingHorizontal": undefined,
+      "paddingLeft": undefined,
+      "paddingRight": undefined,
+      "paddingTop": undefined,
+      "paddingVertical": undefined,
+    }
+  }
+>
+  <View />
+</View>
+`;
+
+exports[`Container snapshot justifyContent and alignItems 1`] = `
+<View
+  pointerEvents="auto"
+  style={
+    {
+      "alignItems": "flex-end",
+      "backgroundColor": "#FFFFFF",
+      "flex": 1,
+      "flexDirection": undefined,
+      "justifyContent": "center",
+      "padding": undefined,
+      "paddingBottom": undefined,
+      "paddingHorizontal": undefined,
+      "paddingLeft": undefined,
+      "paddingRight": undefined,
+      "paddingTop": undefined,
+      "paddingVertical": undefined,
+    }
+  }
+>
+  <View />
+</View>
+`;

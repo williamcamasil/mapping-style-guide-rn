@@ -1,0 +1,97 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TitlePage Should match snapshot with description 1`] = `
+<View
+  style={
+    {
+      "columnGap": 8,
+      "flexDirection": "row",
+    }
+  }
+>
+  <View
+    style={
+      {
+        "flex": 1,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#3E4149",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 23,
+          "fontWeight": "bold",
+          "letterSpacing": -0.02,
+          "lineHeight": 28,
+        }
+      }
+    >
+      Title
+    </Text>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#676D79",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Description
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`TitlePage Should match snapshot with title only 1`] = `
+<View
+  style={
+    {
+      "columnGap": 8,
+      "flexDirection": "row",
+    }
+  }
+>
+  <View
+    style={
+      {
+        "flex": 1,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#3E4149",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 23,
+          "fontWeight": "bold",
+          "letterSpacing": -0.02,
+          "lineHeight": 28,
+        }
+      }
+    >
+      Title
+    </Text>
+  </View>
+</View>
+`;

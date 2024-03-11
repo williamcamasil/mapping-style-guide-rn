@@ -1,0 +1,1389 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardIcon snapshot CardIcon default with bottomTtitle and description in card big 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "backgroundColor": "#FFFFFF",
+      "borderRadius": 12,
+      "elevation": 7,
+      "flexDirection": "row",
+      "minHeight": 128,
+      "opacity": 1,
+      "padding": 20,
+      "shadowColor": "#000",
+      "shadowOffset": {
+        "height": 3,
+        "width": 0,
+      },
+      "shadowOpacity": 0.29,
+      "shadowRadius": 4.65,
+    }
+  }
+  testID="card-touchable"
+>
+  <View
+    style={
+      {
+        "flex": 1,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "flex": undefined,
+          "justifyContent": "space-between",
+        }
+      }
+      testID="card-icon-view-content"
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flexDirection": "row",
+          }
+        }
+      >
+        <RNSVGSvgView
+          align="xMidYMid"
+          bbHeight="24"
+          bbWidth="24"
+          fill="none"
+          focusable={false}
+          height={24}
+          meetOrSlice={0}
+          minX={0}
+          minY={0}
+          style={
+            [
+              {
+                "backgroundColor": "transparent",
+                "borderWidth": 0,
+              },
+              {
+                "fontFamily": "Averta CY",
+                "fontSize": 13,
+                "fontWeight": "bold",
+                "marginRight": 12,
+              },
+              {
+                "flex": 0,
+                "height": 24,
+                "width": 24,
+              },
+            ]
+          }
+          vbHeight={24}
+          vbWidth={24}
+          width={24}
+        >
+          <RNSVGGroup
+            fill={null}
+            font={
+              {
+                "fontFamily": "Averta CY",
+                "fontSize": "13",
+                "fontWeight": "bold",
+              }
+            }
+            propList={
+              [
+                "fill",
+              ]
+            }
+          >
+            <RNSVGPath
+              d="M2.13 12.297a1.097 1.097 0 0 1 0-1.04C4.234 7.37 8.118 4 12 4c3.883 0 7.767 3.37 9.87 7.259.174.323.174.715 0 1.039-2.103 3.888-5.987 7.258-9.87 7.258-3.883 0-7.767-3.37-9.87-7.26Z"
+              fill={
+                {
+                  "payload": 4278190080,
+                  "type": 0,
+                }
+              }
+              propList={
+                [
+                  "stroke",
+                  "strokeWidth",
+                  "strokeLinecap",
+                  "strokeLinejoin",
+                ]
+              }
+              stroke={
+                {
+                  "payload": 4278268296,
+                  "type": 0,
+                }
+              }
+              strokeLinecap={1}
+              strokeLinejoin={1}
+              strokeWidth="1.8"
+            />
+            <RNSVGPath
+              d="M14.357 9.42a3.333 3.333 0 1 1-4.714 4.715 3.333 3.333 0 0 1 4.714-4.714Z"
+              fill={
+                {
+                  "payload": 4278190080,
+                  "type": 0,
+                }
+              }
+              propList={
+                [
+                  "stroke",
+                  "strokeWidth",
+                  "strokeLinecap",
+                  "strokeLinejoin",
+                ]
+              }
+              stroke={
+                {
+                  "payload": 4278268296,
+                  "type": 0,
+                }
+              }
+              strokeLinecap={1}
+              strokeLinejoin={1}
+              strokeWidth="1.8"
+            />
+          </RNSVGGroup>
+        </RNSVGSvgView>
+        SvgMock
+      </View>
+      <View
+        style={
+          {
+            "marginTop": 24,
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#3E4149",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 16,
+              "fontWeight": "bold",
+              "letterSpacing": -0.02,
+              "lineHeight": 19,
+            }
+          }
+          testID="title"
+        >
+          Mock title
+        </Text>
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 13,
+              "fontWeight": "normal",
+              "letterSpacing": -0.02,
+              "lineHeight": 19,
+              "paddingTop": 8,
+            }
+          }
+          testID="description"
+        >
+          Mock description
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`CardIcon snapshot CardIcon default with title card big 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "backgroundColor": "#FFFFFF",
+      "borderRadius": 12,
+      "elevation": 7,
+      "flexDirection": "row",
+      "minHeight": 128,
+      "opacity": 1,
+      "padding": 20,
+      "shadowColor": "#000",
+      "shadowOffset": {
+        "height": 3,
+        "width": 0,
+      },
+      "shadowOpacity": 0.29,
+      "shadowRadius": 4.65,
+    }
+  }
+  testID="card-touchable"
+>
+  <View
+    style={
+      {
+        "flex": 1,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "flex": undefined,
+          "justifyContent": "space-between",
+        }
+      }
+      testID="card-icon-view-content"
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flexDirection": "row",
+          }
+        }
+      >
+        <RNSVGSvgView
+          align="xMidYMid"
+          bbHeight="24"
+          bbWidth="24"
+          fill="none"
+          focusable={false}
+          height={24}
+          meetOrSlice={0}
+          minX={0}
+          minY={0}
+          style={
+            [
+              {
+                "backgroundColor": "transparent",
+                "borderWidth": 0,
+              },
+              {
+                "fontFamily": "Averta CY",
+                "fontSize": 13,
+                "fontWeight": "bold",
+                "marginRight": 12,
+              },
+              {
+                "flex": 0,
+                "height": 24,
+                "width": 24,
+              },
+            ]
+          }
+          vbHeight={24}
+          vbWidth={24}
+          width={24}
+        >
+          <RNSVGGroup
+            fill={null}
+            font={
+              {
+                "fontFamily": "Averta CY",
+                "fontSize": "13",
+                "fontWeight": "bold",
+              }
+            }
+            propList={
+              [
+                "fill",
+              ]
+            }
+          >
+            <RNSVGPath
+              d="M2.13 12.297a1.097 1.097 0 0 1 0-1.04C4.234 7.37 8.118 4 12 4c3.883 0 7.767 3.37 9.87 7.259.174.323.174.715 0 1.039-2.103 3.888-5.987 7.258-9.87 7.258-3.883 0-7.767-3.37-9.87-7.26Z"
+              fill={
+                {
+                  "payload": 4278190080,
+                  "type": 0,
+                }
+              }
+              propList={
+                [
+                  "stroke",
+                  "strokeWidth",
+                  "strokeLinecap",
+                  "strokeLinejoin",
+                ]
+              }
+              stroke={
+                {
+                  "payload": 4278268296,
+                  "type": 0,
+                }
+              }
+              strokeLinecap={1}
+              strokeLinejoin={1}
+              strokeWidth="1.8"
+            />
+            <RNSVGPath
+              d="M14.357 9.42a3.333 3.333 0 1 1-4.714 4.715 3.333 3.333 0 0 1 4.714-4.714Z"
+              fill={
+                {
+                  "payload": 4278190080,
+                  "type": 0,
+                }
+              }
+              propList={
+                [
+                  "stroke",
+                  "strokeWidth",
+                  "strokeLinecap",
+                  "strokeLinejoin",
+                ]
+              }
+              stroke={
+                {
+                  "payload": 4278268296,
+                  "type": 0,
+                }
+              }
+              strokeLinecap={1}
+              strokeLinejoin={1}
+              strokeWidth="1.8"
+            />
+          </RNSVGGroup>
+        </RNSVGSvgView>
+      </View>
+      <View
+        style={
+          {
+            "marginTop": 48,
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#3E4149",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 16,
+              "fontWeight": "bold",
+              "letterSpacing": -0.02,
+              "lineHeight": 19,
+            }
+          }
+          testID="title"
+        >
+          Mock title
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`CardIcon snapshot CardIcon default with title card small 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "backgroundColor": "#FFFFFF",
+      "borderRadius": 12,
+      "elevation": 7,
+      "flexDirection": "row",
+      "height": 120,
+      "opacity": 1,
+      "padding": 16,
+      "shadowColor": "#000",
+      "shadowOffset": {
+        "height": 3,
+        "width": 0,
+      },
+      "shadowOpacity": 0.29,
+      "shadowRadius": 4.65,
+      "width": 135,
+    }
+  }
+  testID="card-touchable"
+>
+  <View
+    style={
+      {
+        "flex": 1,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "flex": 1,
+          "justifyContent": "space-between",
+        }
+      }
+      testID="card-icon-view-content"
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flexDirection": "row",
+          }
+        }
+      >
+        <RNSVGSvgView
+          align="xMidYMid"
+          bbHeight="24"
+          bbWidth="24"
+          fill="none"
+          focusable={false}
+          height={24}
+          meetOrSlice={0}
+          minX={0}
+          minY={0}
+          style={
+            [
+              {
+                "backgroundColor": "transparent",
+                "borderWidth": 0,
+              },
+              {
+                "fontFamily": "Averta CY",
+                "fontSize": 13,
+                "fontWeight": "bold",
+                "marginRight": 12,
+              },
+              {
+                "flex": 0,
+                "height": 24,
+                "width": 24,
+              },
+            ]
+          }
+          vbHeight={24}
+          vbWidth={24}
+          width={24}
+        >
+          <RNSVGGroup
+            fill={null}
+            font={
+              {
+                "fontFamily": "Averta CY",
+                "fontSize": "13",
+                "fontWeight": "bold",
+              }
+            }
+            propList={
+              [
+                "fill",
+              ]
+            }
+          >
+            <RNSVGPath
+              d="M2.13 12.297a1.097 1.097 0 0 1 0-1.04C4.234 7.37 8.118 4 12 4c3.883 0 7.767 3.37 9.87 7.259.174.323.174.715 0 1.039-2.103 3.888-5.987 7.258-9.87 7.258-3.883 0-7.767-3.37-9.87-7.26Z"
+              fill={
+                {
+                  "payload": 4278190080,
+                  "type": 0,
+                }
+              }
+              propList={
+                [
+                  "stroke",
+                  "strokeWidth",
+                  "strokeLinecap",
+                  "strokeLinejoin",
+                ]
+              }
+              stroke={
+                {
+                  "payload": 4278268296,
+                  "type": 0,
+                }
+              }
+              strokeLinecap={1}
+              strokeLinejoin={1}
+              strokeWidth="1.8"
+            />
+            <RNSVGPath
+              d="M14.357 9.42a3.333 3.333 0 1 1-4.714 4.715 3.333 3.333 0 0 1 4.714-4.714Z"
+              fill={
+                {
+                  "payload": 4278190080,
+                  "type": 0,
+                }
+              }
+              propList={
+                [
+                  "stroke",
+                  "strokeWidth",
+                  "strokeLinecap",
+                  "strokeLinejoin",
+                ]
+              }
+              stroke={
+                {
+                  "payload": 4278268296,
+                  "type": 0,
+                }
+              }
+              strokeLinecap={1}
+              strokeLinejoin={1}
+              strokeWidth="1.8"
+            />
+          </RNSVGGroup>
+        </RNSVGSvgView>
+      </View>
+      <View>
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#3E4149",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "letterSpacing": -0.02,
+              "lineHeight": 19,
+            }
+          }
+          testID="title"
+        >
+          Mock title
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`CardIcon snapshot CardIcon with arrow icon 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "backgroundColor": "#FFFFFF",
+      "borderRadius": 12,
+      "elevation": 7,
+      "flexDirection": "row",
+      "minHeight": 128,
+      "opacity": 1,
+      "padding": 20,
+      "shadowColor": "#000",
+      "shadowOffset": {
+        "height": 3,
+        "width": 0,
+      },
+      "shadowOpacity": 0.29,
+      "shadowRadius": 4.65,
+    }
+  }
+  testID="card-touchable"
+>
+  <View
+    style={
+      {
+        "flex": 1,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "flex": undefined,
+          "justifyContent": "space-between",
+        }
+      }
+      testID="card-icon-view-content"
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flexDirection": "row",
+          }
+        }
+      >
+        <RNSVGSvgView
+          align="xMidYMid"
+          bbHeight="24"
+          bbWidth="24"
+          fill="none"
+          focusable={false}
+          height={24}
+          meetOrSlice={0}
+          minX={0}
+          minY={0}
+          style={
+            [
+              {
+                "backgroundColor": "transparent",
+                "borderWidth": 0,
+              },
+              {
+                "fontFamily": "Averta CY",
+                "fontSize": 13,
+                "fontWeight": "bold",
+                "marginRight": 12,
+              },
+              {
+                "flex": 0,
+                "height": 24,
+                "width": 24,
+              },
+            ]
+          }
+          vbHeight={24}
+          vbWidth={24}
+          width={24}
+        >
+          <RNSVGGroup
+            fill={null}
+            font={
+              {
+                "fontFamily": "Averta CY",
+                "fontSize": "13",
+                "fontWeight": "bold",
+              }
+            }
+            propList={
+              [
+                "fill",
+              ]
+            }
+          >
+            <RNSVGPath
+              d="M2.13 12.297a1.097 1.097 0 0 1 0-1.04C4.234 7.37 8.118 4 12 4c3.883 0 7.767 3.37 9.87 7.259.174.323.174.715 0 1.039-2.103 3.888-5.987 7.258-9.87 7.258-3.883 0-7.767-3.37-9.87-7.26Z"
+              fill={
+                {
+                  "payload": 4278190080,
+                  "type": 0,
+                }
+              }
+              propList={
+                [
+                  "stroke",
+                  "strokeWidth",
+                  "strokeLinecap",
+                  "strokeLinejoin",
+                ]
+              }
+              stroke={
+                {
+                  "payload": 4278268296,
+                  "type": 0,
+                }
+              }
+              strokeLinecap={1}
+              strokeLinejoin={1}
+              strokeWidth="1.8"
+            />
+            <RNSVGPath
+              d="M14.357 9.42a3.333 3.333 0 1 1-4.714 4.715 3.333 3.333 0 0 1 4.714-4.714Z"
+              fill={
+                {
+                  "payload": 4278190080,
+                  "type": 0,
+                }
+              }
+              propList={
+                [
+                  "stroke",
+                  "strokeWidth",
+                  "strokeLinecap",
+                  "strokeLinejoin",
+                ]
+              }
+              stroke={
+                {
+                  "payload": 4278268296,
+                  "type": 0,
+                }
+              }
+              strokeLinecap={1}
+              strokeLinejoin={1}
+              strokeWidth="1.8"
+            />
+          </RNSVGGroup>
+        </RNSVGSvgView>
+        SvgMock
+      </View>
+      <View
+        style={
+          {
+            "marginTop": 24,
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#3E4149",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 16,
+              "fontWeight": "bold",
+              "letterSpacing": -0.02,
+              "lineHeight": 19,
+            }
+          }
+          testID="title"
+        >
+          Mock title
+        </Text>
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 13,
+              "fontWeight": "normal",
+              "letterSpacing": -0.02,
+              "lineHeight": 19,
+              "paddingTop": 8,
+            }
+          }
+          testID="description"
+        >
+          Mock description
+        </Text>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "bottom": 0,
+        "justifyContent": "center",
+        "position": "absolute",
+        "right": 20,
+        "top": 0,
+      }
+    }
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="16"
+      bbWidth="16"
+      fill="none"
+      focusable={false}
+      height={16}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 16,
+            "width": 16,
+          },
+        ]
+      }
+      vbHeight={16}
+      vbWidth={16}
+      width={16}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGPath
+          d="m10 12 4-4-4-4"
+          fill={
+            {
+              "payload": 4278190080,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "stroke",
+              "strokeWidth",
+              "strokeLinecap",
+              "strokeLinejoin",
+            ]
+          }
+          stroke={
+            {
+              "payload": 4288980911,
+              "type": 0,
+            }
+          }
+          strokeLinecap={1}
+          strokeLinejoin={1}
+          strokeWidth="2"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+  </View>
+</View>
+`;
+
+exports[`CardIcon snapshot CardIcon with children content 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "backgroundColor": "#FFFFFF",
+      "borderRadius": 12,
+      "elevation": 7,
+      "flexDirection": "row",
+      "minHeight": 128,
+      "opacity": 1,
+      "padding": 20,
+      "shadowColor": "#000",
+      "shadowOffset": {
+        "height": 3,
+        "width": 0,
+      },
+      "shadowOpacity": 0.29,
+      "shadowRadius": 4.65,
+    }
+  }
+  testID="card-touchable"
+>
+  <View
+    style={
+      {
+        "flex": 1,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "flex": undefined,
+          "justifyContent": "space-between",
+        }
+      }
+      testID="card-icon-view-content"
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flexDirection": "row",
+          }
+        }
+      >
+        <RNSVGSvgView
+          align="xMidYMid"
+          bbHeight="24"
+          bbWidth="24"
+          fill="none"
+          focusable={false}
+          height={24}
+          meetOrSlice={0}
+          minX={0}
+          minY={0}
+          style={
+            [
+              {
+                "backgroundColor": "transparent",
+                "borderWidth": 0,
+              },
+              {
+                "fontFamily": "Averta CY",
+                "fontSize": 13,
+                "fontWeight": "bold",
+                "marginRight": 12,
+              },
+              {
+                "flex": 0,
+                "height": 24,
+                "width": 24,
+              },
+            ]
+          }
+          vbHeight={24}
+          vbWidth={24}
+          width={24}
+        >
+          <RNSVGGroup
+            fill={null}
+            font={
+              {
+                "fontFamily": "Averta CY",
+                "fontSize": "13",
+                "fontWeight": "bold",
+              }
+            }
+            propList={
+              [
+                "fill",
+              ]
+            }
+          >
+            <RNSVGPath
+              d="M2.13 12.297a1.097 1.097 0 0 1 0-1.04C4.234 7.37 8.118 4 12 4c3.883 0 7.767 3.37 9.87 7.259.174.323.174.715 0 1.039-2.103 3.888-5.987 7.258-9.87 7.258-3.883 0-7.767-3.37-9.87-7.26Z"
+              fill={
+                {
+                  "payload": 4278190080,
+                  "type": 0,
+                }
+              }
+              propList={
+                [
+                  "stroke",
+                  "strokeWidth",
+                  "strokeLinecap",
+                  "strokeLinejoin",
+                ]
+              }
+              stroke={
+                {
+                  "payload": 4278268296,
+                  "type": 0,
+                }
+              }
+              strokeLinecap={1}
+              strokeLinejoin={1}
+              strokeWidth="1.8"
+            />
+            <RNSVGPath
+              d="M14.357 9.42a3.333 3.333 0 1 1-4.714 4.715 3.333 3.333 0 0 1 4.714-4.714Z"
+              fill={
+                {
+                  "payload": 4278190080,
+                  "type": 0,
+                }
+              }
+              propList={
+                [
+                  "stroke",
+                  "strokeWidth",
+                  "strokeLinecap",
+                  "strokeLinejoin",
+                ]
+              }
+              stroke={
+                {
+                  "payload": 4278268296,
+                  "type": 0,
+                }
+              }
+              strokeLinecap={1}
+              strokeLinejoin={1}
+              strokeWidth="1.8"
+            />
+          </RNSVGGroup>
+        </RNSVGSvgView>
+      </View>
+      <Text
+        allowFontScaling={false}
+        style={
+          {
+            "color": "#676D79",
+            "flexShrink": 1,
+            "fontFamily": "Averta CY",
+            "fontSize": 16,
+            "fontWeight": "normal",
+            "letterSpacing": -0.02,
+            "lineHeight": 22,
+          }
+        }
+      >
+        Mock children
+      </Text>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`CardIcon snapshot default 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "backgroundColor": "#FFFFFF",
+      "borderRadius": 12,
+      "elevation": 7,
+      "flexDirection": "row",
+      "minHeight": 128,
+      "opacity": 1,
+      "padding": 20,
+      "shadowColor": "#000",
+      "shadowOffset": {
+        "height": 3,
+        "width": 0,
+      },
+      "shadowOpacity": 0.29,
+      "shadowRadius": 4.65,
+    }
+  }
+  testID="card-touchable"
+>
+  <View
+    style={
+      {
+        "flex": 1,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "flex": undefined,
+          "justifyContent": "space-between",
+        }
+      }
+      testID="card-icon-view-content"
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flexDirection": "row",
+          }
+        }
+      >
+        <RNSVGSvgView
+          align="xMidYMid"
+          bbHeight="24"
+          bbWidth="24"
+          fill="none"
+          focusable={false}
+          height={24}
+          meetOrSlice={0}
+          minX={0}
+          minY={0}
+          style={
+            [
+              {
+                "backgroundColor": "transparent",
+                "borderWidth": 0,
+              },
+              {
+                "fontFamily": "Averta CY",
+                "fontSize": 13,
+                "fontWeight": "bold",
+                "marginRight": 12,
+              },
+              {
+                "flex": 0,
+                "height": 24,
+                "width": 24,
+              },
+            ]
+          }
+          vbHeight={24}
+          vbWidth={24}
+          width={24}
+        >
+          <RNSVGGroup
+            fill={null}
+            font={
+              {
+                "fontFamily": "Averta CY",
+                "fontSize": "13",
+                "fontWeight": "bold",
+              }
+            }
+            propList={
+              [
+                "fill",
+              ]
+            }
+          >
+            <RNSVGPath
+              d="M2.13 12.297a1.097 1.097 0 0 1 0-1.04C4.234 7.37 8.118 4 12 4c3.883 0 7.767 3.37 9.87 7.259.174.323.174.715 0 1.039-2.103 3.888-5.987 7.258-9.87 7.258-3.883 0-7.767-3.37-9.87-7.26Z"
+              fill={
+                {
+                  "payload": 4278190080,
+                  "type": 0,
+                }
+              }
+              propList={
+                [
+                  "stroke",
+                  "strokeWidth",
+                  "strokeLinecap",
+                  "strokeLinejoin",
+                ]
+              }
+              stroke={
+                {
+                  "payload": 4278268296,
+                  "type": 0,
+                }
+              }
+              strokeLinecap={1}
+              strokeLinejoin={1}
+              strokeWidth="1.8"
+            />
+            <RNSVGPath
+              d="M14.357 9.42a3.333 3.333 0 1 1-4.714 4.715 3.333 3.333 0 0 1 4.714-4.714Z"
+              fill={
+                {
+                  "payload": 4278190080,
+                  "type": 0,
+                }
+              }
+              propList={
+                [
+                  "stroke",
+                  "strokeWidth",
+                  "strokeLinecap",
+                  "strokeLinejoin",
+                ]
+              }
+              stroke={
+                {
+                  "payload": 4278268296,
+                  "type": 0,
+                }
+              }
+              strokeLinecap={1}
+              strokeLinejoin={1}
+              strokeWidth="1.8"
+            />
+          </RNSVGGroup>
+        </RNSVGSvgView>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`CardIcon snapshot no Icon 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "backgroundColor": "#FFFFFF",
+      "borderRadius": 12,
+      "elevation": 7,
+      "flexDirection": "row",
+      "minHeight": 128,
+      "opacity": 1,
+      "padding": 20,
+      "shadowColor": "#000",
+      "shadowOffset": {
+        "height": 3,
+        "width": 0,
+      },
+      "shadowOpacity": 0.29,
+      "shadowRadius": 4.65,
+    }
+  }
+  testID="card-touchable"
+>
+  <View
+    style={
+      {
+        "flex": 1,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "flex": undefined,
+          "justifyContent": "space-between",
+        }
+      }
+      testID="card-icon-view-content"
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flexDirection": "row",
+          }
+        }
+      />
+    </View>
+  </View>
+</View>
+`;

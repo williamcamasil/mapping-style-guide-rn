@@ -1,0 +1,1449 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`checkbox snapshot Should render checkbox 1`] = `
+<View
+  style={
+    {
+      "flexDirection": "row",
+    }
+  }
+>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": undefined,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "flexShrink": 1,
+        "opacity": 1,
+      }
+    }
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGRect
+          fill={
+            {
+              "payload": 4294440952,
+              "type": 0,
+            }
+          }
+          height="22"
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          rx="5"
+          stroke={
+            {
+              "payload": 4278268296,
+              "type": 0,
+            }
+          }
+          strokeWidth="1"
+          width="22"
+          x="1"
+          y="1"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#3E4149",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Clique aqui
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`checkbox snapshot Should render checkbox checked 1`] = `
+<View
+  style={
+    {
+      "flexDirection": "row",
+    }
+  }
+>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": undefined,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "flexShrink": 1,
+        "opacity": 1,
+      }
+    }
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGRect
+          fill={
+            {
+              "payload": 4278268296,
+              "type": 0,
+            }
+          }
+          height="22"
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          rx="5"
+          stroke={
+            {
+              "payload": 4293980402,
+              "type": 0,
+            }
+          }
+          strokeWidth="2"
+          width="22"
+          x="1"
+          y="1"
+        />
+        <RNSVGPath
+          d="m16.01 10-5.414 4.67L8 12.43"
+          fill={
+            {
+              "payload": 4278190080,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "stroke",
+              "strokeWidth",
+              "strokeLinecap",
+              "strokeLinejoin",
+            ]
+          }
+          stroke={
+            {
+              "payload": 4294967295,
+              "type": 0,
+            }
+          }
+          strokeLinecap={1}
+          strokeLinejoin={1}
+          strokeWidth="2"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#3E4149",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Clique aqui
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`checkbox snapshot Should render checkbox checked and with error 1`] = `
+<View
+  style={
+    {
+      "flexDirection": "row",
+    }
+  }
+>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": undefined,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "flexShrink": 1,
+        "opacity": 1,
+      }
+    }
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGRect
+          fill={
+            {
+              "payload": 4293212464,
+              "type": 0,
+            }
+          }
+          height="22"
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          rx="5"
+          stroke={
+            {
+              "payload": 4293980402,
+              "type": 0,
+            }
+          }
+          strokeWidth="2"
+          width="22"
+          x="1"
+          y="1"
+        />
+        <RNSVGPath
+          d="m16.01 10-5.414 4.67L8 12.43"
+          fill={
+            {
+              "payload": 4278190080,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "stroke",
+              "strokeWidth",
+              "strokeLinecap",
+              "strokeLinejoin",
+            ]
+          }
+          stroke={
+            {
+              "payload": 4294967295,
+              "type": 0,
+            }
+          }
+          strokeLinecap={1}
+          strokeLinejoin={1}
+          strokeWidth="2"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#E53930",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Clique aqui
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`checkbox snapshot Should render checkbox checked with secondary background 1`] = `
+<View
+  style={
+    {
+      "flexDirection": "row",
+    }
+  }
+>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": undefined,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "flexShrink": 1,
+        "opacity": 1,
+      }
+    }
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGRect
+          fill={
+            {
+              "payload": 4278268296,
+              "type": 0,
+            }
+          }
+          height="22"
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          rx="5"
+          stroke={
+            {
+              "payload": 4294089586,
+              "type": 0,
+            }
+          }
+          strokeWidth="2"
+          width="22"
+          x="1"
+          y="1"
+        />
+        <RNSVGPath
+          d="m16.01 10-5.414 4.67L8 12.43"
+          fill={
+            {
+              "payload": 4278190080,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "stroke",
+              "strokeWidth",
+              "strokeLinecap",
+              "strokeLinejoin",
+            ]
+          }
+          stroke={
+            {
+              "payload": 4294967295,
+              "type": 0,
+            }
+          }
+          strokeLinecap={1}
+          strokeLinejoin={1}
+          strokeWidth="2"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#FDEBE3",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Clique aqui
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`checkbox snapshot Should render checkbox disabled 1`] = `
+<View
+  style={
+    {
+      "flexDirection": "row",
+    }
+  }
+>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": true,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "flexShrink": 1,
+        "opacity": 1,
+      }
+    }
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGRect
+          fill={
+            {
+              "payload": 0,
+              "type": 0,
+            }
+          }
+          height="22"
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          rx="5"
+          stroke={
+            {
+              "payload": 4293980402,
+              "type": 0,
+            }
+          }
+          strokeWidth="1"
+          width="22"
+          x="1"
+          y="1"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#E1E2E4",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Clique aqui
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`checkbox snapshot Should render checkbox disabled with secondary background 1`] = `
+<View
+  style={
+    {
+      "flexDirection": "row",
+    }
+  }
+>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": true,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "flexShrink": 1,
+        "opacity": 1,
+      }
+    }
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGRect
+          fill={
+            {
+              "payload": 0,
+              "type": 0,
+            }
+          }
+          height="22"
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          rx="5"
+          stroke={
+            {
+              "payload": 4294224777,
+              "type": 0,
+            }
+          }
+          strokeWidth="1"
+          width="22"
+          x="1"
+          y="1"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#F4AB89",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Clique aqui
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`checkbox snapshot Should render checkbox using form 1`] = `
+<View
+  style={
+    {
+      "flexDirection": "row",
+    }
+  }
+>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": undefined,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "flexShrink": 1,
+        "opacity": 1,
+      }
+    }
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGRect
+          fill={
+            {
+              "payload": 4294440952,
+              "type": 0,
+            }
+          }
+          height="22"
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          rx="5"
+          stroke={
+            {
+              "payload": 4278268296,
+              "type": 0,
+            }
+          }
+          strokeWidth="1"
+          width="22"
+          x="1"
+          y="1"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#3E4149",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Clique aqui
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`checkbox snapshot Should render checkbox with error 1`] = `
+<View
+  style={
+    {
+      "flexDirection": "row",
+    }
+  }
+>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": undefined,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "flexShrink": 1,
+        "opacity": 1,
+      }
+    }
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGRect
+          fill={
+            {
+              "payload": 4294440952,
+              "type": 0,
+            }
+          }
+          height="22"
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          rx="5"
+          stroke={
+            {
+              "payload": 4293212464,
+              "type": 0,
+            }
+          }
+          strokeWidth="1"
+          width="22"
+          x="1"
+          y="1"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#E53930",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Clique aqui
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`checkbox snapshot Should render checkbox with error and secondary background 1`] = `
+<View
+  style={
+    {
+      "flexDirection": "row",
+    }
+  }
+>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": undefined,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "flexShrink": 1,
+        "opacity": 1,
+      }
+    }
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGRect
+          fill={
+            {
+              "payload": 4293954139,
+              "type": 0,
+            }
+          }
+          height="22"
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          rx="5"
+          stroke={
+            {
+              "payload": 4294938248,
+              "type": 0,
+            }
+          }
+          strokeWidth="1"
+          width="22"
+          x="1"
+          y="1"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#FF8E88",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Clique aqui
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`checkbox snapshot Should render checkbox with secondary background 1`] = `
+<View
+  style={
+    {
+      "flexDirection": "row",
+    }
+  }
+>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": undefined,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "flexShrink": 1,
+        "opacity": 1,
+      }
+    }
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGRect
+          fill={
+            {
+              "payload": 4293954139,
+              "type": 0,
+            }
+          }
+          height="22"
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+            ]
+          }
+          rx="5"
+          stroke={
+            {
+              "payload": 4278268296,
+              "type": 0,
+            }
+          }
+          strokeWidth="1"
+          width="22"
+          x="1"
+          y="1"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+    <Text
+      style={
+        {
+          "height": 12,
+          "width": 12,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#FDEBE3",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Clique aqui
+    </Text>
+  </View>
+</View>
+`;

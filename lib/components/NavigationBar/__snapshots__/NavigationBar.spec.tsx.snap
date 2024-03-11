@@ -1,0 +1,930 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NavigationBar snapshots should match snapshot default 1`] = `
+<RCTSafeAreaView
+  style={
+    {
+      "paddingTop": undefined,
+    }
+  }
+>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "height": 48,
+        "justifyContent": "space-between",
+      }
+    }
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "marginLeft": 28,
+          "opacity": 1,
+        }
+      }
+      testID="go-back-action"
+    >
+      <RNSVGSvgView
+        align="xMidYMid"
+        bbHeight="24"
+        bbWidth="24"
+        fill="none"
+        focusable={false}
+        height={24}
+        meetOrSlice={0}
+        minX={0}
+        minY={0}
+        style={
+          [
+            {
+              "backgroundColor": "transparent",
+              "borderWidth": 0,
+            },
+            {
+              "flex": 0,
+              "height": 24,
+              "width": 24,
+            },
+          ]
+        }
+        vbHeight={24}
+        vbWidth={24}
+        width={24}
+      >
+        <RNSVGGroup
+          fill={null}
+          propList={
+            [
+              "fill",
+            ]
+          }
+        >
+          <RNSVGPath
+            clipRule={0}
+            d="M12.778 3.222a1.1 1.1 0 0 1 0 1.556L5.556 12l7.222 7.222a1.1 1.1 0 1 1-1.555 1.556l-8-8a1.1 1.1 0 0 1 0-1.556l8-8a1.1 1.1 0 0 1 1.555 0Z"
+            fill={
+              {
+                "payload": 4282270025,
+                "type": 0,
+              }
+            }
+            fillRule={0}
+            propList={
+              [
+                "fill",
+                "fillRule",
+              ]
+            }
+          />
+        </RNSVGGroup>
+      </RNSVGSvgView>
+    </View>
+    <View
+      pointerEvents="none"
+      style={
+        {
+          "alignItems": "center",
+          "bottom": 0,
+          "justifyContent": "center",
+          "left": 0,
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        numberOfLines={2}
+        style={
+          {
+            "color": "#3E4149",
+            "flexShrink": 1,
+            "fontFamily": "Averta CY",
+            "fontSize": 16,
+            "fontWeight": "bold",
+            "letterSpacing": -0.02,
+            "lineHeight": 22,
+            "textAlign": "center",
+          }
+        }
+        testID="navigation-bar-title"
+      >
+        Teste de título
+      </Text>
+    </View>
+    <View
+      style={
+        {
+          "marginRight": 28,
+        }
+      }
+    />
+  </View>
+</RCTSafeAreaView>
+`;
+
+exports[`NavigationBar snapshots should match snapshot with children 1`] = `
+<RCTSafeAreaView
+  style={
+    {
+      "paddingTop": undefined,
+    }
+  }
+>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "height": 48,
+        "justifyContent": "space-between",
+      }
+    }
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "marginLeft": 28,
+          "opacity": 1,
+        }
+      }
+      testID="go-back-action"
+    >
+      <RNSVGSvgView
+        align="xMidYMid"
+        bbHeight="24"
+        bbWidth="24"
+        fill="none"
+        focusable={false}
+        height={24}
+        meetOrSlice={0}
+        minX={0}
+        minY={0}
+        style={
+          [
+            {
+              "backgroundColor": "transparent",
+              "borderWidth": 0,
+            },
+            {
+              "flex": 0,
+              "height": 24,
+              "width": 24,
+            },
+          ]
+        }
+        vbHeight={24}
+        vbWidth={24}
+        width={24}
+      >
+        <RNSVGGroup
+          fill={null}
+          propList={
+            [
+              "fill",
+            ]
+          }
+        >
+          <RNSVGPath
+            clipRule={0}
+            d="M12.778 3.222a1.1 1.1 0 0 1 0 1.556L5.556 12l7.222 7.222a1.1 1.1 0 1 1-1.555 1.556l-8-8a1.1 1.1 0 0 1 0-1.556l8-8a1.1 1.1 0 0 1 1.555 0Z"
+            fill={
+              {
+                "payload": 4282270025,
+                "type": 0,
+              }
+            }
+            fillRule={0}
+            propList={
+              [
+                "fill",
+                "fillRule",
+              ]
+            }
+          />
+        </RNSVGGroup>
+      </RNSVGSvgView>
+    </View>
+    <View
+      style={
+        {
+          "flex": 1,
+          "paddingHorizontal": 28,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        style={
+          {
+            "color": "#676D79",
+            "flexShrink": 1,
+            "fontFamily": "Averta CY",
+            "fontSize": 16,
+            "fontWeight": "normal",
+            "letterSpacing": -0.02,
+            "lineHeight": 22,
+          }
+        }
+      >
+        Qualquer conteúdo
+      </Text>
+    </View>
+  </View>
+</RCTSafeAreaView>
+`;
+
+exports[`NavigationBar snapshots should match snapshot with close icon 1`] = `
+<RCTSafeAreaView
+  style={
+    {
+      "paddingTop": undefined,
+    }
+  }
+>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "height": 48,
+        "justifyContent": "space-between",
+      }
+    }
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "marginLeft": 28,
+          "opacity": 1,
+        }
+      }
+      testID="go-back-action"
+    >
+      <RNSVGSvgView
+        align="xMidYMid"
+        bbHeight="24"
+        bbWidth="24"
+        fill="none"
+        focusable={false}
+        height={24}
+        meetOrSlice={0}
+        minX={0}
+        minY={0}
+        style={
+          [
+            {
+              "backgroundColor": "transparent",
+              "borderWidth": 0,
+            },
+            {
+              "flex": 0,
+              "height": 24,
+              "width": 24,
+            },
+          ]
+        }
+        vbHeight={24}
+        vbWidth={24}
+        width={24}
+      >
+        <RNSVGGroup
+          fill={null}
+          propList={
+            [
+              "fill",
+            ]
+          }
+        >
+          <RNSVGPath
+            clipRule={0}
+            d="M4.778 3.222a1.1 1.1 0 0 0-1.556 1.556L10.444 12l-7.222 7.222a1.1 1.1 0 1 0 1.556 1.556L12 13.556l7.222 7.222a1.1 1.1 0 1 0 1.556-1.556L13.556 12l7.222-7.222a1.1 1.1 0 1 0-1.556-1.556L12 10.444 4.778 3.222Z"
+            fill={
+              {
+                "payload": 4282270025,
+                "type": 0,
+              }
+            }
+            fillRule={0}
+            propList={
+              [
+                "fill",
+                "fillRule",
+              ]
+            }
+          />
+        </RNSVGGroup>
+      </RNSVGSvgView>
+    </View>
+    <View
+      pointerEvents="none"
+      style={
+        {
+          "alignItems": "center",
+          "bottom": 0,
+          "justifyContent": "center",
+          "left": 0,
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        numberOfLines={2}
+        style={
+          {
+            "color": "#3E4149",
+            "flexShrink": 1,
+            "fontFamily": "Averta CY",
+            "fontSize": 16,
+            "fontWeight": "bold",
+            "letterSpacing": -0.02,
+            "lineHeight": 22,
+            "textAlign": "center",
+          }
+        }
+        testID="navigation-bar-title"
+      >
+        Teste de título
+      </Text>
+    </View>
+    <View
+      style={
+        {
+          "marginRight": 28,
+        }
+      }
+    />
+  </View>
+</RCTSafeAreaView>
+`;
+
+exports[`NavigationBar snapshots should match snapshot with custom status bar 1`] = `
+<RCTSafeAreaView
+  style={
+    {
+      "paddingTop": undefined,
+    }
+  }
+>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "height": 48,
+        "justifyContent": "space-between",
+      }
+    }
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "marginLeft": 28,
+          "opacity": 1,
+        }
+      }
+      testID="go-back-action"
+    >
+      <RNSVGSvgView
+        align="xMidYMid"
+        bbHeight="24"
+        bbWidth="24"
+        fill="none"
+        focusable={false}
+        height={24}
+        meetOrSlice={0}
+        minX={0}
+        minY={0}
+        style={
+          [
+            {
+              "backgroundColor": "transparent",
+              "borderWidth": 0,
+            },
+            {
+              "flex": 0,
+              "height": 24,
+              "width": 24,
+            },
+          ]
+        }
+        vbHeight={24}
+        vbWidth={24}
+        width={24}
+      >
+        <RNSVGGroup
+          fill={null}
+          propList={
+            [
+              "fill",
+            ]
+          }
+        >
+          <RNSVGPath
+            clipRule={0}
+            d="M12.778 3.222a1.1 1.1 0 0 1 0 1.556L5.556 12l7.222 7.222a1.1 1.1 0 1 1-1.555 1.556l-8-8a1.1 1.1 0 0 1 0-1.556l8-8a1.1 1.1 0 0 1 1.555 0Z"
+            fill={
+              {
+                "payload": 4282270025,
+                "type": 0,
+              }
+            }
+            fillRule={0}
+            propList={
+              [
+                "fill",
+                "fillRule",
+              ]
+            }
+          />
+        </RNSVGGroup>
+      </RNSVGSvgView>
+    </View>
+    <View
+      pointerEvents="none"
+      style={
+        {
+          "alignItems": "center",
+          "bottom": 0,
+          "justifyContent": "center",
+          "left": 0,
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        numberOfLines={2}
+        style={
+          {
+            "color": "#3E4149",
+            "flexShrink": 1,
+            "fontFamily": "Averta CY",
+            "fontSize": 16,
+            "fontWeight": "bold",
+            "letterSpacing": -0.02,
+            "lineHeight": 22,
+            "textAlign": "center",
+          }
+        }
+        testID="navigation-bar-title"
+      >
+        Teste de título
+      </Text>
+    </View>
+    <View
+      style={
+        {
+          "marginRight": 28,
+        }
+      }
+    />
+  </View>
+</RCTSafeAreaView>
+`;
+
+exports[`NavigationBar snapshots should match snapshot with divider 1`] = `
+<RCTSafeAreaView
+  style={
+    {
+      "paddingTop": undefined,
+    }
+  }
+>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "height": 48,
+        "justifyContent": "space-between",
+      }
+    }
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "marginLeft": 28,
+          "opacity": 1,
+        }
+      }
+      testID="go-back-action"
+    >
+      <RNSVGSvgView
+        align="xMidYMid"
+        bbHeight="24"
+        bbWidth="24"
+        fill="none"
+        focusable={false}
+        height={24}
+        meetOrSlice={0}
+        minX={0}
+        minY={0}
+        style={
+          [
+            {
+              "backgroundColor": "transparent",
+              "borderWidth": 0,
+            },
+            {
+              "flex": 0,
+              "height": 24,
+              "width": 24,
+            },
+          ]
+        }
+        vbHeight={24}
+        vbWidth={24}
+        width={24}
+      >
+        <RNSVGGroup
+          fill={null}
+          propList={
+            [
+              "fill",
+            ]
+          }
+        >
+          <RNSVGPath
+            clipRule={0}
+            d="M12.778 3.222a1.1 1.1 0 0 1 0 1.556L5.556 12l7.222 7.222a1.1 1.1 0 1 1-1.555 1.556l-8-8a1.1 1.1 0 0 1 0-1.556l8-8a1.1 1.1 0 0 1 1.555 0Z"
+            fill={
+              {
+                "payload": 4282270025,
+                "type": 0,
+              }
+            }
+            fillRule={0}
+            propList={
+              [
+                "fill",
+                "fillRule",
+              ]
+            }
+          />
+        </RNSVGGroup>
+      </RNSVGSvgView>
+    </View>
+    <View
+      pointerEvents="none"
+      style={
+        {
+          "alignItems": "center",
+          "bottom": 0,
+          "justifyContent": "center",
+          "left": 0,
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        numberOfLines={2}
+        style={
+          {
+            "color": "#3E4149",
+            "flexShrink": 1,
+            "fontFamily": "Averta CY",
+            "fontSize": 16,
+            "fontWeight": "bold",
+            "letterSpacing": -0.02,
+            "lineHeight": 22,
+            "textAlign": "center",
+          }
+        }
+        testID="navigation-bar-title"
+      >
+        Teste de título
+      </Text>
+    </View>
+    <View
+      style={
+        {
+          "marginRight": 28,
+        }
+      }
+    />
+  </View>
+  <Text
+    style={
+      {
+        "height": 16,
+        "width": 16,
+      }
+    }
+  />
+  <View
+    style={
+      {
+        "backgroundColor": "#F7F7F8",
+        "height": 1,
+        "marginBottom": undefined,
+        "marginLeft": undefined,
+        "marginRight": undefined,
+        "marginTop": undefined,
+      }
+    }
+    testID="divider-component"
+  />
+</RCTSafeAreaView>
+`;
+
+exports[`NavigationBar snapshots should match snapshot with light-content 1`] = `
+<RCTSafeAreaView
+  style={
+    {
+      "paddingTop": undefined,
+    }
+  }
+>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "height": 48,
+        "justifyContent": "space-between",
+      }
+    }
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "marginLeft": 28,
+          "opacity": 1,
+        }
+      }
+      testID="go-back-action"
+    >
+      <RNSVGSvgView
+        align="xMidYMid"
+        bbHeight="24"
+        bbWidth="24"
+        fill="none"
+        focusable={false}
+        height={24}
+        meetOrSlice={0}
+        minX={0}
+        minY={0}
+        style={
+          [
+            {
+              "backgroundColor": "transparent",
+              "borderWidth": 0,
+            },
+            {
+              "flex": 0,
+              "height": 24,
+              "width": 24,
+            },
+          ]
+        }
+        vbHeight={24}
+        vbWidth={24}
+        width={24}
+      >
+        <RNSVGGroup
+          fill={null}
+          propList={
+            [
+              "fill",
+            ]
+          }
+        >
+          <RNSVGPath
+            clipRule={0}
+            d="M12.778 3.222a1.1 1.1 0 0 1 0 1.556L5.556 12l7.222 7.222a1.1 1.1 0 1 1-1.555 1.556l-8-8a1.1 1.1 0 0 1 0-1.556l8-8a1.1 1.1 0 0 1 1.555 0Z"
+            fill={
+              {
+                "payload": 4294967295,
+                "type": 0,
+              }
+            }
+            fillRule={0}
+            propList={
+              [
+                "fill",
+                "fillRule",
+              ]
+            }
+          />
+        </RNSVGGroup>
+      </RNSVGSvgView>
+    </View>
+    <View
+      pointerEvents="none"
+      style={
+        {
+          "alignItems": "center",
+          "bottom": 0,
+          "justifyContent": "center",
+          "left": 0,
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        numberOfLines={2}
+        style={
+          {
+            "color": "#FFFFFF",
+            "flexShrink": 1,
+            "fontFamily": "Averta CY",
+            "fontSize": 16,
+            "fontWeight": "bold",
+            "letterSpacing": -0.02,
+            "lineHeight": 22,
+            "textAlign": "center",
+          }
+        }
+        testID="navigation-bar-title"
+      >
+        Teste de título
+      </Text>
+    </View>
+    <View
+      style={
+        {
+          "marginRight": 28,
+        }
+      }
+    />
+  </View>
+</RCTSafeAreaView>
+`;

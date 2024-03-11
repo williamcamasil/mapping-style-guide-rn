@@ -1,0 +1,92 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`inputTextArea snapshot should match default snapshot 1`] = `
+<View>
+  <View>
+    <TextInput
+      allowFontScaling={false}
+      editable={true}
+      multiline={true}
+      numberOfLines={2}
+      onBlur={[Function]}
+      onFocus={[Function]}
+      placeholder="Text area label"
+      placeholderTextColor="#A4A7AF"
+      secureTextEntry={false}
+      style={
+        {
+          "backgroundColor": "#FFFFFF",
+          "color": "#676D79",
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "height": "auto",
+          "justifyContent": "flex-start",
+          "letterSpacing": -0.02,
+          "lineHeight": 16,
+          "paddingBottom": 0,
+          "paddingLeft": 0,
+          "paddingTop": 4,
+          "textAlignVertical": "top",
+        }
+      }
+      value=""
+    />
+  </View>
+</View>
+`;
+
+exports[`inputTextArea snapshot should match error snapshot 1`] = `
+<View>
+  <View>
+    <TextInput
+      allowFontScaling={false}
+      editable={true}
+      multiline={true}
+      numberOfLines={2}
+      onBlur={[Function]}
+      onFocus={[Function]}
+      placeholder="Text area label"
+      placeholderTextColor="#A4A7AF"
+      secureTextEntry={false}
+      style={
+        {
+          "backgroundColor": "#FFFFFF",
+          "borderColor": "#E53930",
+          "color": "#676D79",
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "height": "auto",
+          "justifyContent": "flex-start",
+          "letterSpacing": -0.02,
+          "lineHeight": 16,
+          "paddingBottom": 0,
+          "paddingLeft": 0,
+          "paddingTop": 4,
+          "textAlignVertical": "top",
+        }
+      }
+      value=""
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#E53930",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 14,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 14,
+          "marginLeft": 0,
+          "marginTop": 12,
+        }
+      }
+    >
+      Error message
+    </Text>
+  </View>
+</View>
+`;

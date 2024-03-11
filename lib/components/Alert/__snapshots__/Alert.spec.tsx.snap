@@ -1,0 +1,1049 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Alert snapshot Alert default 1`] = `
+<View
+  style={
+    {
+      "backgroundColor": "#F3FDF7",
+      "borderRadius": 12,
+      "flexDirection": "row",
+      "padding": 16,
+    }
+  }
+>
+  <View
+    style={
+      {
+        "alignSelf": "center",
+      }
+    }
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      testID="alert-icon"
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGPath
+          clipRule={0}
+          d="M11.9999 3.8999C7.52596 3.8999 3.8999 7.52596 3.8999 11.9999C3.8999 16.4738 7.52596 20.0999 11.9999 20.0999C16.4738 20.0999 20.0999 16.4738 20.0999 11.9999C20.0999 7.52596 16.4738 3.8999 11.9999 3.8999ZM2.0999 11.9999C2.0999 6.53185 6.53185 2.0999 11.9999 2.0999C17.468 2.0999 21.8999 6.53185 21.8999 11.9999C21.8999 17.468 17.468 21.8999 11.9999 21.8999C6.53185 21.8999 2.0999 17.468 2.0999 11.9999ZM11.9999 6.5999C12.497 6.5999 12.8999 7.00285 12.8999 7.4999V12.4999C12.8999 12.997 12.497 13.3999 11.9999 13.3999C11.5028 13.3999 11.0999 12.997 11.0999 12.4999V7.4999C11.0999 7.00285 11.5028 6.5999 11.9999 6.5999ZM12 17.45C12.6075 17.45 13.1 16.9575 13.1 16.35C13.1 15.7425 12.6075 15.25 12 15.25C11.3925 15.25 10.9 15.7425 10.9 16.35C10.9 16.9575 11.3925 17.45 12 17.45Z"
+          fill={
+            {
+              "payload": 4278357561,
+              "type": 0,
+            }
+          }
+          fillRule={0}
+          propList={
+            [
+              "fill",
+              "fillRule",
+            ]
+          }
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+  </View>
+  <View
+    style={
+      {
+        "flexDirection": "row",
+        "flexShrink": 1,
+        "marginLeft": 16,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#028E39",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 13,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 16,
+        }
+      }
+      testID="alert-description"
+    >
+      Alert mock description
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`Alert snapshot Alert info success with default icon 1`] = `
+<View
+  style={
+    {
+      "backgroundColor": "#F7F7F8",
+      "borderRadius": 12,
+      "flexDirection": "row",
+      "padding": 16,
+    }
+  }
+  testID="alert"
+>
+  <View
+    style={
+      {
+        "alignSelf": "center",
+      }
+    }
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      testID="alert-icon"
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGPath
+          clipRule={0}
+          d="M12.0001 20.0999C16.474 20.0999 20.1001 16.4738 20.1001 11.9999C20.1001 7.52591 16.474 3.89985 12.0001 3.89985C7.52616 3.89985 3.9001 7.52591 3.9001 11.9999C3.9001 16.4738 7.52615 20.0999 12.0001 20.0999ZM21.9001 11.9999C21.9001 17.4679 17.4682 21.8999 12.0001 21.8999C6.53204 21.8999 2.1001 17.4679 2.1001 11.9999C2.1001 6.53179 6.53204 2.09985 12.0001 2.09985C17.4682 2.09985 21.9001 6.5318 21.9001 11.9999ZM12.0001 17.3999C11.503 17.3999 11.1001 16.9969 11.1001 16.4999L11.1001 11.4999C11.1001 11.0028 11.503 10.5999 12.0001 10.5999C12.4972 10.5999 12.9001 11.0028 12.9001 11.4999L12.9001 16.4999C12.9001 16.9969 12.4972 17.3999 12.0001 17.3999ZM12 6.54976C11.3925 6.54976 10.9 7.04224 10.9 7.64975C10.9 8.25727 11.3925 8.74975 12 8.74975C12.6075 8.74976 13.1 8.25727 13.1 7.64975C13.1 7.04224 12.6075 6.54976 12 6.54976Z"
+          fill={
+            {
+              "payload": 4284968313,
+              "type": 0,
+            }
+          }
+          fillRule={0}
+          propList={
+            [
+              "fill",
+              "fillRule",
+            ]
+          }
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+  </View>
+  <View
+    style={
+      {
+        "flexDirection": "row",
+        "flexShrink": 1,
+        "marginLeft": 16,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#676D79",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 13,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 16,
+        }
+      }
+      testID="alert-description"
+    >
+      Alert mock description
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`Alert snapshot Alert variant error 1`] = `
+<View
+  style={
+    {
+      "backgroundColor": "#FEF7F7",
+      "borderRadius": 12,
+      "flexDirection": "row",
+      "padding": 16,
+    }
+  }
+  testID="alert"
+>
+  <View
+    style={
+      {
+        "alignSelf": "center",
+      }
+    }
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      testID="alert-icon"
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGPath
+          clipRule={0}
+          d="M11.9999 3.8999C7.52596 3.8999 3.8999 7.52596 3.8999 11.9999C3.8999 16.4738 7.52596 20.0999 11.9999 20.0999C16.4738 20.0999 20.0999 16.4738 20.0999 11.9999C20.0999 7.52596 16.4738 3.8999 11.9999 3.8999ZM2.0999 11.9999C2.0999 6.53185 6.53185 2.0999 11.9999 2.0999C17.468 2.0999 21.8999 6.53185 21.8999 11.9999C21.8999 17.468 17.468 21.8999 11.9999 21.8999C6.53185 21.8999 2.0999 17.468 2.0999 11.9999ZM11.9999 6.5999C12.497 6.5999 12.8999 7.00285 12.8999 7.4999V12.4999C12.8999 12.997 12.497 13.3999 11.9999 13.3999C11.5028 13.3999 11.0999 12.997 11.0999 12.4999V7.4999C11.0999 7.00285 11.5028 6.5999 11.9999 6.5999ZM12 17.45C12.6075 17.45 13.1 16.9575 13.1 16.35C13.1 15.7425 12.6075 15.25 12 15.25C11.3925 15.25 10.9 15.7425 10.9 16.35C10.9 16.9575 11.3925 17.45 12 17.45Z"
+          fill={
+            {
+              "payload": 4292032047,
+              "type": 0,
+            }
+          }
+          fillRule={0}
+          propList={
+            [
+              "fill",
+              "fillRule",
+            ]
+          }
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+  </View>
+  <View
+    style={
+      {
+        "flexDirection": "row",
+        "flexShrink": 1,
+        "marginLeft": 16,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#D3362F",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 13,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 16,
+        }
+      }
+      testID="alert-description"
+    >
+      Alert mock description
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`Alert snapshot Alert variant success with default icon 1`] = `
+<View
+  style={
+    {
+      "backgroundColor": "#F3FDF7",
+      "borderRadius": 12,
+      "flexDirection": "row",
+      "padding": 16,
+    }
+  }
+  testID="alert"
+>
+  <View
+    style={
+      {
+        "alignSelf": "center",
+      }
+    }
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      testID="alert-icon"
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGPath
+          d="M8.44 12.339L10.607 14.506L10.587 14.486L15.467 9.596M12 3C10.8181 3 9.64778 3.23279 8.55585 3.68508C7.46392 4.13738 6.47177 4.80031 5.63604 5.63604C4.80031 6.47177 4.13738 7.46392 3.68508 8.55585C3.23279 9.64778 3 10.8181 3 12C3 13.1819 3.23279 14.3522 3.68508 15.4442C4.13738 16.5361 4.80031 17.5282 5.63604 18.364C6.47177 19.1997 7.46392 19.8626 8.55585 20.3149C9.64778 20.7672 10.8181 21 12 21C13.1819 21 14.3522 20.7672 15.4442 20.3149C16.5361 19.8626 17.5282 19.1997 18.364 18.364C19.1997 17.5282 19.8626 16.5361 20.3149 15.4442C20.7672 14.3522 21 13.1819 21 12C21 10.8181 20.7672 9.64778 20.3149 8.55585C19.8626 7.46392 19.1997 6.47177 18.364 5.63604C17.5282 4.80031 16.5361 4.13738 15.4442 3.68508C14.3522 3.23279 13.1819 3 12 3Z"
+          fill={
+            {
+              "payload": 4278190080,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "stroke",
+              "strokeWidth",
+              "strokeLinecap",
+              "strokeLinejoin",
+            ]
+          }
+          stroke={
+            {
+              "payload": 4278357561,
+              "type": 0,
+            }
+          }
+          strokeLinecap={1}
+          strokeLinejoin={1}
+          strokeWidth="1.8"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+  </View>
+  <View
+    style={
+      {
+        "flexDirection": "row",
+        "flexShrink": 1,
+        "marginLeft": 16,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#028E39",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 13,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 16,
+        }
+      }
+      testID="alert-description"
+    >
+      Alert mock description
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`Alert snapshot Alert variant warning 1`] = `
+<View
+  style={
+    {
+      "backgroundColor": "#FFFBEF",
+      "borderRadius": 12,
+      "flexDirection": "row",
+      "padding": 16,
+    }
+  }
+  testID="alert"
+>
+  <View
+    style={
+      {
+        "alignSelf": "center",
+      }
+    }
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      testID="alert-icon"
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGPath
+          clipRule={0}
+          d="M11.9999 3.8999C7.52596 3.8999 3.8999 7.52596 3.8999 11.9999C3.8999 16.4738 7.52596 20.0999 11.9999 20.0999C16.4738 20.0999 20.0999 16.4738 20.0999 11.9999C20.0999 7.52596 16.4738 3.8999 11.9999 3.8999ZM2.0999 11.9999C2.0999 6.53185 6.53185 2.0999 11.9999 2.0999C17.468 2.0999 21.8999 6.53185 21.8999 11.9999C21.8999 17.468 17.468 21.8999 11.9999 21.8999C6.53185 21.8999 2.0999 17.468 2.0999 11.9999ZM11.9999 6.5999C12.497 6.5999 12.8999 7.00285 12.8999 7.4999V12.4999C12.8999 12.997 12.497 13.3999 11.9999 13.3999C11.5028 13.3999 11.0999 12.997 11.0999 12.4999V7.4999C11.0999 7.00285 11.5028 6.5999 11.9999 6.5999ZM12 17.45C12.6075 17.45 13.1 16.9575 13.1 16.35C13.1 15.7425 12.6075 15.25 12 15.25C11.3925 15.25 10.9 15.7425 10.9 16.35C10.9 16.9575 11.3925 17.45 12 17.45Z"
+          fill={
+            {
+              "payload": 4293888022,
+              "type": 0,
+            }
+          }
+          fillRule={0}
+          propList={
+            [
+              "fill",
+              "fillRule",
+            ]
+          }
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+  </View>
+  <View
+    style={
+      {
+        "flexDirection": "row",
+        "flexShrink": 1,
+        "marginLeft": 16,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#EF8816",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 13,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 16,
+        }
+      }
+      testID="alert-description"
+    >
+      Alert mock description
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`Alert snapshot Alert with custom icon 1`] = `
+<View
+  style={
+    {
+      "backgroundColor": "#F3FDF7",
+      "borderRadius": 12,
+      "flexDirection": "row",
+      "padding": 16,
+    }
+  }
+>
+  <View
+    style={
+      {
+        "alignSelf": "center",
+      }
+    }
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      testID="alert-custom-icon"
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGPath
+          d="M2.13 12.297a1.097 1.097 0 0 1 0-1.04C4.234 7.37 8.118 4 12 4c3.883 0 7.767 3.37 9.87 7.259.174.323.174.715 0 1.039-2.103 3.888-5.987 7.258-9.87 7.258-3.883 0-7.767-3.37-9.87-7.26Z"
+          fill={
+            {
+              "payload": 4278190080,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "stroke",
+              "strokeWidth",
+              "strokeLinecap",
+              "strokeLinejoin",
+            ]
+          }
+          stroke={
+            {
+              "payload": 4278357561,
+              "type": 0,
+            }
+          }
+          strokeLinecap={1}
+          strokeLinejoin={1}
+          strokeWidth="1.8"
+        />
+        <RNSVGPath
+          d="M14.357 9.42a3.333 3.333 0 1 1-4.714 4.715 3.333 3.333 0 0 1 4.714-4.714Z"
+          fill={
+            {
+              "payload": 4278190080,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "stroke",
+              "strokeWidth",
+              "strokeLinecap",
+              "strokeLinejoin",
+            ]
+          }
+          stroke={
+            {
+              "payload": 4278357561,
+              "type": 0,
+            }
+          }
+          strokeLinecap={1}
+          strokeLinejoin={1}
+          strokeWidth="1.8"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+  </View>
+  <View
+    style={
+      {
+        "flexDirection": "row",
+        "flexShrink": 1,
+        "marginLeft": 16,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#028E39",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 13,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 16,
+        }
+      }
+      testID="alert-description"
+    >
+      Alert mock description
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`Alert snapshot Alert with custom icon color 1`] = `
+<View
+  style={
+    {
+      "backgroundColor": "#F3FDF7",
+      "borderRadius": 12,
+      "flexDirection": "row",
+      "padding": 16,
+    }
+  }
+>
+  <View
+    style={
+      {
+        "alignSelf": "center",
+      }
+    }
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      testID="alert-custom-icon"
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGPath
+          d="M2.13 12.297a1.097 1.097 0 0 1 0-1.04C4.234 7.37 8.118 4 12 4c3.883 0 7.767 3.37 9.87 7.259.174.323.174.715 0 1.039-2.103 3.888-5.987 7.258-9.87 7.258-3.883 0-7.767-3.37-9.87-7.26Z"
+          fill={
+            {
+              "payload": 4278190080,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "stroke",
+              "strokeWidth",
+              "strokeLinecap",
+              "strokeLinejoin",
+            ]
+          }
+          stroke={
+            {
+              "payload": 4278190080,
+              "type": 0,
+            }
+          }
+          strokeLinecap={1}
+          strokeLinejoin={1}
+          strokeWidth="1.8"
+        />
+        <RNSVGPath
+          d="M14.357 9.42a3.333 3.333 0 1 1-4.714 4.715 3.333 3.333 0 0 1 4.714-4.714Z"
+          fill={
+            {
+              "payload": 4278190080,
+              "type": 0,
+            }
+          }
+          propList={
+            [
+              "stroke",
+              "strokeWidth",
+              "strokeLinecap",
+              "strokeLinejoin",
+            ]
+          }
+          stroke={
+            {
+              "payload": 4278190080,
+              "type": 0,
+            }
+          }
+          strokeLinecap={1}
+          strokeLinejoin={1}
+          strokeWidth="1.8"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+  </View>
+  <View
+    style={
+      {
+        "flexDirection": "row",
+        "flexShrink": 1,
+        "marginLeft": 16,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#028E39",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 13,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 16,
+        }
+      }
+      testID="alert-description"
+    >
+      Alert mock description
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`Alert snapshot Alert with description content 1`] = `
+<View
+  style={
+    {
+      "backgroundColor": "#F3FDF7",
+      "borderRadius": 12,
+      "flexDirection": "row",
+      "padding": 16,
+    }
+  }
+>
+  <View
+    style={
+      {
+        "alignSelf": "center",
+      }
+    }
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      testID="alert-icon"
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGPath
+          clipRule={0}
+          d="M11.9999 3.8999C7.52596 3.8999 3.8999 7.52596 3.8999 11.9999C3.8999 16.4738 7.52596 20.0999 11.9999 20.0999C16.4738 20.0999 20.0999 16.4738 20.0999 11.9999C20.0999 7.52596 16.4738 3.8999 11.9999 3.8999ZM2.0999 11.9999C2.0999 6.53185 6.53185 2.0999 11.9999 2.0999C17.468 2.0999 21.8999 6.53185 21.8999 11.9999C21.8999 17.468 17.468 21.8999 11.9999 21.8999C6.53185 21.8999 2.0999 17.468 2.0999 11.9999ZM11.9999 6.5999C12.497 6.5999 12.8999 7.00285 12.8999 7.4999V12.4999C12.8999 12.997 12.497 13.3999 11.9999 13.3999C11.5028 13.3999 11.0999 12.997 11.0999 12.4999V7.4999C11.0999 7.00285 11.5028 6.5999 11.9999 6.5999ZM12 17.45C12.6075 17.45 13.1 16.9575 13.1 16.35C13.1 15.7425 12.6075 15.25 12 15.25C11.3925 15.25 10.9 15.7425 10.9 16.35C10.9 16.9575 11.3925 17.45 12 17.45Z"
+          fill={
+            {
+              "payload": 4278357561,
+              "type": 0,
+            }
+          }
+          fillRule={0}
+          propList={
+            [
+              "fill",
+              "fillRule",
+            ]
+          }
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+  </View>
+  <View
+    style={
+      {
+        "flexDirection": "row",
+        "flexShrink": 1,
+        "marginLeft": 16,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#676D79",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 22,
+        }
+      }
+    >
+      Mock text description content
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`Alert snapshot Alert with icon hidded 1`] = `
+<View
+  style={
+    {
+      "backgroundColor": "#F3FDF7",
+      "borderRadius": 12,
+      "flexDirection": "row",
+      "padding": 16,
+    }
+  }
+>
+  <View
+    style={
+      {
+        "alignSelf": "center",
+      }
+    }
+  />
+  <View
+    style={
+      {
+        "flexDirection": "row",
+        "flexShrink": 1,
+        "marginLeft": 16,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      style={
+        {
+          "color": "#028E39",
+          "flexShrink": 1,
+          "fontFamily": "Averta CY",
+          "fontSize": 13,
+          "fontWeight": "normal",
+          "letterSpacing": -0.02,
+          "lineHeight": 16,
+        }
+      }
+      testID="alert-description"
+    >
+      Alert mock description
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`Alert snapshot Alert with no description 1`] = `
+<View
+  style={
+    {
+      "backgroundColor": "#F3FDF7",
+      "borderRadius": 12,
+      "flexDirection": "row",
+      "padding": 16,
+    }
+  }
+>
+  <View
+    style={
+      {
+        "alignSelf": "center",
+      }
+    }
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="24"
+      bbWidth="24"
+      fill="none"
+      focusable={false}
+      height={24}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 24,
+            "width": 24,
+          },
+        ]
+      }
+      testID="alert-icon"
+      vbHeight={24}
+      vbWidth={24}
+      width={24}
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+          ]
+        }
+      >
+        <RNSVGPath
+          clipRule={0}
+          d="M11.9999 3.8999C7.52596 3.8999 3.8999 7.52596 3.8999 11.9999C3.8999 16.4738 7.52596 20.0999 11.9999 20.0999C16.4738 20.0999 20.0999 16.4738 20.0999 11.9999C20.0999 7.52596 16.4738 3.8999 11.9999 3.8999ZM2.0999 11.9999C2.0999 6.53185 6.53185 2.0999 11.9999 2.0999C17.468 2.0999 21.8999 6.53185 21.8999 11.9999C21.8999 17.468 17.468 21.8999 11.9999 21.8999C6.53185 21.8999 2.0999 17.468 2.0999 11.9999ZM11.9999 6.5999C12.497 6.5999 12.8999 7.00285 12.8999 7.4999V12.4999C12.8999 12.997 12.497 13.3999 11.9999 13.3999C11.5028 13.3999 11.0999 12.997 11.0999 12.4999V7.4999C11.0999 7.00285 11.5028 6.5999 11.9999 6.5999ZM12 17.45C12.6075 17.45 13.1 16.9575 13.1 16.35C13.1 15.7425 12.6075 15.25 12 15.25C11.3925 15.25 10.9 15.7425 10.9 16.35C10.9 16.9575 11.3925 17.45 12 17.45Z"
+          fill={
+            {
+              "payload": 4278357561,
+              "type": 0,
+            }
+          }
+          fillRule={0}
+          propList={
+            [
+              "fill",
+              "fillRule",
+            ]
+          }
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+  </View>
+  <View
+    style={
+      {
+        "flexDirection": "row",
+        "flexShrink": 1,
+        "marginLeft": 16,
+      }
+    }
+  />
+</View>
+`;

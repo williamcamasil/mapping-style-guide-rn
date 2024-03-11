@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InputText.Field snapshot 1`] = `
+<View>
+  <TextInput
+    allowFontScaling={false}
+    editable={true}
+    onBlur={[Function]}
+    onChangeText={[Function]}
+    onFocus={[Function]}
+    placeholder="Input label"
+    placeholderTextColor="#A4A7AF"
+    secureTextEntry={false}
+    style={
+      {
+        "backgroundColor": "#FFFFFF",
+        "borderColor": "#E1E2E4",
+        "borderRadius": 12,
+        "borderWidth": 1,
+        "color": "#676D79",
+        "fontFamily": "Averta CY",
+        "fontSize": 16,
+        "fontWeight": "normal",
+        "height": 64,
+        "letterSpacing": -0.02,
+        "lineHeight": 16,
+        "paddingBottom": 0,
+        "paddingLeft": 20,
+        "paddingTop": 4,
+      }
+    }
+    testID="rn-text-input"
+    value=""
+  />
+  <Text
+    allowFontScaling={false}
+    style={
+      {
+        "color": "#676D79",
+        "flexShrink": 1,
+        "fontFamily": "Averta CY",
+        "fontSize": 14,
+        "fontWeight": "normal",
+        "letterSpacing": -0.02,
+        "lineHeight": 14,
+        "marginLeft": 20,
+        "marginTop": 12,
+      }
+    }
+  >
+    Error message
+  </Text>
+</View>
+`;

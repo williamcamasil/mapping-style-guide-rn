@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`KeyboardAvoidingWrap Snapshot default ios 1`] = `
+<View
+  onLayout={[Function]}
+  style={
+    [
+      {
+        "flex": 1,
+      },
+      {
+        "paddingBottom": 0,
+      },
+    ]
+  }
+>
+  <Text
+    allowFontScaling={false}
+    style={
+      {
+        "color": "#676D79",
+        "flexShrink": 1,
+        "fontFamily": "Averta CY",
+        "fontSize": 16,
+        "fontWeight": "normal",
+        "letterSpacing": -0.02,
+        "lineHeight": 22,
+      }
+    }
+  >
+    Snapshot IOS
+  </Text>
+</View>
+`;

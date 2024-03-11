@@ -1,0 +1,1884 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LoadingContainer snapshot Should not show the loading container 1`] = `null`;
+
+exports[`LoadingContainer snapshot Should render the default appearance 1`] = `
+<View
+  colors={
+    [
+      "hsla(0, 0%, 100%, 0.6)",
+      "hsla(0, 0%, 100%, 0.6)",
+    ]
+  }
+  end={
+    {
+      "x": 1,
+      "y": 1,
+    }
+  }
+  start={
+    {
+      "x": 1,
+      "y": 0,
+    }
+  }
+  style={
+    {
+      "alignItems": "center",
+      "bottom": 0,
+      "justifyContent": "center",
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+  testID="loading-container"
+>
+  <View
+    style={
+      {
+        "backgroundColor": "#F7F7F8",
+        "borderRadius": 12,
+        "padding": 20,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "justifyContent": "center",
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "borderColor": "hsla(220, 8%, 43.9%, 0.6)",
+            "borderRadius": 4,
+            "borderStyle": "solid",
+            "borderWidth": 0.5,
+            "height": 8,
+            "marginHorizontal": 4,
+            "overflow": "hidden",
+            "width": 8,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          style={
+            {
+              "backgroundColor": "#676D79",
+              "borderRadius": 4,
+              "height": "100%",
+              "opacity": 1,
+              "width": "100%",
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          {
+            "borderColor": "hsla(220, 8%, 43.9%, 0.6)",
+            "borderRadius": 4,
+            "borderStyle": "solid",
+            "borderWidth": 0.5,
+            "height": 8,
+            "marginHorizontal": 4,
+            "overflow": "hidden",
+            "width": 8,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          style={
+            {
+              "backgroundColor": "#676D79",
+              "borderRadius": 4,
+              "height": "100%",
+              "opacity": 0,
+              "width": "100%",
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          {
+            "borderColor": "hsla(220, 8%, 43.9%, 0.6)",
+            "borderRadius": 4,
+            "borderStyle": "solid",
+            "borderWidth": 0.5,
+            "height": 8,
+            "marginHorizontal": 4,
+            "overflow": "hidden",
+            "width": 8,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          style={
+            {
+              "backgroundColor": "#676D79",
+              "borderRadius": 4,
+              "height": "100%",
+              "opacity": 0.5,
+              "width": "100%",
+            }
+          }
+        />
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`LoadingContainer snapshot Should render the loading container correctly when an unknown variant is obtained (with text) 1`] = `
+<View
+  colors={
+    [
+      "hsla(0, 0%, 100%, 0.6)",
+      "hsla(0, 0%, 100%, 0.6)",
+    ]
+  }
+  end={
+    {
+      "x": 1,
+      "y": 1,
+    }
+  }
+  start={
+    {
+      "x": 1,
+      "y": 0,
+    }
+  }
+  style={
+    {
+      "alignItems": "flex-start",
+      "bottom": 0,
+      "justifyContent": "flex-end",
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+  testID="loading-container"
+>
+  <Text
+    allowFontScaling={false}
+    style={
+      {
+        "color": "#3E4149",
+        "flexShrink": 1,
+        "fontFamily": "Averta CY",
+        "fontSize": 40,
+        "fontWeight": "bold",
+        "letterSpacing": -0.02,
+        "lineHeight": 48,
+        "marginLeft": 28,
+      }
+    }
+  >
+    Sending
+  </Text>
+  <View
+    style={
+      {
+        "backgroundColor": "#F7F7F8",
+        "borderRadius": 12,
+        "marginBottom": 80,
+        "marginLeft": 28,
+        "marginTop": 28,
+        "padding": 20,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "justifyContent": "center",
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "borderColor": "hsla(220, 8%, 43.9%, 0.6)",
+            "borderRadius": 4,
+            "borderStyle": "solid",
+            "borderWidth": 0.5,
+            "height": 8,
+            "marginHorizontal": 4,
+            "overflow": "hidden",
+            "width": 8,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          style={
+            {
+              "backgroundColor": "#676D79",
+              "borderRadius": 4,
+              "height": "100%",
+              "opacity": 1,
+              "width": "100%",
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          {
+            "borderColor": "hsla(220, 8%, 43.9%, 0.6)",
+            "borderRadius": 4,
+            "borderStyle": "solid",
+            "borderWidth": 0.5,
+            "height": 8,
+            "marginHorizontal": 4,
+            "overflow": "hidden",
+            "width": 8,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          style={
+            {
+              "backgroundColor": "#676D79",
+              "borderRadius": 4,
+              "height": "100%",
+              "opacity": 0,
+              "width": "100%",
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          {
+            "borderColor": "hsla(220, 8%, 43.9%, 0.6)",
+            "borderRadius": 4,
+            "borderStyle": "solid",
+            "borderWidth": 0.5,
+            "height": 8,
+            "marginHorizontal": 4,
+            "overflow": "hidden",
+            "width": 8,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          style={
+            {
+              "backgroundColor": "#676D79",
+              "borderRadius": 4,
+              "height": "100%",
+              "opacity": 0.5,
+              "width": "100%",
+            }
+          }
+        />
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`LoadingContainer snapshot Should render the loading container correctly when an unknown variant is obtained 1`] = `
+<View
+  colors={
+    [
+      "hsla(0, 0%, 100%, 0.6)",
+      "hsla(0, 0%, 100%, 0.6)",
+    ]
+  }
+  end={
+    {
+      "x": 1,
+      "y": 1,
+    }
+  }
+  start={
+    {
+      "x": 1,
+      "y": 0,
+    }
+  }
+  style={
+    {
+      "alignItems": "center",
+      "bottom": 0,
+      "justifyContent": "center",
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+  testID="loading-container"
+>
+  <View
+    style={
+      {
+        "backgroundColor": "#F7F7F8",
+        "borderRadius": 12,
+        "padding": 20,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "justifyContent": "center",
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "borderColor": "hsla(220, 8%, 43.9%, 0.6)",
+            "borderRadius": 4,
+            "borderStyle": "solid",
+            "borderWidth": 0.5,
+            "height": 8,
+            "marginHorizontal": 4,
+            "overflow": "hidden",
+            "width": 8,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          style={
+            {
+              "backgroundColor": "#676D79",
+              "borderRadius": 4,
+              "height": "100%",
+              "opacity": 1,
+              "width": "100%",
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          {
+            "borderColor": "hsla(220, 8%, 43.9%, 0.6)",
+            "borderRadius": 4,
+            "borderStyle": "solid",
+            "borderWidth": 0.5,
+            "height": 8,
+            "marginHorizontal": 4,
+            "overflow": "hidden",
+            "width": 8,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          style={
+            {
+              "backgroundColor": "#676D79",
+              "borderRadius": 4,
+              "height": "100%",
+              "opacity": 0,
+              "width": "100%",
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          {
+            "borderColor": "hsla(220, 8%, 43.9%, 0.6)",
+            "borderRadius": 4,
+            "borderStyle": "solid",
+            "borderWidth": 0.5,
+            "height": 8,
+            "marginHorizontal": 4,
+            "overflow": "hidden",
+            "width": 8,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          style={
+            {
+              "backgroundColor": "#676D79",
+              "borderRadius": 4,
+              "height": "100%",
+              "opacity": 0.5,
+              "width": "100%",
+            }
+          }
+        />
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`LoadingContainer snapshot Should render the loading container correctly with custom colors (with text) 1`] = `
+<View
+  colors={
+    [
+      "hsla(0, 0%, 100%, 0.6)",
+      "hsla(0, 0%, 100%, 0.6)",
+    ]
+  }
+  end={
+    {
+      "x": 1,
+      "y": 1,
+    }
+  }
+  start={
+    {
+      "x": 1,
+      "y": 0,
+    }
+  }
+  style={
+    {
+      "alignItems": "flex-start",
+      "bottom": 0,
+      "justifyContent": "flex-end",
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+  testID="loading-container"
+>
+  <Text
+    allowFontScaling={false}
+    style={
+      {
+        "color": "#EF8816",
+        "flexShrink": 1,
+        "fontFamily": "Averta CY",
+        "fontSize": 40,
+        "fontWeight": "bold",
+        "letterSpacing": -0.02,
+        "lineHeight": 48,
+        "marginLeft": 28,
+      }
+    }
+  >
+    Sending
+  </Text>
+  <View
+    style={
+      {
+        "backgroundColor": "#028E39",
+        "borderRadius": 12,
+        "marginBottom": 80,
+        "marginLeft": 28,
+        "marginTop": 28,
+        "padding": 20,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "justifyContent": "center",
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "borderColor": "hsla(220, 8%, 43.9%, 0.6)",
+            "borderRadius": 4,
+            "borderStyle": "solid",
+            "borderWidth": 0.5,
+            "height": 8,
+            "marginHorizontal": 4,
+            "overflow": "hidden",
+            "width": 8,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          style={
+            {
+              "backgroundColor": "#676D79",
+              "borderRadius": 4,
+              "height": "100%",
+              "opacity": 1,
+              "width": "100%",
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          {
+            "borderColor": "hsla(220, 8%, 43.9%, 0.6)",
+            "borderRadius": 4,
+            "borderStyle": "solid",
+            "borderWidth": 0.5,
+            "height": 8,
+            "marginHorizontal": 4,
+            "overflow": "hidden",
+            "width": 8,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          style={
+            {
+              "backgroundColor": "#676D79",
+              "borderRadius": 4,
+              "height": "100%",
+              "opacity": 0,
+              "width": "100%",
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          {
+            "borderColor": "hsla(220, 8%, 43.9%, 0.6)",
+            "borderRadius": 4,
+            "borderStyle": "solid",
+            "borderWidth": 0.5,
+            "height": 8,
+            "marginHorizontal": 4,
+            "overflow": "hidden",
+            "width": 8,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          style={
+            {
+              "backgroundColor": "#676D79",
+              "borderRadius": 4,
+              "height": "100%",
+              "opacity": 0.5,
+              "width": "100%",
+            }
+          }
+        />
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`LoadingContainer snapshot Should render the loading container correctly with custom colors 1`] = `
+<View
+  colors={
+    [
+      "hsla(0, 0%, 100%, 0.6)",
+      "hsla(0, 0%, 100%, 0.6)",
+    ]
+  }
+  end={
+    {
+      "x": 1,
+      "y": 1,
+    }
+  }
+  start={
+    {
+      "x": 1,
+      "y": 0,
+    }
+  }
+  style={
+    {
+      "alignItems": "center",
+      "bottom": 0,
+      "justifyContent": "center",
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+  testID="loading-container"
+>
+  <View
+    style={
+      {
+        "backgroundColor": "#028E39",
+        "borderRadius": 12,
+        "padding": 20,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "justifyContent": "center",
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "borderColor": "hsla(220, 8%, 43.9%, 0.6)",
+            "borderRadius": 4,
+            "borderStyle": "solid",
+            "borderWidth": 0.5,
+            "height": 8,
+            "marginHorizontal": 4,
+            "overflow": "hidden",
+            "width": 8,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          style={
+            {
+              "backgroundColor": "#676D79",
+              "borderRadius": 4,
+              "height": "100%",
+              "opacity": 1,
+              "width": "100%",
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          {
+            "borderColor": "hsla(220, 8%, 43.9%, 0.6)",
+            "borderRadius": 4,
+            "borderStyle": "solid",
+            "borderWidth": 0.5,
+            "height": 8,
+            "marginHorizontal": 4,
+            "overflow": "hidden",
+            "width": 8,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          style={
+            {
+              "backgroundColor": "#676D79",
+              "borderRadius": 4,
+              "height": "100%",
+              "opacity": 0,
+              "width": "100%",
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          {
+            "borderColor": "hsla(220, 8%, 43.9%, 0.6)",
+            "borderRadius": 4,
+            "borderStyle": "solid",
+            "borderWidth": 0.5,
+            "height": 8,
+            "marginHorizontal": 4,
+            "overflow": "hidden",
+            "width": 8,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          style={
+            {
+              "backgroundColor": "#676D79",
+              "borderRadius": 4,
+              "height": "100%",
+              "opacity": 0.5,
+              "width": "100%",
+            }
+          }
+        />
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`LoadingContainer snapshot Should render the loading container with custom gradient colors 1`] = `
+<View
+  colors={
+    [
+      "#FFF1C7",
+      "#FCE8E7",
+    ]
+  }
+  end={
+    {
+      "x": 1,
+      "y": 1,
+    }
+  }
+  start={
+    {
+      "x": 1,
+      "y": 0,
+    }
+  }
+  style={
+    {
+      "alignItems": "center",
+      "bottom": 0,
+      "justifyContent": "center",
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+  testID="loading-container"
+>
+  <View
+    style={
+      {
+        "backgroundColor": "#F7F7F8",
+        "borderRadius": 12,
+        "padding": 20,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "justifyContent": "center",
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "borderColor": "hsla(220, 8%, 43.9%, 0.6)",
+            "borderRadius": 4,
+            "borderStyle": "solid",
+            "borderWidth": 0.5,
+            "height": 8,
+            "marginHorizontal": 4,
+            "overflow": "hidden",
+            "width": 8,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          style={
+            {
+              "backgroundColor": "#676D79",
+              "borderRadius": 4,
+              "height": "100%",
+              "opacity": 1,
+              "width": "100%",
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          {
+            "borderColor": "hsla(220, 8%, 43.9%, 0.6)",
+            "borderRadius": 4,
+            "borderStyle": "solid",
+            "borderWidth": 0.5,
+            "height": 8,
+            "marginHorizontal": 4,
+            "overflow": "hidden",
+            "width": 8,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          style={
+            {
+              "backgroundColor": "#676D79",
+              "borderRadius": 4,
+              "height": "100%",
+              "opacity": 0,
+              "width": "100%",
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          {
+            "borderColor": "hsla(220, 8%, 43.9%, 0.6)",
+            "borderRadius": 4,
+            "borderStyle": "solid",
+            "borderWidth": 0.5,
+            "height": 8,
+            "marginHorizontal": 4,
+            "overflow": "hidden",
+            "width": 8,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          style={
+            {
+              "backgroundColor": "#676D79",
+              "borderRadius": 4,
+              "height": "100%",
+              "opacity": 0.5,
+              "width": "100%",
+            }
+          }
+        />
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`LoadingContainer snapshot Should render the loading container with secondaryMain as the background color 1`] = `
+<View
+  colors={
+    [
+      "hsla(19.19999999999999, 84.2%, 49.6%, 0.6)",
+      "hsla(19.19999999999999, 84.2%, 49.6%, 0.6)",
+    ]
+  }
+  end={
+    {
+      "x": 1,
+      "y": 1,
+    }
+  }
+  start={
+    {
+      "x": 1,
+      "y": 0,
+    }
+  }
+  style={
+    {
+      "alignItems": "center",
+      "bottom": 0,
+      "justifyContent": "center",
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+  testID="loading-container"
+>
+  <View
+    style={
+      {
+        "backgroundColor": "#F7F7F8",
+        "borderRadius": 12,
+        "padding": 20,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "justifyContent": "center",
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "borderColor": "hsla(220, 8%, 43.9%, 0.6)",
+            "borderRadius": 4,
+            "borderStyle": "solid",
+            "borderWidth": 0.5,
+            "height": 8,
+            "marginHorizontal": 4,
+            "overflow": "hidden",
+            "width": 8,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          style={
+            {
+              "backgroundColor": "#676D79",
+              "borderRadius": 4,
+              "height": "100%",
+              "opacity": 1,
+              "width": "100%",
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          {
+            "borderColor": "hsla(220, 8%, 43.9%, 0.6)",
+            "borderRadius": 4,
+            "borderStyle": "solid",
+            "borderWidth": 0.5,
+            "height": 8,
+            "marginHorizontal": 4,
+            "overflow": "hidden",
+            "width": 8,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          style={
+            {
+              "backgroundColor": "#676D79",
+              "borderRadius": 4,
+              "height": "100%",
+              "opacity": 0,
+              "width": "100%",
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          {
+            "borderColor": "hsla(220, 8%, 43.9%, 0.6)",
+            "borderRadius": 4,
+            "borderStyle": "solid",
+            "borderWidth": 0.5,
+            "height": 8,
+            "marginHorizontal": 4,
+            "overflow": "hidden",
+            "width": 8,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          style={
+            {
+              "backgroundColor": "#676D79",
+              "borderRadius": 4,
+              "height": "100%",
+              "opacity": 0.5,
+              "width": "100%",
+            }
+          }
+        />
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`LoadingContainer snapshot Should render the loading container with text 1`] = `
+<View
+  colors={
+    [
+      "hsla(0, 0%, 100%, 0.6)",
+      "hsla(0, 0%, 100%, 0.6)",
+    ]
+  }
+  end={
+    {
+      "x": 1,
+      "y": 1,
+    }
+  }
+  start={
+    {
+      "x": 1,
+      "y": 0,
+    }
+  }
+  style={
+    {
+      "alignItems": "flex-start",
+      "bottom": 0,
+      "justifyContent": "flex-end",
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+  testID="loading-container"
+>
+  <Text
+    allowFontScaling={false}
+    style={
+      {
+        "color": "#3E4149",
+        "flexShrink": 1,
+        "fontFamily": "Averta CY",
+        "fontSize": 40,
+        "fontWeight": "bold",
+        "letterSpacing": -0.02,
+        "lineHeight": 48,
+        "marginLeft": 28,
+      }
+    }
+  >
+    Sending data
+  </Text>
+  <View
+    style={
+      {
+        "backgroundColor": "#F7F7F8",
+        "borderRadius": 12,
+        "marginBottom": 80,
+        "marginLeft": 28,
+        "marginTop": 28,
+        "padding": 20,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "justifyContent": "center",
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "borderColor": "hsla(220, 8%, 43.9%, 0.6)",
+            "borderRadius": 4,
+            "borderStyle": "solid",
+            "borderWidth": 0.5,
+            "height": 8,
+            "marginHorizontal": 4,
+            "overflow": "hidden",
+            "width": 8,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          style={
+            {
+              "backgroundColor": "#676D79",
+              "borderRadius": 4,
+              "height": "100%",
+              "opacity": 1,
+              "width": "100%",
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          {
+            "borderColor": "hsla(220, 8%, 43.9%, 0.6)",
+            "borderRadius": 4,
+            "borderStyle": "solid",
+            "borderWidth": 0.5,
+            "height": 8,
+            "marginHorizontal": 4,
+            "overflow": "hidden",
+            "width": 8,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          style={
+            {
+              "backgroundColor": "#676D79",
+              "borderRadius": 4,
+              "height": "100%",
+              "opacity": 0,
+              "width": "100%",
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          {
+            "borderColor": "hsla(220, 8%, 43.9%, 0.6)",
+            "borderRadius": 4,
+            "borderStyle": "solid",
+            "borderWidth": 0.5,
+            "height": 8,
+            "marginHorizontal": 4,
+            "overflow": "hidden",
+            "width": 8,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          style={
+            {
+              "backgroundColor": "#676D79",
+              "borderRadius": 4,
+              "height": "100%",
+              "opacity": 0.5,
+              "width": "100%",
+            }
+          }
+        />
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`LoadingContainer snapshot Should render the loading text with the secondaryMain as color 1`] = `
+<View
+  colors={
+    [
+      "hsla(0, 0%, 100%, 0.6)",
+      "hsla(0, 0%, 100%, 0.6)",
+    ]
+  }
+  end={
+    {
+      "x": 1,
+      "y": 1,
+    }
+  }
+  start={
+    {
+      "x": 1,
+      "y": 0,
+    }
+  }
+  style={
+    {
+      "alignItems": "center",
+      "bottom": 0,
+      "justifyContent": "center",
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+  testID="loading-container"
+>
+  <View
+    style={
+      {
+        "backgroundColor": "#F7F7F8",
+        "borderRadius": 12,
+        "padding": 20,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "justifyContent": "center",
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "borderColor": "hsla(220, 8%, 43.9%, 0.6)",
+            "borderRadius": 4,
+            "borderStyle": "solid",
+            "borderWidth": 0.5,
+            "height": 8,
+            "marginHorizontal": 4,
+            "overflow": "hidden",
+            "width": 8,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          style={
+            {
+              "backgroundColor": "#676D79",
+              "borderRadius": 4,
+              "height": "100%",
+              "opacity": 1,
+              "width": "100%",
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          {
+            "borderColor": "hsla(220, 8%, 43.9%, 0.6)",
+            "borderRadius": 4,
+            "borderStyle": "solid",
+            "borderWidth": 0.5,
+            "height": 8,
+            "marginHorizontal": 4,
+            "overflow": "hidden",
+            "width": 8,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          style={
+            {
+              "backgroundColor": "#676D79",
+              "borderRadius": 4,
+              "height": "100%",
+              "opacity": 0,
+              "width": "100%",
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          {
+            "borderColor": "hsla(220, 8%, 43.9%, 0.6)",
+            "borderRadius": 4,
+            "borderStyle": "solid",
+            "borderWidth": 0.5,
+            "height": 8,
+            "marginHorizontal": 4,
+            "overflow": "hidden",
+            "width": 8,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          style={
+            {
+              "backgroundColor": "#676D79",
+              "borderRadius": 4,
+              "height": "100%",
+              "opacity": 0.5,
+              "width": "100%",
+            }
+          }
+        />
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`LoadingContainer snapshot Should render the secondary variant 1`] = `
+<View
+  colors={
+    [
+      "#F29B72",
+      "#E95814",
+    ]
+  }
+  end={
+    {
+      "x": 1,
+      "y": 1,
+    }
+  }
+  start={
+    {
+      "x": 1,
+      "y": 0,
+    }
+  }
+  style={
+    {
+      "alignItems": "center",
+      "bottom": 0,
+      "justifyContent": "center",
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+  testID="loading-container"
+>
+  <View
+    style={
+      {
+        "backgroundColor": "#F29B72",
+        "borderRadius": 12,
+        "padding": 20,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "justifyContent": "center",
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "borderColor": "hsla(0, 0%, 100%, 0.6)",
+            "borderRadius": 4,
+            "borderStyle": "solid",
+            "borderWidth": 0.5,
+            "height": 8,
+            "marginHorizontal": 4,
+            "overflow": "hidden",
+            "width": 8,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          style={
+            {
+              "backgroundColor": "#FFFFFF",
+              "borderRadius": 4,
+              "height": "100%",
+              "opacity": 1,
+              "width": "100%",
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          {
+            "borderColor": "hsla(0, 0%, 100%, 0.6)",
+            "borderRadius": 4,
+            "borderStyle": "solid",
+            "borderWidth": 0.5,
+            "height": 8,
+            "marginHorizontal": 4,
+            "overflow": "hidden",
+            "width": 8,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          style={
+            {
+              "backgroundColor": "#FFFFFF",
+              "borderRadius": 4,
+              "height": "100%",
+              "opacity": 0,
+              "width": "100%",
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          {
+            "borderColor": "hsla(0, 0%, 100%, 0.6)",
+            "borderRadius": 4,
+            "borderStyle": "solid",
+            "borderWidth": 0.5,
+            "height": 8,
+            "marginHorizontal": 4,
+            "overflow": "hidden",
+            "width": 8,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          style={
+            {
+              "backgroundColor": "#FFFFFF",
+              "borderRadius": 4,
+              "height": "100%",
+              "opacity": 0.5,
+              "width": "100%",
+            }
+          }
+        />
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`LoadingContainer snapshot Should render the secondary variant with Text 1`] = `
+<View
+  colors={
+    [
+      "#F29B72",
+      "#E95814",
+    ]
+  }
+  end={
+    {
+      "x": 1,
+      "y": 1,
+    }
+  }
+  start={
+    {
+      "x": 1,
+      "y": 0,
+    }
+  }
+  style={
+    {
+      "alignItems": "flex-start",
+      "bottom": 0,
+      "justifyContent": "flex-end",
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+  testID="loading-container"
+>
+  <Text
+    allowFontScaling={false}
+    style={
+      {
+        "color": "#FFFFFF",
+        "flexShrink": 1,
+        "fontFamily": "Averta CY",
+        "fontSize": 40,
+        "fontWeight": "bold",
+        "letterSpacing": -0.02,
+        "lineHeight": 48,
+        "marginLeft": 28,
+      }
+    }
+  >
+    Sending
+  </Text>
+  <View
+    style={
+      {
+        "backgroundColor": "#F29B72",
+        "borderRadius": 12,
+        "marginBottom": 80,
+        "marginLeft": 28,
+        "marginTop": 28,
+        "padding": 20,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "justifyContent": "center",
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "borderColor": "hsla(0, 0%, 100%, 0.6)",
+            "borderRadius": 4,
+            "borderStyle": "solid",
+            "borderWidth": 0.5,
+            "height": 8,
+            "marginHorizontal": 4,
+            "overflow": "hidden",
+            "width": 8,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          style={
+            {
+              "backgroundColor": "#FFFFFF",
+              "borderRadius": 4,
+              "height": "100%",
+              "opacity": 1,
+              "width": "100%",
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          {
+            "borderColor": "hsla(0, 0%, 100%, 0.6)",
+            "borderRadius": 4,
+            "borderStyle": "solid",
+            "borderWidth": 0.5,
+            "height": 8,
+            "marginHorizontal": 4,
+            "overflow": "hidden",
+            "width": 8,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          style={
+            {
+              "backgroundColor": "#FFFFFF",
+              "borderRadius": 4,
+              "height": "100%",
+              "opacity": 0,
+              "width": "100%",
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          {
+            "borderColor": "hsla(0, 0%, 100%, 0.6)",
+            "borderRadius": 4,
+            "borderStyle": "solid",
+            "borderWidth": 0.5,
+            "height": 8,
+            "marginHorizontal": 4,
+            "overflow": "hidden",
+            "width": 8,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          style={
+            {
+              "backgroundColor": "#FFFFFF",
+              "borderRadius": 4,
+              "height": "100%",
+              "opacity": 0.5,
+              "width": "100%",
+            }
+          }
+        />
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`LoadingContainer snapshot Should render the white variant 1`] = `
+<View
+  colors={
+    [
+      "#FFFFFF",
+      "#FFFFFF",
+    ]
+  }
+  end={
+    {
+      "x": 1,
+      "y": 1,
+    }
+  }
+  start={
+    {
+      "x": 1,
+      "y": 0,
+    }
+  }
+  style={
+    {
+      "alignItems": "center",
+      "bottom": 0,
+      "justifyContent": "center",
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+  testID="loading-container"
+>
+  <View
+    style={
+      {
+        "backgroundColor": "#F7F7F8",
+        "borderRadius": 12,
+        "padding": 20,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "justifyContent": "center",
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "borderColor": "hsla(220, 8%, 43.9%, 0.6)",
+            "borderRadius": 4,
+            "borderStyle": "solid",
+            "borderWidth": 0.5,
+            "height": 8,
+            "marginHorizontal": 4,
+            "overflow": "hidden",
+            "width": 8,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          style={
+            {
+              "backgroundColor": "#676D79",
+              "borderRadius": 4,
+              "height": "100%",
+              "opacity": 1,
+              "width": "100%",
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          {
+            "borderColor": "hsla(220, 8%, 43.9%, 0.6)",
+            "borderRadius": 4,
+            "borderStyle": "solid",
+            "borderWidth": 0.5,
+            "height": 8,
+            "marginHorizontal": 4,
+            "overflow": "hidden",
+            "width": 8,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          style={
+            {
+              "backgroundColor": "#676D79",
+              "borderRadius": 4,
+              "height": "100%",
+              "opacity": 0,
+              "width": "100%",
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          {
+            "borderColor": "hsla(220, 8%, 43.9%, 0.6)",
+            "borderRadius": 4,
+            "borderStyle": "solid",
+            "borderWidth": 0.5,
+            "height": 8,
+            "marginHorizontal": 4,
+            "overflow": "hidden",
+            "width": 8,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          style={
+            {
+              "backgroundColor": "#676D79",
+              "borderRadius": 4,
+              "height": "100%",
+              "opacity": 0.5,
+              "width": "100%",
+            }
+          }
+        />
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`LoadingContainer snapshot Should render the white variant with Text 1`] = `
+<View
+  colors={
+    [
+      "#FFFFFF",
+      "#FFFFFF",
+    ]
+  }
+  end={
+    {
+      "x": 1,
+      "y": 1,
+    }
+  }
+  start={
+    {
+      "x": 1,
+      "y": 0,
+    }
+  }
+  style={
+    {
+      "alignItems": "flex-start",
+      "bottom": 0,
+      "justifyContent": "flex-end",
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+  testID="loading-container"
+>
+  <Text
+    allowFontScaling={false}
+    style={
+      {
+        "color": "#3E4149",
+        "flexShrink": 1,
+        "fontFamily": "Averta CY",
+        "fontSize": 40,
+        "fontWeight": "bold",
+        "letterSpacing": -0.02,
+        "lineHeight": 48,
+        "marginLeft": 28,
+      }
+    }
+  >
+    Sending
+  </Text>
+  <View
+    style={
+      {
+        "backgroundColor": "#F7F7F8",
+        "borderRadius": 12,
+        "marginBottom": 80,
+        "marginLeft": 28,
+        "marginTop": 28,
+        "padding": 20,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "justifyContent": "center",
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "borderColor": "hsla(220, 8%, 43.9%, 0.6)",
+            "borderRadius": 4,
+            "borderStyle": "solid",
+            "borderWidth": 0.5,
+            "height": 8,
+            "marginHorizontal": 4,
+            "overflow": "hidden",
+            "width": 8,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          style={
+            {
+              "backgroundColor": "#676D79",
+              "borderRadius": 4,
+              "height": "100%",
+              "opacity": 1,
+              "width": "100%",
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          {
+            "borderColor": "hsla(220, 8%, 43.9%, 0.6)",
+            "borderRadius": 4,
+            "borderStyle": "solid",
+            "borderWidth": 0.5,
+            "height": 8,
+            "marginHorizontal": 4,
+            "overflow": "hidden",
+            "width": 8,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          style={
+            {
+              "backgroundColor": "#676D79",
+              "borderRadius": 4,
+              "height": "100%",
+              "opacity": 0,
+              "width": "100%",
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          {
+            "borderColor": "hsla(220, 8%, 43.9%, 0.6)",
+            "borderRadius": 4,
+            "borderStyle": "solid",
+            "borderWidth": 0.5,
+            "height": 8,
+            "marginHorizontal": 4,
+            "overflow": "hidden",
+            "width": 8,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          style={
+            {
+              "backgroundColor": "#676D79",
+              "borderRadius": 4,
+              "height": "100%",
+              "opacity": 0.5,
+              "width": "100%",
+            }
+          }
+        />
+      </View>
+    </View>
+  </View>
+</View>
+`;

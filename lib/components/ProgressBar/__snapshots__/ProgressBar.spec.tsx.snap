@@ -1,0 +1,139 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProgressBar snapshots 50% in progress 1`] = `
+<View
+  style={
+    {
+      "backgroundColor": "#F7F7F8",
+      "borderColor": "#F7F7F8",
+      "borderRadius": 6,
+      "borderWidth": 2,
+      "height": 12,
+      "justifyContent": "center",
+      "overflow": "hidden",
+    }
+  }
+  testID="progress-bar-container"
+>
+  <View
+    colors={
+      [
+        "#2453A9",
+        "#013188",
+      ]
+    }
+    end={
+      {
+        "x": 1,
+        "y": 0,
+      }
+    }
+    start={
+      {
+        "x": 0,
+        "y": 0,
+      }
+    }
+    style={
+      {
+        "borderRadius": 50,
+        "height": "100%",
+        "width": "50%",
+      }
+    }
+    testID="progress-linear-gradient"
+  />
+</View>
+`;
+
+exports[`ProgressBar snapshots 100% in progress 1`] = `
+<View
+  style={
+    {
+      "backgroundColor": "#F7F7F8",
+      "borderColor": "#F7F7F8",
+      "borderRadius": 6,
+      "borderWidth": 2,
+      "height": 12,
+      "justifyContent": "center",
+      "overflow": "hidden",
+    }
+  }
+  testID="progress-bar-container"
+>
+  <View
+    colors={
+      [
+        "#2453A9",
+        "#013188",
+      ]
+    }
+    end={
+      {
+        "x": 1,
+        "y": 0,
+      }
+    }
+    start={
+      {
+        "x": 0,
+        "y": 0,
+      }
+    }
+    style={
+      {
+        "borderRadius": 50,
+        "height": "100%",
+        "width": "100%",
+      }
+    }
+    testID="progress-linear-gradient"
+  />
+</View>
+`;
+
+exports[`ProgressBar snapshots default 1`] = `
+<View
+  style={
+    {
+      "backgroundColor": "#F7F7F8",
+      "borderColor": "#F7F7F8",
+      "borderRadius": 6,
+      "borderWidth": 2,
+      "height": 12,
+      "justifyContent": "center",
+      "overflow": "hidden",
+    }
+  }
+  testID="progress-bar-container"
+>
+  <View
+    colors={
+      [
+        "#2453A9",
+        "#013188",
+      ]
+    }
+    end={
+      {
+        "x": 1,
+        "y": 0,
+      }
+    }
+    start={
+      {
+        "x": 0,
+        "y": 0,
+      }
+    }
+    style={
+      {
+        "borderRadius": 50,
+        "height": "100%",
+        "width": "0%",
+      }
+    }
+    testID="progress-linear-gradient"
+  />
+</View>
+`;

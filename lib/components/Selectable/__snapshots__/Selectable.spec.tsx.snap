@@ -1,0 +1,985 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Selectable Should render all items, with none selected 1`] = `
+<View
+  style={
+    {
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+    }
+  }
+  testID="selectable-button-group"
+>
+  <View
+    style={
+      {
+        "marginBottom": 12,
+        "marginRight": 12,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "flexDirection": "row",
+        }
+      }
+      testID="container-button"
+    >
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "alignItems": "center",
+            "backgroundColor": "transparent",
+            "borderColor": "#E1E2E4",
+            "borderRadius": 12,
+            "borderWidth": 1,
+            "display": "flex",
+            "height": 48,
+            "justifyContent": "center",
+            "minWidth": 48,
+            "opacity": 1,
+            "paddingHorizontal": 16,
+          }
+        }
+        testID="selectable-button-item-0"
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 16,
+              "fontWeight": "bold",
+              "letterSpacing": -0.02,
+              "lineHeight": 19,
+            }
+          }
+          testID="text-with-icon"
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              {
+                "color": "#676D79",
+                "flexShrink": 1,
+                "fontFamily": "Averta CY",
+                "fontSize": 13,
+                "fontWeight": "bold",
+                "letterSpacing": -0.02,
+                "lineHeight": 17,
+              }
+            }
+          >
+            Conta corrente / Movimentação
+          </Text>
+        </Text>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "marginBottom": 12,
+        "marginRight": 12,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "flexDirection": "row",
+        }
+      }
+      testID="container-button"
+    >
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "alignItems": "center",
+            "backgroundColor": "transparent",
+            "borderColor": "#E1E2E4",
+            "borderRadius": 12,
+            "borderWidth": 1,
+            "display": "flex",
+            "height": 48,
+            "justifyContent": "center",
+            "minWidth": 48,
+            "opacity": 1,
+            "paddingHorizontal": 16,
+          }
+        }
+        testID="selectable-button-item-1"
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 16,
+              "fontWeight": "bold",
+              "letterSpacing": -0.02,
+              "lineHeight": 19,
+            }
+          }
+          testID="text-with-icon"
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              {
+                "color": "#676D79",
+                "flexShrink": 1,
+                "fontFamily": "Averta CY",
+                "fontSize": 13,
+                "fontWeight": "bold",
+                "letterSpacing": -0.02,
+                "lineHeight": 17,
+              }
+            }
+          >
+            Investimento
+          </Text>
+        </Text>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "marginBottom": 12,
+        "marginRight": 12,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "flexDirection": "row",
+        }
+      }
+      testID="container-button"
+    >
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "alignItems": "center",
+            "backgroundColor": "transparent",
+            "borderColor": "#E1E2E4",
+            "borderRadius": 12,
+            "borderWidth": 1,
+            "display": "flex",
+            "height": 48,
+            "justifyContent": "center",
+            "minWidth": 48,
+            "opacity": 1,
+            "paddingHorizontal": 16,
+          }
+        }
+        testID="selectable-button-item-2"
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 16,
+              "fontWeight": "bold",
+              "letterSpacing": -0.02,
+              "lineHeight": 19,
+            }
+          }
+          testID="text-with-icon"
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              {
+                "color": "#676D79",
+                "flexShrink": 1,
+                "fontFamily": "Averta CY",
+                "fontSize": 13,
+                "fontWeight": "bold",
+                "letterSpacing": -0.02,
+                "lineHeight": 17,
+              }
+            }
+          >
+            Operação de Crédito
+          </Text>
+        </Text>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "marginBottom": 12,
+        "marginRight": 12,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "flexDirection": "row",
+        }
+      }
+      testID="container-button"
+    >
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "alignItems": "center",
+            "backgroundColor": "transparent",
+            "borderColor": "#E1E2E4",
+            "borderRadius": 12,
+            "borderWidth": 1,
+            "display": "flex",
+            "height": 48,
+            "justifyContent": "center",
+            "minWidth": 48,
+            "opacity": 1,
+            "paddingHorizontal": 16,
+          }
+        }
+        testID="selectable-button-item-3"
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 16,
+              "fontWeight": "bold",
+              "letterSpacing": -0.02,
+              "lineHeight": 19,
+            }
+          }
+          testID="text-with-icon"
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              {
+                "color": "#676D79",
+                "flexShrink": 1,
+                "fontFamily": "Averta CY",
+                "fontSize": 13,
+                "fontWeight": "bold",
+                "letterSpacing": -0.02,
+                "lineHeight": 17,
+              }
+            }
+          >
+            Produtos / Serviços
+          </Text>
+        </Text>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "marginBottom": 12,
+        "marginRight": 12,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "flexDirection": "row",
+        }
+      }
+      testID="container-button"
+    >
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "alignItems": "center",
+            "backgroundColor": "transparent",
+            "borderColor": "#E1E2E4",
+            "borderRadius": 12,
+            "borderWidth": 1,
+            "display": "flex",
+            "height": 48,
+            "justifyContent": "center",
+            "minWidth": 48,
+            "opacity": 1,
+            "paddingHorizontal": 16,
+          }
+        }
+        testID="selectable-button-item-4"
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 16,
+              "fontWeight": "bold",
+              "letterSpacing": -0.02,
+              "lineHeight": 19,
+            }
+          }
+          testID="text-with-icon"
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              {
+                "color": "#676D79",
+                "flexShrink": 1,
+                "fontFamily": "Averta CY",
+                "fontSize": 13,
+                "fontWeight": "bold",
+                "letterSpacing": -0.02,
+                "lineHeight": 17,
+              }
+            }
+          >
+            Outros
+          </Text>
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Selectable Should render all items, with the first two selected 1`] = `
+<View
+  style={
+    {
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+    }
+  }
+  testID="selectable-button-group"
+>
+  <View
+    style={
+      {
+        "marginBottom": 12,
+        "marginRight": 12,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "flexDirection": "row",
+        }
+      }
+      testID="container-button"
+    >
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "alignItems": "center",
+            "backgroundColor": "#C6D3EA",
+            "borderRadius": 12,
+            "borderWidth": 0,
+            "display": "flex",
+            "height": 48,
+            "justifyContent": "center",
+            "minWidth": 48,
+            "opacity": 1,
+            "paddingHorizontal": 16,
+          }
+        }
+        testID="selectable-button-item-0"
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#013188",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 16,
+              "fontWeight": "bold",
+              "letterSpacing": -0.02,
+              "lineHeight": 19,
+            }
+          }
+          testID="text-with-icon"
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              {
+                "color": "#013188",
+                "flexShrink": 1,
+                "fontFamily": "Averta CY",
+                "fontSize": 13,
+                "fontWeight": "bold",
+                "letterSpacing": -0.02,
+                "lineHeight": 17,
+              }
+            }
+          >
+            Conta corrente / Movimentação
+          </Text>
+        </Text>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "marginBottom": 12,
+        "marginRight": 12,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "flexDirection": "row",
+        }
+      }
+      testID="container-button"
+    >
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "alignItems": "center",
+            "backgroundColor": "#C6D3EA",
+            "borderRadius": 12,
+            "borderWidth": 0,
+            "display": "flex",
+            "height": 48,
+            "justifyContent": "center",
+            "minWidth": 48,
+            "opacity": 1,
+            "paddingHorizontal": 16,
+          }
+        }
+        testID="selectable-button-item-1"
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#013188",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 16,
+              "fontWeight": "bold",
+              "letterSpacing": -0.02,
+              "lineHeight": 19,
+            }
+          }
+          testID="text-with-icon"
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              {
+                "color": "#013188",
+                "flexShrink": 1,
+                "fontFamily": "Averta CY",
+                "fontSize": 13,
+                "fontWeight": "bold",
+                "letterSpacing": -0.02,
+                "lineHeight": 17,
+              }
+            }
+          >
+            Investimento
+          </Text>
+        </Text>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "marginBottom": 12,
+        "marginRight": 12,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "flexDirection": "row",
+        }
+      }
+      testID="container-button"
+    >
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "alignItems": "center",
+            "backgroundColor": "transparent",
+            "borderColor": "#E1E2E4",
+            "borderRadius": 12,
+            "borderWidth": 1,
+            "display": "flex",
+            "height": 48,
+            "justifyContent": "center",
+            "minWidth": 48,
+            "opacity": 1,
+            "paddingHorizontal": 16,
+          }
+        }
+        testID="selectable-button-item-2"
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 16,
+              "fontWeight": "bold",
+              "letterSpacing": -0.02,
+              "lineHeight": 19,
+            }
+          }
+          testID="text-with-icon"
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              {
+                "color": "#676D79",
+                "flexShrink": 1,
+                "fontFamily": "Averta CY",
+                "fontSize": 13,
+                "fontWeight": "bold",
+                "letterSpacing": -0.02,
+                "lineHeight": 17,
+              }
+            }
+          >
+            Operação de Crédito
+          </Text>
+        </Text>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "marginBottom": 12,
+        "marginRight": 12,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "flexDirection": "row",
+        }
+      }
+      testID="container-button"
+    >
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "alignItems": "center",
+            "backgroundColor": "transparent",
+            "borderColor": "#E1E2E4",
+            "borderRadius": 12,
+            "borderWidth": 1,
+            "display": "flex",
+            "height": 48,
+            "justifyContent": "center",
+            "minWidth": 48,
+            "opacity": 1,
+            "paddingHorizontal": 16,
+          }
+        }
+        testID="selectable-button-item-3"
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 16,
+              "fontWeight": "bold",
+              "letterSpacing": -0.02,
+              "lineHeight": 19,
+            }
+          }
+          testID="text-with-icon"
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              {
+                "color": "#676D79",
+                "flexShrink": 1,
+                "fontFamily": "Averta CY",
+                "fontSize": 13,
+                "fontWeight": "bold",
+                "letterSpacing": -0.02,
+                "lineHeight": 17,
+              }
+            }
+          >
+            Produtos / Serviços
+          </Text>
+        </Text>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "marginBottom": 12,
+        "marginRight": 12,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "flexDirection": "row",
+        }
+      }
+      testID="container-button"
+    >
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "alignItems": "center",
+            "backgroundColor": "transparent",
+            "borderColor": "#E1E2E4",
+            "borderRadius": 12,
+            "borderWidth": 1,
+            "display": "flex",
+            "height": 48,
+            "justifyContent": "center",
+            "minWidth": 48,
+            "opacity": 1,
+            "paddingHorizontal": 16,
+          }
+        }
+        testID="selectable-button-item-4"
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            {
+              "color": "#676D79",
+              "flexShrink": 1,
+              "fontFamily": "Averta CY",
+              "fontSize": 16,
+              "fontWeight": "bold",
+              "letterSpacing": -0.02,
+              "lineHeight": 19,
+            }
+          }
+          testID="text-with-icon"
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              {
+                "color": "#676D79",
+                "flexShrink": 1,
+                "fontFamily": "Averta CY",
+                "fontSize": 13,
+                "fontWeight": "bold",
+                "letterSpacing": -0.02,
+                "lineHeight": 17,
+              }
+            }
+          >
+            Outros
+          </Text>
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;
