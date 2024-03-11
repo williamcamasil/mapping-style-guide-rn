@@ -1,16 +1,22 @@
 import * as React from 'react';
-import { StatusBar } from 'react-native';
+import { StatusBar, StyleSheet } from 'react-native';
 
 import { AppProvider } from 'mapping-context-rn';
 
 import {
   Container,
   DefaultTheme,
-  Spacer,
   Text,
   ThemeProvider,
 } from '../lib';
 import ModalProvider from '../lib/components/Modal/ModalProvider';
+
+const styles = StyleSheet.create({
+  container: {
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+});
 
 function App() {
   return (
@@ -21,8 +27,7 @@ function App() {
             translucent={false}
             backgroundColor={DefaultTheme.colors.secondaryMain}
           />
-          <Container padding={DefaultTheme.spacings.lLarge}>
-            <Spacer size={DefaultTheme.spacings.lGiant} />
+          <Container style={styles.container}>
             <Text weight="bold">Mapping Style Guide</Text>
           </Container>
 

@@ -106,6 +106,14 @@
 			name = MappingStyleGuideRn;
 			sourceTree = "<group>";
 		};
+		234B36608A3B4001AD415FEC /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Resources;
+			path = "";
+			sourceTree = "<group>";
+		};
 		25EE1737B4A0EFDD7921B0AE /* ExpoModulesProviders */ = {
 			isa = PBXGroup;
 			children = (
@@ -187,14 +195,6 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
-		};
-		234B36608A3B4001AD415FEC /* Resources */ = {
-			isa = "PBXGroup";
-			children = (
-			);
-			name = Resources;
-			sourceTree = "<group>";
-			path = "";
 		};
 /* End PBXGroup section */
 
